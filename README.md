@@ -55,7 +55,6 @@ The Scrolls script currently requires the processed client data to be provided t
 ## Usage
 1. Open the `main.ipynb` notebook.
 2. Provide the required parameters in the first cell 
-
 Required params:
   - country
   - geo_level
