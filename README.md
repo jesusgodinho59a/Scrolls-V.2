@@ -7,11 +7,10 @@ V.2 of Scrolls aims to enhance the efficiency and usability of the existing scri
 ## Features
 - **Diverse Country Analysis:** Create custom business proposal banners tailored to various countries and regions.
 - **Customisation Flexibility:** Easily customise script behavior using the scrolls notebook without code changes.
-- **HTML Integration with Python:** Utilise Selenium and Chrome driver to render HTML files containing high-resolution images.
-- **Error-handling:** Gracefully handle errors, providing meaningful messages and recovery options.
-- **Grid Mapping:** Automatically generate mapping files for postcode districts onto a grid.
-- **Custom Shapefiles:** Add custom shapefiles for client-specific geographies.
-- **In-house Image Scaling:** Utilize Python image processing libraries for image re-scaling.
+- **HTML Integration with Python:** Utilisation of the Selenium Chrome driver to render HTML files containing high-resolution images.
+- **Error-handling:** Gracefully handles errors, providing meaningful messages and recovery options.
+- **Grid Mapping:** Automatically generates mapping files for postcode districts onto a grid.
+- **In-house Image Scaling:** Utilises Python image processing libraries for image re-scaling.
 
 ## Prerequisites
 - Python 3.x
