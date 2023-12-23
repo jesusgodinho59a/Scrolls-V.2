@@ -1,0 +1,48 @@
+.container-scroll-2, .container-scroll-3{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+html,body{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
+p{
+    margin: 5px;
+}
+
+th { padding: 5px; font-weight: bold; border-bottom: 2px solid black; width: 20px;}
+th, td { height: 50px; }
+td { padding: 5px;  border-bottom: 1px solid black;}
+
+table{
+    border: 1px solid black;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+table td{
+    text-align: center;
+}
+
+.tier-1{
+    background: #F77904;
+}
+.tier-2{
+    background: #FDC18A;
+}
+.tier-3{
+    background:#F7F5EE;
+}
+.tier-4{
+    background: #A8BED7;
+}
+.tier-5{
+    background:#263B52;
+    color: white;
+}

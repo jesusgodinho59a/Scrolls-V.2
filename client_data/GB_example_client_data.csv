@@ -1,0 +1,2870 @@
+district,bid multiplier,households of 4,population - 16 to 24,population - 25 to 44,supermarkets,convenience stores,football stadiums,music Venues,meta,google trends,location - postal area,tier
+KW12,0.81,"1,164",128,371,-,1,Low,-,"1,000",Low,Kirkwall,5
+KW13,0.81,"1,384",158,359,-,-,Low,-,"1,000",Low,Kirkwall,5
+KW14,0.85,"9,456","1,216","3,007",1,4,Low,-,"4,733",Low,Kirkwall,4
+KW2,0.81,-,-,-,-,-,Low,-,"1,000",Low,Kirkwall,5
+KW3,0.81,864,86,210,-,3,Low,-,"1,000",Low,Kirkwall,5
+KW5,0.81,-,-,-,-,-,Low,-,"1,000",Low,Kirkwall,5
+KW1,0.86,"8,480","1,199","2,624",1,3,Low,-,"4,350",Medium,Kirkwall,4
+HS7,0.81,"1,104",121,366,1,1,Low,-,"1,000",Low,Outer Hebrides,5
+HS4,0.81,-,-,-,-,-,Low,-,"1,000",Low,Outer Hebrides,5
+HS5,0.81,-,-,-,-,-,Low,-,"1,000",Low,Outer Hebrides,5
+HS6,0.81,"1,216",139,295,1,-,Low,-,"1,000",Low,Outer Hebrides,5
+HS1,0.82,"4,184",523,"1,301",1,8,Low,-,"2,083",Low,Outer Hebrides,5
+HS2,0.85,"11,900","1,216","3,287",-,6,Low,-,"4,633",Low,Outer Hebrides,4
+HS3,0.81,"1,296",147,365,-,-,Low,-,"1,000",Low,Outer Hebrides,5
+IV51,0.83,"3,876",433,"1,117",2,3,Medium,-,"2,567",Low,Inverness,5
+IV55,0.82,"1,360",140,342,-,2,Medium,-,"1,000",Low,Inverness,5
+IV21,0.82,736,57,196,-,3,Medium,-,"1,000",Low,Inverness,5
+IV22,0.82,"1,448",144,382,-,1,Medium,-,"1,000",Low,Inverness,5
+IV23,0.82,-,-,-,-,1,Medium,-,"1,000",Low,Inverness,5
+IV26,0.82,"1,412",153,419,-,1,Medium,-,"1,183",Low,Inverness,5
+IV10,0.82,"2,512",289,627,1,-,Medium,-,"1,000",Low,Inverness,5
+IV11,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV18,0.83,"4,608",635,"1,367",-,2,Medium,1,"2,533",Low,Inverness,5
+IV19,0.83,"3,836",497,"1,115",1,3,Medium,-,"1,633",Medium,Inverness,5
+IV25,0.82,"1,672",213,492,1,-,Medium,-,"1,083",Low,Inverness,5
+IV28,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV8,0.81,-,-,-,1,1,Medium,-,"1,000",Low,Inverness,5
+IV9,0.82,"1,728",186,506,1,-,Medium,-,"1,000",Medium,Inverness,5
+IV14,0.82,"1,704",188,451,-,-,Medium,1,"1,000",Low,Inverness,5
+IV15,0.83,"4,932",606,"1,452",1,-,Medium,-,"2,150",Low,Inverness,5
+IV16,0.82,"1,516",169,457,1,1,Medium,-,"1,000",Medium,Inverness,5
+IV17,0.84,"5,460",675,"1,649",1,2,Medium,-,"2,950",Low,Inverness,5
+IV24,0.82,964,104,243,-,1,Medium,-,"1,000",Low,Inverness,5
+IV27,0.82,"2,428",259,691,-,2,Medium,-,"1,133",Low,Inverness,5
+IV7,0.83,"4,320",539,"1,177",1,-,Medium,-,"2,400",Low,Inverness,5
+KW10,0.81,"1,168",157,316,1,3,Low,-,"1,000",Low,Kirkwall,5
+KW9,0.81,"1,228",174,301,1,2,Low,-,"1,000",Low,Kirkwall,5
+KW11,0.81,-,-,-,-,-,Low,-,"1,000",Low,Kirkwall,5
+IV30,0.98,"26,560","3,431","9,027",7,14,Medium,-,"16,117",Medium,Inverness,2
+IV31,0.84,"6,148",820,"2,081",1,-,Medium,1,"3,100",Medium,Inverness,4
+IV20,0.82,"2,108",264,649,-,1,Medium,-,"1,133",Low,Inverness,5
+IV32,0.82,"3,428",405,"1,001",2,2,Medium,-,"1,950",Low,Inverness,5
+KW6,0.81,-,-,-,-,1,Low,-,"1,000",Low,Kirkwall,5
+KW7,0.81,-,-,-,-,-,Low,-,"1,000",Low,Kirkwall,5
+KW8,0.81,-,-,-,-,-,Low,-,"1,000",Low,Kirkwall,5
+AB44,0.82,"3,016",463,"1,010",1,-,Medium,-,"1,650",Low,Aberdeen,5
+AB56,0.87,"10,992","1,440","3,429",4,7,Medium,-,"6,217",Low,Aberdeen,4
+AB45,0.85,"7,844","1,065","2,446",3,1,Medium,-,"4,300",Low,Aberdeen,4
+AB43,0.91,"19,384","2,664","6,272",5,9,Medium,-,"10,033",Low,Aberdeen,3
+HS8,0.81,"1,508",159,385,1,1,Low,-,"1,000",Low,Outer Hebrides,5
+HS9,0.81,956,91,302,1,-,Low,-,"1,000",Low,Outer Hebrides,5
+PH44,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+IV45,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV46,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV47,0.82,-,-,-,-,1,Medium,-,"1,000",Low,Inverness,5
+IV48,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV56,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+PH42,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH43,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+IV41,0.82,-,-,-,-,1,Medium,-,"1,000",Low,Inverness,5
+IV52,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV53,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV42,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV43,0.81,"1,260",135,384,-,-,Medium,-,"1,000",Low,Inverness,5
+IV44,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Inverness,5
+IV49,0.81,764,68,259,1,1,Medium,-,"1,000",Low,Inverness,5
+PH40,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH36,0.81,"1,312",128,349,-,-,Low,-,"1,000",Low,Perth,5
+PH37,0.81,-,-,-,-,-,Low,1,"1,000",Low,Perth,5
+PH38,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH39,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH41,0.81,"1,040",128,327,1,-,Low,-,"1,000",Low,Perth,5
+IV40,0.82,"1,724",180,430,1,2,Medium,-,"1,200",Low,Inverness,5
+IV54,0.81,"1,152",128,311,-,-,Medium,-,"1,000",Low,Inverness,5
+PH32,0.81,-,-,-,-,2,Low,-,"1,000",Low,Perth,5
+PH35,0.81,"1,332",166,425,-,-,Low,-,"1,000",Low,Perth,5
+IV13,0.82,-,-,-,-,1,Medium,-,"1,000",Low,Inverness,5
+IV3,0.89,"17,604","2,361","5,746",5,6,Medium,1,"7,817",Low,Inverness,3
+IV5,0.81,972,112,280,-,-,Medium,-,"1,000",Low,Inverness,5
+IV99,0.8,-,-,-,-,-,Medium,-,-,Medium,Inverness,5
+IV1,0.82,"1,056",133,273,2,12,Medium,1,"1,333",Low,Inverness,5
+IV2,1.02,"40,056","4,627","13,704",18,11,Medium,-,"22,944",Medium,Inverness,1
+IV4,0.82,"3,328",336,949,2,-,Medium,-,"1,617",Low,Inverness,5
+IV6,0.82,"3,512",410,"1,090",1,1,Medium,-,"1,700",Low,Inverness,5
+IV63,0.82,"1,696",180,461,1,-,Medium,-,"1,100",Low,Inverness,5
+PH20,0.81,-,-,-,1,-,Low,-,"1,000",Low,Perth,5
+AB37,0.82,"1,160",141,337,-,1,Medium,-,"1,000",Low,Aberdeen,5
+IV12,0.86,"9,484","1,113","2,835",6,2,Medium,-,"5,017",Low,Inverness,4
+IV36,0.87,"11,440","1,432","3,646",1,3,Medium,-,"5,950",Low,Inverness,4
+PH25,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH10,0.84,"4,424",587,"1,275",5,4,Low,-,"4,600",Low,Perth,5
+PH11,0.82,"2,740",365,822,2,3,Low,-,"1,233",Low,Perth,5
+PH18,0.82,"3,504",484,"1,083",-,-,Low,-,"1,000",Low,Perth,5
+PH21,0.81,"1,648",185,467,1,-,Low,-,"1,067",Low,Perth,5
+PH22,0.82,"2,908",334,"1,032",5,2,Low,-,"2,167",Low,Perth,5
+PH23,0.81,"1,596",191,469,-,-,Low,-,"1,000",Low,Perth,5
+PH24,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH26,0.82,"2,588",296,873,2,3,Low,-,"1,700",Low,Perth,5
+AB33,0.82,"3,748",451,"1,161",1,1,Medium,-,"2,067",Low,Aberdeen,5
+AB34,0.83,"3,620",491,"1,203",1,3,Medium,-,"1,917",Low,Aberdeen,5
+AB52,0.83,"3,472",460,"1,262",1,1,Medium,-,"1,750",Medium,Aberdeen,5
+AB31,0.86,"11,360","1,423","3,366",3,3,Medium,2,"5,217",Medium,Aberdeen,4
+AB32,0.87,"9,468","1,262","3,291",2,6,Medium,-,"5,100",Medium,Aberdeen,4
+AB35,0.82,"1,864",218,618,2,2,Medium,-,"1,167",Low,Aberdeen,5
+AB36,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Aberdeen,5
+AB38,0.82,"3,252",381,"1,021",1,1,Medium,-,"1,833",Low,Aberdeen,5
+AB39,0.9,"13,652","1,801","4,411",4,6,Medium,-,"6,750",Medium,Aberdeen,3
+AB51,0.97,"27,208","3,319","9,894",16,13,Medium,1,"15,350",Medium,Aberdeen,2
+AB53,0.85,"9,324","1,228","3,056",2,2,Medium,-,"4,550",Low,Aberdeen,4
+AB54,0.85,"7,520","1,046","2,415",1,3,Medium,1,"4,083",Low,Aberdeen,4
+AB55,0.84,"7,180",943,"2,193",1,7,Medium,-,"3,483",Low,Aberdeen,5
+AB10,0.9,"18,648","3,429","7,865",41,25,Medium,5,"8,117",Medium,Aberdeen,3
+AB11,0.9,"20,012","3,602","8,293",15,27,Medium,2,"7,867",Medium,Aberdeen,3
+AB12,0.92,"20,680","2,797","7,070",15,3,Medium,-,"12,400",Medium,Aberdeen,3
+AB13,0.82,"2,012",221,499,-,1,Medium,-,"1,100",Medium,Aberdeen,5
+AB14,0.82,"3,552",449,"1,254",2,-,Medium,-,"1,650",Medium,Aberdeen,5
+AB15,0.93,"26,324","3,053","8,793",29,15,Medium,-,"11,933",Medium,Aberdeen,3
+AB16,0.91,"26,260","3,461","7,656",3,8,Medium,-,"9,067",Medium,Aberdeen,3
+AB21,0.94,"16,572","1,943","6,492",7,10,Medium,1,"11,550",High,Aberdeen,2
+AB22,0.87,"11,956","1,762","4,388",3,10,Medium,-,"5,650",Medium,Aberdeen,4
+AB23,0.85,"8,928","1,160","3,246",2,6,Medium,-,"4,783",Medium,Aberdeen,4
+AB24,0.97,"35,212","7,359","11,217",3,27,Medium,3,"11,800",Medium,Aberdeen,2
+AB25,0.89,"17,228","3,756","6,868",29,15,Medium,1,"7,133",Medium,Aberdeen,3
+AB41,0.9,"15,576","2,043","5,348",2,8,Medium,-,"7,800",Medium,Aberdeen,3
+AB99,0.8,-,-,-,-,-,Medium,-,-,Medium,Aberdeen,5
+AB42,0.97,"26,068","3,808","8,652",5,19,Medium,-,"15,933",Medium,Aberdeen,2
+PA77,0.81,-,-,-,1,-,Medium,-,"1,000",Low,Paisley,5
+PA66,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA67,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA68,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA69,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA73,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA74,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA75,0.82,"1,688",182,497,1,2,Medium,1,"1,017",Low,Paisley,5
+PA76,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA78,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA34,0.85,"8,504","1,094","2,591",4,5,Medium,-,"4,517",Low,Paisley,4
+PA37,0.82,"2,536",271,693,-,2,Medium,-,"1,750",Low,Paisley,5
+PA63,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA64,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA62,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA65,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA70,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA71,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA72,0.81,868,88,272,-,-,Medium,-,"1,000",Low,Paisley,5
+PA80,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+G84,0.9,"15,260","2,023","4,644",5,11,High,-,"7,883",Low,Glasgow,3
+PA25,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA26,0.81,"1,004",89,312,-,-,Medium,-,"1,000",Low,Paisley,5
+PA36,0.81,"1,416",139,401,-,-,Medium,-,"1,000",Low,Paisley,5
+PA24,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA27,0.82,728,56,205,-,1,Medium,-,"1,000",Low,Paisley,5
+PA32,0.81,912,95,298,1,1,Medium,-,"1,000",Low,Paisley,5
+PA33,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA35,0.81,-,-,-,-,1,Medium,-,"1,000",Low,Paisley,5
+PA38,0.81,-,-,-,-,1,Medium,-,"1,000",Low,Paisley,5
+PH50,0.81,-,-,-,1,1,Low,-,"1,000",Low,Perth,5
+PH31,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH33,0.86,"10,504","1,140","3,048",7,2,Low,-,"5,383",Low,Perth,4
+PH34,0.81,804,70,224,-,1,Low,-,"1,000",Low,Perth,5
+PH49,0.81,"1,708",175,514,1,-,Low,-,"1,000",Low,Perth,5
+FK11,0.83,"2,128",207,799,1,1,High,-,"1,133",Medium,Falkirk,5
+FK15,0.86,"6,884",733,"1,978",2,3,High,1,"2,983",Medium,Falkirk,4
+FK16,0.84,"1,392",172,405,1,2,High,-,"1,050",Medium,Falkirk,5
+FK18,0.82,-,-,-,-,-,High,-,"1,000",Medium,Falkirk,5
+FK9,0.87,"9,312","1,227","2,662",1,2,High,-,"4,517",Medium,Falkirk,4
+FK17,0.83,"2,520",307,754,1,1,High,-,"1,467",Medium,Falkirk,5
+FK19,0.84,-,-,-,-,1,High,-,"1,000",Medium,Falkirk,5
+FK20,0.84,"1,408",158,376,-,1,High,-,"1,000",Medium,Falkirk,5
+FK21,0.82,-,-,-,1,1,High,-,"1,000",Medium,Falkirk,5
+PH6,0.81,"1,440",170,401,-,3,Low,-,"1,000",Low,Perth,5
+PH17,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+PH19,0.81,"1,504",167,438,-,-,Low,-,"1,000",Low,Perth,5
+PH30,0.81,-,-,-,-,-,Low,-,"1,000",Low,Perth,5
+FK13,0.85,"4,608",626,"1,464",2,4,High,-,"2,333",Medium,Falkirk,4
+FK14,0.84,"2,348",255,627,1,4,High,-,"1,583",Medium,Falkirk,5
+FK10,0.98,"29,184","3,909","9,868",7,13,High,1,"15,683",Medium,Falkirk,2
+FK12,0.85,"3,492",561,"1,119",1,3,High,-,"1,767",Medium,Falkirk,4
+KY13,0.85,"8,612","1,008","2,423",3,6,High,-,"4,150",Medium,Kirkcaldy,4
+KY6,0.9,"15,300","2,013","4,832",1,8,High,-,"7,467",Medium,Kirkcaldy,3
+KY12,0.98,"29,296","3,781","10,070",10,26,High,2,"15,800",Medium,Kirkcaldy,2
+KY2,0.94,"23,480","3,104","7,966",9,14,High,-,"12,683",Medium,Kirkcaldy,3
+KY4,0.9,"16,496","2,133","5,463",6,16,High,-,"8,633",Medium,Kirkcaldy,3
+KY5,0.91,"16,580","2,220","5,107",3,7,High,-,"8,567",Medium,Kirkcaldy,3
+PH13,0.82,"3,008",320,962,2,1,Low,-,"1,350",Low,Perth,5
+PH14,0.81,"1,276",134,512,-,-,Low,-,"1,000",Low,Perth,5
+PH2,0.93,"24,136","2,871","7,883",6,20,Low,2,"12,500",Low,Perth,3
+PH1,0.98,"35,024","4,738","11,548",13,36,Low,1,"18,283",Low,Perth,2
+PH15,0.82,"2,452",276,740,1,2,Low,-,"1,450",Low,Perth,5
+PH16,0.82,"2,548",305,759,1,1,Low,-,"1,800",Low,Perth,5
+PH3,0.83,"4,252",541,"1,218",1,8,Low,-,"2,867",Low,Perth,5
+PH4,0.81,856,76,291,-,-,Low,-,"1,000",Low,Perth,5
+PH5,0.81,"1,256",145,403,-,-,Low,-,"1,000",Low,Perth,5
+PH7,0.83,"6,284",827,"1,854",4,2,Low,-,"2,867",Low,Perth,5
+PH8,0.81,-,-,-,1,3,Low,-,"1,000",Low,Perth,5
+PH9,0.81,"2,000",195,633,-,-,Low,-,"1,000",Low,Perth,5
+DD1,0.9,"14,908","4,433","3,282",3,37,High,3,"6,550",Medium,Dundee,3
+DD11,0.94,"21,500","3,147","7,136",3,19,High,-,"12,917",Low,Dundee,2
+DD4,0.99,"38,248","5,334","11,649",6,25,High,-,"16,250",Medium,Dundee,2
+DD5,0.94,"22,036","2,685","6,801",3,34,High,-,"11,183",Medium,Dundee,2
+DD6,0.86,"6,560",798,"2,001",3,1,High,-,"3,000",Medium,Dundee,4
+DD7,0.86,"9,432","1,123","2,848",2,3,High,-,"4,200",Low,Dundee,4
+DD2,0.98,"35,608","5,833","10,467",13,27,High,-,"15,483",Medium,Dundee,2
+DD3,0.96,"29,904","4,678","9,586",1,35,High,-,"13,650",Medium,Dundee,2
+DD8,0.93,"21,188","2,805","6,745",5,23,High,-,"11,050",Low,Dundee,3
+DD9,0.87,"7,332","1,103","2,421",2,7,High,-,"4,133",Medium,Dundee,4
+KY10,0.85,"5,964",769,"1,869",2,9,High,-,"3,417",Medium,Kirkcaldy,4
+KY16,0.93,"22,740","5,098","4,433",7,10,High,-,"7,683",Medium,Kirkcaldy,3
+KY8,0.95,"26,648","3,611","8,086",5,22,High,-,"14,617",Medium,Kirkcaldy,2
+KY9,0.82,"1,176",137,350,-,3,High,-,"1,000",Medium,Kirkcaldy,5
+KY1,0.91,"18,484","2,620","6,848",3,30,High,1,"10,633",Medium,Kirkcaldy,3
+KY14,0.83,"4,884",572,"1,499",2,-,High,-,"2,367",Low,Kirkcaldy,5
+KY15,0.89,"15,612","1,949","4,894",4,9,High,1,"8,050",Low,Kirkcaldy,3
+KY7,0.92,"22,472","2,944","7,058",10,10,High,-,"10,867",Medium,Kirkcaldy,3
+PH12,0.81,840,104,237,-,2,Low,-,"1,000",Low,Perth,5
+AB30,0.84,"5,676",662,"2,067",2,3,Medium,-,"3,050",Low,Aberdeen,5
+DD10,0.9,"15,920","2,159","5,530",3,8,High,-,"8,500",Low,Dundee,3
+PA42,0.82,"1,492",192,435,1,2,Medium,-,"1,017",Low,Paisley,5
+PA43,0.81,-,-,-,1,1,Medium,1,"1,000",Low,Paisley,5
+PA44,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA45,0.81,"1,012",116,321,-,-,Medium,-,"1,000",Low,Paisley,5
+PA46,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA47,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA48,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA49,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA61,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA29,0.82,"1,600",176,475,1,3,Medium,-,"1,017",Low,Paisley,5
+PA30,0.81,"1,012",112,304,-,-,Medium,-,"1,000",Medium,Paisley,5
+PA41,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA31,0.83,"3,472",431,"1,094",1,3,Medium,-,"2,067",Medium,Paisley,5
+PA60,0.81,-,-,-,-,1,Medium,-,"1,000",Low,Paisley,5
+KA10,0.89,"11,224","1,471","3,375",1,8,Medium,1,"5,433",High,Kilmarnock,3
+KA11,0.89,"17,500","2,444","5,440",1,11,Medium,-,"8,550",Medium,Kilmarnock,3
+KA12,0.89,"15,540","2,174","4,518",6,15,Medium,-,"7,567",Medium,Kilmarnock,3
+KA13,0.89,"14,144","1,979","4,388",1,6,Medium,-,"7,117",Medium,Kilmarnock,4
+KA14,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Kilmarnock,5
+KA15,0.85,"5,980",760,"1,887",1,2,Medium,-,"2,417",Medium,Kilmarnock,4
+KA2,0.84,"5,544",671,"1,744",-,5,Medium,-,"3,833",Medium,Kilmarnock,5
+KA20,0.86,"8,000","1,130","2,277",1,8,Medium,-,"3,067",Medium,Kilmarnock,4
+KA21,0.87,"10,420","1,427","3,228",5,4,Medium,-,"4,867",Medium,Kilmarnock,4
+KA22,0.85,"9,108","1,330","2,724",-,2,Medium,-,"3,833",Medium,Kilmarnock,4
+KA23,0.83,"3,732",448,"1,050",1,2,Medium,-,"1,883",Medium,Kilmarnock,5
+KA24,0.84,"4,976",632,"1,530",1,4,Medium,-,"2,233",Medium,Kilmarnock,5
+KA25,0.83,"6,188",806,"1,880",1,1,Medium,-,"2,733",Medium,Kilmarnock,5
+KA28,0.82,688,77,226,-,1,Medium,-,"1,000",Low,Kilmarnock,5
+KA29,0.81,900,109,251,-,-,Medium,-,"1,000",Medium,Kilmarnock,5
+KA30,0.84,"7,044",957,"2,155",1,4,Medium,-,"3,483",Medium,Kilmarnock,5
+KA8,0.88,"15,776","2,302","4,924",5,18,Medium,-,"7,100",Low,Kilmarnock,4
+KA9,0.89,"11,720","1,496","3,590",5,7,Medium,-,"5,600",High,Kilmarnock,3
+KA27,0.82,"2,848",337,701,3,2,Medium,-,"1,950",Low,Kilmarnock,5
+PA10,0.82,"2,824",382,872,1,1,Medium,-,"1,367",Medium,Paisley,5
+PA11,0.82,"3,968",484,"1,150",1,1,Medium,-,"1,683",Low,Paisley,5
+PA12,0.82,"2,516",295,814,-,1,Medium,-,"1,317",Low,Paisley,5
+PA13,0.82,"3,680",357,"1,085",-,2,Medium,-,"1,367",Low,Paisley,5
+PA14,0.87,"14,588","1,910","4,015",6,13,Medium,-,"5,617",Low,Paisley,4
+PA15,0.87,"14,396","2,017","4,672",1,27,Medium,1,"6,250",Medium,Paisley,4
+PA16,0.92,"24,944","3,362","6,957",5,12,Medium,-,"10,850",Medium,Paisley,3
+PA17,0.82,"1,472",188,376,-,1,Medium,-,"1,000",Low,Paisley,5
+PA18,0.82,"2,120",302,576,-,-,Medium,-,"1,017",Low,Paisley,5
+PA19,0.85,"8,672","1,185","2,665",2,5,Medium,-,"3,717",Low,Paisley,4
+PA23,0.85,"8,736","1,109","2,403",1,1,Medium,-,"5,100",Low,Paisley,4
+PA9,0.82,"1,440",128,490,-,-,Medium,-,"1,133",Medium,Paisley,5
+PA20,0.83,"4,196",595,"1,142",2,5,Medium,-,"2,167",Low,Paisley,5
+PA21,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Paisley,5
+PA22,0.81,540,56,185,-,-,Medium,-,"1,000",Low,Paisley,5
+FK4,0.88,"11,572","1,316","3,823",3,5,High,-,"5,200",Medium,Falkirk,4
+FK5,0.91,"14,960","1,873","5,299",2,14,High,-,"9,467",Medium,Falkirk,3
+FK6,0.88,"10,904","1,414","3,601",2,3,High,-,"5,283",Medium,Falkirk,4
+FK7,0.95,"26,828","3,380","8,441",10,20,High,-,"12,033",Medium,Falkirk,2
+FK8,0.91,"17,524","3,188","4,392",5,21,High,2,"7,100",Medium,Falkirk,3
+G1,0.89,"8,216","2,319","3,105",15,75,High,9,"4,883",Medium,Glasgow,4
+G11,0.92,"20,164","3,761","8,299",7,26,High,-,"6,883",Medium,Glasgow,3
+G12,0.92,"25,404","5,079","7,633",4,32,High,3,"5,450",Medium,Glasgow,3
+G13,0.94,"29,012","3,551","9,210",4,17,High,-,"9,883",Medium,Glasgow,2
+G14,0.9,"16,608","2,229","5,966",-,24,High,1,"5,567",Medium,Glasgow,3
+G15,0.89,"16,880","2,182","4,628",2,8,High,-,"5,733",Medium,Glasgow,3
+G2,0.86,"3,080",923,853,11,91,High,9,"3,433",Medium,Glasgow,4
+G20,0.95,"30,488","4,876","10,364",1,27,High,-,"9,883",Medium,Glasgow,2
+G21,0.93,"28,436","3,608","8,738",5,17,High,-,"8,317",Medium,Glasgow,3
+G22,0.91,"17,404","2,118","4,786",-,14,High,-,"5,650",Medium,Glasgow,3
+G23,0.86,"6,624",844,"1,852",-,1,High,-,"2,767",Medium,Glasgow,4
+G3,0.93,"21,168","4,578","6,672",5,68,High,3,"8,900",Medium,Glasgow,3
+G31,0.94,"26,308","3,981","8,812",5,56,High,-,"9,650",Medium,Glasgow,2
+G32,0.96,"32,092","4,212","9,131",7,26,High,-,"12,400",Medium,Glasgow,2
+G33,0.99,"39,220","4,807","11,071",3,26,High,-,"14,417",Medium,Glasgow,2
+G34,0.86,"8,868","1,215","2,408",1,7,High,-,"2,633",Medium,Glasgow,4
+G4,0.89,"12,664","2,871","3,138",2,24,High,2,"5,400",Medium,Glasgow,3
+G40,0.88,"10,644","1,421","3,615",-,23,High,2,"4,400",Medium,Glasgow,4
+G41,0.94,"25,988","3,446","11,843",7,116,High,-,"8,200",Medium,Glasgow,2
+G42,0.94,"23,372","3,053","11,192",5,61,High,-,"9,617",Medium,Glasgow,2
+G43,0.89,"14,400","1,761","4,406",4,10,High,-,"5,183",Medium,Glasgow,4
+G44,0.92,"22,688","3,256","7,834",5,14,High,-,"8,167",Medium,Glasgow,3
+G45,0.89,"14,468","1,756","4,026",-,8,High,-,"5,550",Medium,Glasgow,4
+G46,0.92,"22,128","3,198","6,123",2,20,High,-,"7,267",Medium,Glasgow,3
+G5,0.88,"11,332","1,785","3,858",4,37,High,2,"5,033",Medium,Glasgow,4
+G51,0.94,"20,796","2,840","7,461",5,59,High,1,"11,700",Medium,Glasgow,2
+G52,0.94,"26,712","3,197","7,721",7,24,High,-,"9,700",Medium,Glasgow,3
+G53,0.96,"30,396","3,938","8,626",3,22,High,-,"12,150",Medium,Glasgow,2
+G58,0.81,-,-,-,-,-,High,-,-,Medium,Glasgow,5
+G61,0.9,"21,024","2,644","5,455",8,9,High,-,"7,650",Medium,Glasgow,3
+G62,0.86,"10,516","1,341","2,712",5,10,High,-,"3,250",Medium,Glasgow,4
+G64,0.91,"21,408","2,999","5,424",4,3,High,-,"8,350",Medium,Glasgow,3
+G65,0.87,"10,920","1,489","3,339",1,14,High,-,"5,017",Medium,Glasgow,4
+G66,0.96,"30,228","4,251","8,655",9,25,High,-,"13,750",Medium,Glasgow,2
+G67,0.97,"30,220","4,103","9,236",1,9,High,1,"12,600",Medium,Glasgow,2
+G68,0.91,"15,724","1,914","5,115",2,3,High,-,"7,400",Medium,Glasgow,3
+G69,0.99,"30,132","3,909","8,752",4,20,High,-,"14,250",High,Glasgow,2
+G70,0.81,-,-,-,-,-,High,-,-,Low,Glasgow,5
+G71,0.95,"24,400","3,170","7,698",6,18,High,-,"10,883",Medium,Glasgow,2
+G72,1.03,"41,244","4,820","13,765",4,35,High,-,"21,050",Medium,Glasgow,1
+G73,0.93,"25,400","3,241","7,933",5,36,High,-,"10,633",Low,Glasgow,3
+G74,0.95,"28,744","4,186","8,912",7,23,High,1,"13,000",Medium,Glasgow,2
+G75,0.98,"31,484","4,545","9,824",3,22,High,-,"15,983",Medium,Glasgow,2
+G76,0.89,"17,724","2,351","4,901",3,20,High,-,"6,683",Medium,Glasgow,3
+G77,0.9,"18,400","2,549","5,147",11,23,High,-,"8,100",Low,Glasgow,3
+G79,0.81,-,-,-,-,-,High,-,-,Low,Glasgow,5
+G81,0.97,"33,820","4,548","10,178",7,23,High,-,"14,267",Low,Glasgow,2
+G9,0.81,-,-,-,-,-,High,-,-,Medium,Glasgow,5
+G90,0.81,-,-,-,-,-,High,-,-,Medium,Glasgow,5
+G60,0.83,"4,272",575,"1,411",1,-,High,-,"1,750",Medium,Glasgow,5
+G63,0.86,"7,060",786,"1,824",3,6,High,-,"3,083",Medium,Glasgow,4
+G78,0.92,"20,084","2,861","5,773",3,8,High,-,"8,717",Medium,Glasgow,3
+G82,0.93,"20,908","2,914","6,473",5,12,High,-,"9,700",Medium,Glasgow,3
+G83,0.91,"19,736","2,689","5,815",7,8,High,-,"9,133",Medium,Glasgow,3
+KA16,0.82,"2,424",347,785,-,3,Medium,-,"1,067",Low,Kilmarnock,5
+KA17,0.82,"2,972",379,955,1,3,Medium,-,"1,400",Medium,Kilmarnock,5
+KA4,0.84,"4,020",626,"1,254",-,2,Medium,-,"2,217",Medium,Kilmarnock,4
+KA1,0.94,"22,352","3,152","7,290",9,41,Medium,-,"12,500",Medium,Kilmarnock,2
+KA3,0.98,"31,588","4,215","10,166",5,11,Medium,-,"15,550",High,Kilmarnock,2
+KA5,0.85,"8,040","1,096","2,371",1,5,Medium,-,"3,633",Medium,Kilmarnock,4
+ML1,1.06,"46,292","6,171","15,256",5,45,High,1,"23,917",Medium,Motherwell,1
+ML10,0.86,"7,768",908,"2,359",3,8,High,-,"4,183",Medium,Motherwell,4
+ML3,1.03,"42,428","5,471","14,583",7,75,High,-,"20,717",Medium,Motherwell,1
+ML4,0.92,"20,076","2,673","6,313",4,22,High,-,"8,350",Medium,Motherwell,3
+ML5,1.02,"42,064","5,319","13,303",2,22,High,-,"18,083",Medium,Motherwell,1
+ML6,1.03,"47,362","6,263","15,208",8,37,High,-,"21,767",Low,Motherwell,1
+ML9,0.93,"19,136","2,503","5,876",3,12,High,-,"9,233",Medium,Motherwell,3
+PA1,0.89,"16,260","2,656","6,510",3,37,Medium,4,"8,283",Low,Paisley,3
+PA2,0.95,"32,176","4,371","10,172",8,14,Medium,-,"14,267",Low,Paisley,2
+PA3,0.91,"20,188","2,813","6,666",1,11,Medium,-,"10,767",Low,Paisley,3
+PA4,0.9,"18,196","2,435","6,447",4,26,Medium,-,"9,383",Medium,Paisley,3
+PA5,0.89,"18,524","2,511","5,586",4,17,Medium,-,"8,667",Medium,Paisley,3
+PA6,0.83,"5,312",713,"1,466",1,-,Medium,-,"2,267",Medium,Paisley,5
+PA7,0.84,"3,804",544,"1,016",3,1,Medium,-,"4,167",Medium,Paisley,5
+PA8,0.86,"13,276","1,794","3,921",4,5,Medium,-,"5,183",Medium,Paisley,4
+EH1,0.86,"7,104","1,773","2,145",5,26,Medium,11,"3,950",Medium,Edinburgh,4
+EH10,0.93,"28,992","4,452","8,774",9,19,Medium,-,"7,483",Medium,Edinburgh,3
+EH11,0.99,"36,700","6,431","15,851",6,44,Medium,3,"14,033",Medium,Edinburgh,2
+EH12,0.96,"29,800","3,767","10,282",10,23,Medium,-,"12,883",Medium,Edinburgh,2
+EH13,0.87,"11,356","1,345","3,666",2,6,Medium,-,"4,567",Medium,Edinburgh,4
+EH14,0.98,"31,252","4,255","9,902",14,10,Medium,2,"13,050",High,Edinburgh,2
+EH16,0.94,"24,640","3,568","7,446",5,22,Medium,-,"11,850",Medium,Edinburgh,2
+EH17,0.9,"16,096","1,998","5,131",4,14,Medium,-,"8,617",Medium,Edinburgh,3
+EH2,0.84,-,-,-,6,24,Medium,4,"2,967",Medium,Edinburgh,5
+EH20,0.83,"4,868",630,"1,474",2,4,Medium,-,"2,683",Low,Edinburgh,5
+EH24,0.82,"1,316",135,475,-,1,Medium,-,"1,100",Low,Edinburgh,5
+EH25,0.82,"2,208",277,637,1,-,Medium,-,"1,683",Medium,Edinburgh,5
+EH26,0.88,"13,504","1,784","4,120",-,3,Medium,-,"6,700",Low,Edinburgh,4
+EH27,0.82,"2,348",238,729,-,-,Medium,-,"1,683",Low,Edinburgh,5
+EH28,0.84,"2,616",333,778,2,5,Medium,-,"1,633",Medium,Edinburgh,5
+EH29,0.84,"2,864",324,898,1,2,Medium,-,"2,200",Medium,Edinburgh,5
+EH3,0.92,"24,232","5,138","9,413",15,39,Medium,-,"6,367",Medium,Edinburgh,3
+EH30,0.86,"7,572",903,"2,583",3,6,Medium,1,"4,000",Medium,Edinburgh,4
+EH4,1,"43,436","5,127","14,748",11,24,Medium,-,"16,333",Medium,Edinburgh,1
+EH46,0.82,"2,328",213,674,1,1,Medium,-,"1,233",Low,Edinburgh,5
+EH47,0.92,"22,600","2,902","6,918",5,12,Medium,-,"11,300",Medium,Edinburgh,3
+EH49,0.88,"13,112","1,537","4,088",3,6,Medium,-,"5,250",Medium,Edinburgh,4
+EH5,0.9,"16,740","2,016","6,344",5,12,Medium,1,"7,233",Medium,Edinburgh,3
+EH51,0.88,"11,768","1,438","4,171",1,9,Medium,1,"6,117",Medium,Edinburgh,4
+EH52,0.89,"16,312","1,921","5,532",5,13,Medium,-,"8,433",Medium,Edinburgh,3
+EH53,0.85,"8,112","1,177","2,439",3,3,Medium,-,"4,633",Low,Edinburgh,4
+EH54,1.06,"47,362","6,371","16,159",20,30,Medium,-,"26,700",Medium,Edinburgh,1
+EH55,0.85,"6,596",868,"2,022",2,4,Medium,-,"3,833",Medium,Edinburgh,4
+EH6,0.98,"35,004","4,485","17,420",6,43,Medium,3,"13,817",Medium,Edinburgh,2
+EH7,0.97,"30,336","4,554","14,579",9,29,Medium,-,"13,817",Medium,Edinburgh,2
+EH8,0.95,"25,316","5,430","7,591",5,23,Medium,6,"11,467",Medium,Edinburgh,2
+EH9,0.91,"26,936","6,327","5,838",6,17,Medium,-,"4,883",Medium,Edinburgh,3
+EH91,0.81,-,-,-,-,-,Medium,-,-,Medium,Edinburgh,5
+EH95,0.81,-,-,-,-,-,Medium,-,-,Medium,Edinburgh,5
+EH99,0.81,-,-,-,-,-,Medium,-,-,Medium,Edinburgh,5
+EH15,0.89,"16,912","1,949","5,261",5,7,Medium,1,"6,950",Medium,Edinburgh,3
+EH18,0.82,"1,792",218,539,-,-,Medium,-,"1,333",Low,Edinburgh,5
+EH19,0.87,"11,564","1,527","3,479",1,6,Medium,-,"6,200",Low,Edinburgh,4
+EH21,0.91,"20,232","2,729","6,305",4,11,Medium,-,"10,783",Low,Edinburgh,3
+EH22,0.93,"24,716","3,213","7,532",6,24,Medium,-,"12,917",Low,Edinburgh,3
+EH23,0.85,"6,800",910,"2,164",1,8,Medium,-,"4,250",Low,Edinburgh,4
+EH44,0.82,"2,240",254,782,1,-,Medium,-,"1,300",Medium,Edinburgh,5
+EH45,0.84,"7,416",855,"2,321",3,3,Medium,-,"4,083",Low,Edinburgh,4
+EH48,0.97,"30,632","3,840","11,018",7,30,Medium,2,"16,517",Medium,Edinburgh,2
+FK3,0.9,"13,384","1,919","4,625",1,23,High,1,"6,783",Medium,Falkirk,3
+FK1,0.93,"22,484","2,883","7,666",4,12,High,-,"10,250",Medium,Falkirk,3
+FK2,1.02,"37,156","4,841","13,341",2,31,High,-,"19,517",Medium,Falkirk,1
+KY11,1.07,"47,362","5,816","17,529",7,19,High,1,"26,528",Medium,Kirkcaldy,1
+KY3,0.85,"7,980",936,"2,603",3,6,High,1,"3,733",Low,Kirkcaldy,4
+KY99,0.81,-,-,-,-,-,High,-,-,Medium,Kirkcaldy,5
+ML11,0.95,"27,392","3,412","8,722",4,14,High,-,"13,567",Medium,Motherwell,2
+ML2,0.97,"34,340","4,471","10,988",5,39,High,-,"16,150",Low,Motherwell,2
+ML7,0.88,"12,800","1,734","4,131",4,12,High,-,"6,217",Medium,Motherwell,4
+ML8,0.89,"15,024","2,067","4,914",2,9,High,-,"7,317",Medium,Motherwell,3
+EH31,0.82,"1,648",141,507,1,1,Medium,-,"1,000",Low,Edinburgh,5
+EH32,0.89,"15,228","1,869","4,766",6,5,Medium,-,"7,650",Medium,Edinburgh,3
+EH33,0.87,"11,768","1,489","3,849",3,8,Medium,-,"5,817",Low,Edinburgh,4
+EH34,0.82,"1,904",189,551,-,2,Medium,-,"1,033",Low,Edinburgh,5
+EH35,0.82,"2,080",236,659,1,1,Medium,-,"1,283",Low,Edinburgh,5
+EH36,0.82,-,-,-,-,1,Medium,-,"1,000",Low,Edinburgh,5
+EH37,0.81,"1,264",151,368,-,-,Medium,-,"1,000",Low,Edinburgh,5
+EH38,0.81,-,-,-,-,-,Medium,-,"1,000",Low,Edinburgh,5
+EH39,0.84,"6,052",711,"1,634",3,3,Medium,-,"3,067",Medium,Edinburgh,5
+EH40,0.83,"1,412",139,429,1,2,Medium,-,"1,000",Medium,Edinburgh,5
+EH41,0.85,"9,116","1,090","2,786",3,4,Medium,-,"4,433",Low,Edinburgh,4
+EH43,0.82,-,-,-,-,2,Medium,-,"1,000",Low,Edinburgh,5
+EH42,0.87,"8,368","1,012","2,648",2,1,Medium,-,"5,517",Medium,Edinburgh,4
+TD1,0.87,"13,104","2,042","4,412",3,8,Low,-,"6,867",Low,Teviotdale,4
+TD2,0.83,"2,200",190,773,1,3,Low,-,"1,200",Medium,Teviotdale,5
+TD3,0.81,768,73,241,-,-,Low,-,"1,000",Low,Teviotdale,5
+TD4,0.81,"1,668",210,528,1,1,Low,-,"1,017",Low,Teviotdale,5
+TD6,0.83,"5,216",521,"1,676",2,5,Low,-,"2,933",Low,Teviotdale,5
+TD10,0.81,752,95,254,-,1,Low,-,"1,000",Low,Teviotdale,5
+TD11,0.83,"5,156",667,"1,622",2,1,Low,-,"2,683",Low,Teviotdale,5
+TD13,0.81,-,-,-,-,-,Low,-,"1,000",Low,Teviotdale,5
+TD5,0.84,"7,216",879,"2,347",2,8,Low,2,"4,383",Low,Teviotdale,4
+NE70,0.81,"1,106",159,336,1,1,Low,-,"1,000",Medium,Newcastle upon Tyne,5
+NE71,0.81,"1,905",250,482,1,-,Low,-,"1,250",Medium,Newcastle upon Tyne,5
+NE67,0.81,562,44,150,-,-,Low,-,"1,000",Medium,Newcastle upon Tyne,5
+NE68,0.81,"1,270",142,346,1,1,Low,-,"1,000",Medium,Newcastle upon Tyne,5
+NE69,0.81,274,25,62,-,-,Low,-,"1,000",Low,Newcastle upon Tyne,5
+TD12,0.85,712,313,763,1,2,Low,-,"1,317",Medium,Teviotdale,4
+TD14,0.85,"4,900",660,"1,446",1,5,Low,-,"2,350",High,Teviotdale,4
+TD15,0.92,676,"1,643","3,946",4,10,Low,-,"6,533",Medium,Teviotdale,3
+PA28,0.83,"5,000",686,"1,492",1,2,Medium,-,"2,517",Low,Paisley,5
+DG9,0.87,"12,132","1,571","3,584",1,5,Medium,3,"6,567",Low,Dumfries and Galloway,4
+KA26,0.84,"7,940",996,"2,196",1,3,Medium,-,"3,600",Low,Kilmarnock,5
+KA7,0.92,"20,236","2,564","5,632",4,20,Medium,1,"9,517",High,Kilmarnock,3
+DG6,0.82,"3,416",442,972,1,1,Medium,-,"1,633",Low,Dumfries and Galloway,5
+DG7,0.85,"8,348","1,032","2,294",2,5,Medium,2,"4,233",Low,Dumfries and Galloway,4
+DG4,0.83,"3,556",518,990,-,2,Medium,1,"1,833",Medium,Dumfries and Galloway,5
+DG8,0.85,"8,872","1,132","2,567",5,6,Medium,1,"4,467",Low,Dumfries and Galloway,4
+KA18,0.91,"17,656","2,423","5,186",2,18,Medium,1,"8,183",Medium,Kilmarnock,3
+KA19,0.85,"5,844",793,"1,777",1,4,Medium,-,"2,600",Medium,Kilmarnock,4
+KA6,0.9,"16,020","2,124","4,741",1,15,Medium,-,"7,833",Medium,Kilmarnock,3
+DG1,0.92,"19,368","2,743","6,314",5,26,Medium,2,"10,950",Low,Dumfries and Galloway,3
+DG10,0.83,"2,752",337,741,1,1,Medium,-,"1,700",Medium,Dumfries and Galloway,5
+DG2,0.9,"18,864","2,606","5,602",5,1,Medium,2,"9,633",Low,Dumfries and Galloway,3
+DG3,0.82,"3,484",416,941,1,-,Medium,-,"1,550",Medium,Dumfries and Galloway,5
+DG5,0.83,"3,628",402,"1,051",1,-,Medium,-,"1,900",Medium,Dumfries and Galloway,5
+ML12,0.85,"6,088",656,"1,863",1,5,High,-,"3,350",Medium,Motherwell,4
+CA1,0.9,"16,323","3,192","7,046",3,21,Low,1,"10,383",Low,Carlisle,3
+CA2,0.95,"26,014","4,426","10,883",5,5,Low,-,"15,167",Low,Carlisle,2
+CA3,0.85,"8,767","1,424","3,144",5,8,Low,1,"5,483",Low,Carlisle,4
+CA4,0.83,"5,887",756,"1,925",3,2,Low,-,"2,867",Low,Carlisle,5
+CA6,0.83,"5,578",833,"2,046",-,1,Low,-,"3,083",Low,Carlisle,5
+CA8,0.85,"6,424",863,"2,035",1,2,Low,-,"3,167",Medium,Carlisle,4
+CA99,0.8,-,-,-,-,-,Low,-,-,Low,Carlisle,5
+DG11,0.86,"9,668","1,229","2,854",1,5,Medium,1,"4,883",Low,Dumfries and Galloway,4
+DG12,0.86,"9,708","1,253","2,970",3,3,Medium,1,"5,417",Medium,Dumfries and Galloway,4
+DG13,0.82,"1,864",237,622,1,1,Medium,1,"1,200",Low,Dumfries and Galloway,5
+DG14,0.81,"1,060",131,268,-,-,Medium,-,"1,000",Low,Dumfries and Galloway,5
+DG16,0.82,"2,920",370,829,2,1,Medium,-,"1,483",Medium,Dumfries and Galloway,5
+NE19,0.81,"1,375",170,443,-,3,Low,-,"1,000",Low,Newcastle upon Tyne,5
+NE47,0.83,"4,758",679,"1,508",2,2,Low,-,"2,400",Low,Newcastle upon Tyne,5
+NE48,0.82,"2,674",372,896,1,2,Low,-,"1,650",Low,Newcastle upon Tyne,5
+NE49,0.82,"2,804",373,944,3,-,Low,-,"1,550",Low,Newcastle upon Tyne,5
+TD7,0.83,"5,536",731,"1,858",1,5,Low,-,"2,683",Low,Teviotdale,5
+TD8,0.83,"4,164",582,"1,351",1,3,Low,-,"2,467",Low,Teviotdale,5
+TD9,0.87,"12,260","1,722","4,078",5,2,Low,-,"7,117",Low,Teviotdale,4
+DH8,0.97,"24,911","3,825","10,210",5,18,Low,-,"16,100",Medium,Durham,2
+DH7,1,"26,894","4,032","10,792",4,15,Low,-,"15,550",High,Durham,1
+DH9,0.94,"23,947","4,057","9,460",2,12,Low,-,"14,183",Medium,Durham,2
+NE17,0.82,"3,099",476,"1,242",1,2,Low,-,"1,583",Medium,Newcastle upon Tyne,5
+NE18,0.81,556,82,189,-,-,Low,-,"1,000",Low,Newcastle upon Tyne,5
+NE39,0.83,"5,307",796,"1,814",-,1,Low,-,"2,900",Medium,Newcastle upon Tyne,5
+NE40,0.86,"9,881","1,493","3,833",2,2,Low,-,"5,800",Medium,Newcastle upon Tyne,4
+NE41,0.81,"1,315",162,436,1,-,Low,-,"1,000",Medium,Newcastle upon Tyne,5
+NE42,0.85,"7,819","1,260","3,107",2,4,Low,1,"4,600",Medium,Newcastle upon Tyne,4
+NE43,0.82,"2,701",337,899,-,2,Low,1,"1,383",Low,Newcastle upon Tyne,5
+NE44,0.81,556,58,148,-,1,Low,-,"1,000",Low,Newcastle upon Tyne,5
+NE45,0.82,"2,258",275,700,1,-,Low,-,"1,300",Medium,Newcastle upon Tyne,5
+NE46,0.85,"9,609","1,446","3,036",5,7,Low,-,"4,900",Low,Newcastle upon Tyne,4
+NE13,0.91,"8,230","1,065","3,027",2,6,Low,-,"7,650",High,Newcastle upon Tyne,3
+NE15,0.96,"21,198","3,521","8,258",4,37,Low,-,"11,800",High,Newcastle upon Tyne,2
+NE16,0.93,"16,304","2,277","6,310",3,13,Low,2,"8,583",High,Newcastle upon Tyne,3
+NE20,0.88,"6,994",991,"2,046",6,7,Low,-,"3,767",High,Newcastle upon Tyne,4
+NE21,0.87,"11,115","1,714","4,712",1,9,Low,-,"7,050",Medium,Newcastle upon Tyne,4
+NE5,1.01,"31,848","5,422","12,134",7,20,Low,-,"17,000",High,Newcastle upon Tyne,1
+NE61,0.92,"19,299","2,707","6,580",8,7,Low,1,"12,783",Medium,Newcastle upon Tyne,3
+NE65,0.87,"12,216","1,637","3,954",3,9,Low,2,"7,217",Medium,Newcastle upon Tyne,4
+NE66,0.86,"10,701","1,481","3,815",18,18,Low,-,"6,083",Medium,Newcastle upon Tyne,4
+DH1,1.01,"27,692","8,343","9,458",15,17,Low,1,"17,283",High,Durham,1
+DH2,0.93,"19,466","3,113","7,577",3,10,Low,-,"12,183",Medium,Durham,3
+DH3,0.91,"16,702","2,538","6,358",5,18,Low,1,"10,083",Medium,Durham,3
+DH4,0.94,"21,103","3,456","8,703",2,15,Low,1,"14,650",Medium,Durham,3
+DH5,0.88,"12,585","2,098","4,697",-,9,Low,1,"8,700",Medium,Durham,4
+DH97,0.82,-,-,-,-,-,Low,-,-,High,Durham,5
+DH98,0.82,-,-,-,-,-,Low,-,-,High,Durham,5
+DH99,0.82,-,-,-,-,-,Low,-,-,High,Durham,5
+DH6,0.93,"21,405","3,469","8,832",5,15,Low,-,"13,150",Medium,Durham,3
+DL16,0.88,"12,839","1,924","4,978",2,8,Low,-,"9,300",Low,Darlington,4
+NE1,0.91,"5,973","2,405","2,643",13,40,Low,9,"6,950",High,Newcastle upon Tyne,3
+NE10,0.94,"24,067","3,825","9,682",3,18,Low,-,"14,467",Medium,Newcastle upon Tyne,2
+NE11,0.88,"10,682","1,712","4,623",9,50,Low,-,"8,467",Medium,Newcastle upon Tyne,4
+NE12,0.98,"22,977","3,459","9,994",6,14,Low,1,"13,717",High,Newcastle upon Tyne,2
+NE2,0.96,"19,264","8,343","5,261",7,19,Low,-,"9,633",High,Newcastle upon Tyne,2
+NE22,0.87,"11,400","1,872","4,469",3,4,Low,-,"6,483",Medium,Newcastle upon Tyne,4
+NE23,0.96,"24,650","4,086","10,027",5,5,Low,-,"16,650",Medium,Newcastle upon Tyne,2
+NE24,0.95,"24,397","4,312","9,578",5,14,Low,-,"16,083",Medium,Newcastle upon Tyne,2
+NE25,0.93,"18,802","2,731","7,084",6,7,Low,-,"10,617",High,Newcastle upon Tyne,3
+NE26,0.89,"12,048","1,630","4,638",2,19,Low,-,"5,167",High,Newcastle upon Tyne,4
+NE27,0.87,"7,696","1,153","3,885",5,7,Low,-,"6,417",Medium,Newcastle upon Tyne,4
+NE28,1.01,"29,978","5,065","12,653",7,20,Low,-,"17,400",High,Newcastle upon Tyne,1
+NE29,0.96,"24,001","3,861","9,624",5,16,Low,-,"13,467",High,Newcastle upon Tyne,2
+NE3,1.01,"33,656","5,448","14,462",7,25,Low,1,"15,350",High,Newcastle upon Tyne,1
+NE30,0.88,"14,777","1,825","5,668",2,11,Low,2,"6,650",Medium,Newcastle upon Tyne,4
+NE31,0.9,"13,402","2,317","5,262",3,5,Low,-,"9,117",Medium,Newcastle upon Tyne,3
+NE32,0.92,"16,727","2,923","6,250",1,9,Low,-,"9,483",Medium,Newcastle upon Tyne,3
+NE33,0.94,"18,680","3,302","7,539",6,23,Low,-,"9,200",High,Newcastle upon Tyne,2
+NE34,0.99,"34,780","6,102","12,014",5,15,Low,-,"19,300",Medium,Newcastle upon Tyne,2
+NE35,0.83,"4,186",690,"1,758",-,2,Low,-,"2,233",Low,Newcastle upon Tyne,5
+NE36,0.83,"4,366",636,"1,517",2,6,Low,-,"2,133",Medium,Newcastle upon Tyne,5
+NE37,0.88,"13,527","2,405","5,679",5,11,Low,-,"8,083",Medium,Newcastle upon Tyne,4
+NE38,0.93,"19,468","3,344","7,762",8,8,Low,1,"12,633",Medium,Newcastle upon Tyne,3
+NE4,0.99,"24,006","6,170","12,050",1,76,Low,1,"12,450",High,Newcastle upon Tyne,2
+NE6,1.04,"36,404","8,343","14,439",8,31,Low,1,"17,267",High,Newcastle upon Tyne,1
+NE62,0.84,"6,088",882,"2,369",1,2,Low,-,"3,383",Low,Newcastle upon Tyne,5
+NE63,0.92,"18,149","3,194","7,195",5,15,Low,-,"12,250",Low,Newcastle upon Tyne,3
+NE64,0.83,"4,120",656,"1,415",1,5,Low,-,"2,333",Low,Newcastle upon Tyne,5
+NE7,0.9,"9,474","1,683","4,054",3,12,Low,-,"5,050",High,Newcastle upon Tyne,3
+NE8,0.93,"22,906","4,313","11,659",3,34,Low,3,"11,333",Medium,Newcastle upon Tyne,3
+NE82,0.8,-,-,-,-,-,Low,-,-,Medium,Newcastle upon Tyne,5
+NE83,0.8,-,-,-,-,-,Low,-,-,Medium,Newcastle upon Tyne,5
+NE85,0.8,-,-,-,-,-,Low,-,-,Medium,Newcastle upon Tyne,5
+NE88,0.82,-,-,-,-,-,Low,-,-,High,Newcastle upon Tyne,5
+NE9,0.93,"24,232","3,694","9,475",2,11,Low,-,"12,533",Medium,Newcastle upon Tyne,3
+NE92,0.8,-,-,-,-,-,Low,-,-,Medium,Newcastle upon Tyne,5
+NE98,0.82,-,-,-,-,-,Low,-,-,High,Newcastle upon Tyne,5
+NE99,0.82,-,-,-,-,-,Low,-,-,High,Newcastle upon Tyne,5
+SR1,0.85,"3,741",993,"1,151",1,26,Low,1,"2,400",High,Sunderland,4
+SR2,0.96,"21,908","4,868","8,943",-,19,Low,1,"12,300",High,Sunderland,2
+SR3,0.97,"25,569","4,519","9,260",7,12,Low,-,"14,283",High,Sunderland,2
+SR4,0.98,"26,695","5,230","10,672",7,24,Low,1,"15,817",High,Sunderland,2
+SR5,0.96,"23,085","4,190","8,781",3,11,Low,-,"13,467",High,Sunderland,2
+SR6,0.93,"19,262","3,055","6,635",2,13,Low,1,"10,683",High,Sunderland,3
+SR7,0.93,"20,258","3,651","8,128",3,19,Low,-,"13,000",Medium,Sunderland,3
+SR8,0.96,"22,917","4,185","8,681",7,16,Low,-,"14,017",High,Sunderland,2
+SR9,0.81,-,-,-,-,-,Low,-,-,High,Sunderland,5
+TS24,0.89,"14,561","2,856","5,501",1,20,Medium,-,"8,650",Low,Teeside,3
+TS27,0.85,"7,779","1,219","2,943",1,4,Medium,-,"4,867",Low,Teeside,4
+TS28,0.84,"3,386",577,"1,467",1,2,Medium,-,"1,933",Medium,Teeside,5
+TS29,0.83,"3,994",677,"1,548",1,-,Medium,-,"2,350",Medium,Teeside,5
+CA14,0.97,"22,966","3,639","8,800",5,15,Low,-,"13,683",High,Carlisle,2
+CA18,0.81,212,19,55,-,-,Low,-,"1,000",Low,Carlisle,5
+CA19,0.81,635,76,180,-,-,Low,-,"1,000",Low,Carlisle,5
+CA20,0.82,"2,079",229,630,1,1,Low,-,"1,667",Low,Carlisle,5
+CA21,0.81,613,78,219,-,-,Low,-,"1,000",Low,Carlisle,5
+CA22,0.84,"5,645",846,"2,095",1,3,Low,-,"3,517",Medium,Carlisle,5
+CA23,0.81,899,173,352,-,-,Low,1,"1,000",Medium,Carlisle,5
+CA24,0.81,773,159,339,-,-,Low,-,"1,000",Medium,Carlisle,5
+CA25,0.83,"3,986",707,"1,514",1,2,Low,-,"2,350",Medium,Carlisle,5
+CA26,0.82,"2,462",386,906,-,1,Low,-,"1,200",Low,Carlisle,5
+CA27,0.81,965,114,357,-,-,Low,-,"1,000",Medium,Carlisle,5
+CA28,0.91,"18,147","2,978","7,353",4,8,Low,-,"11,417",Medium,Carlisle,3
+CA95,0.8,-,-,-,-,-,Low,-,-,Low,Carlisle,5
+CA13,0.85,"9,382","1,228","3,311",6,10,Low,2,"5,333",Medium,Carlisle,4
+CA15,0.87,"10,242","1,657","4,004",1,5,Low,-,"5,950",Medium,Carlisle,4
+LA13,0.9,"11,766","1,982","4,511",5,8,Low,-,"7,067",Medium,Lancaster,3
+LA14,0.98,"25,606","4,316","9,669",9,22,Low,1,"15,883",Medium,Lancaster,2
+LA15,0.86,"4,957",820,"1,944",1,5,Low,-,"2,633",Medium,Lancaster,4
+LA16,0.84,"2,109",367,756,1,3,Low,-,"1,233",Medium,Lancaster,4
+LA17,0.82,740,83,212,-,-,Low,-,"1,000",Medium,Lancaster,5
+LA18,0.83,"5,352",854,"1,805",1,5,Low,-,"3,267",Low,Lancaster,5
+LA19,0.81,598,88,196,-,-,Low,-,"1,000",Low,Lancaster,5
+LA20,0.81,730,96,233,-,1,Low,-,"1,000",Low,Lancaster,5
+CA10,0.85,"8,252","1,090","2,790",1,4,Low,1,"4,983",Low,Carlisle,4
+CA11,0.88,"14,084","2,081","5,200",7,19,Low,-,"8,533",Low,Carlisle,4
+CA12,0.83,"4,898",579,"1,586",1,5,Low,-,"3,167",Medium,Carlisle,5
+CA16,0.82,"3,780",460,"1,265",-,2,Low,-,"2,167",Low,Carlisle,5
+CA17,0.82,"3,014",390,"1,043",1,3,Low,-,"1,833",Medium,Carlisle,5
+CA5,0.82,"4,249",610,"1,365",1,-,Low,-,"2,217",Medium,Carlisle,5
+CA7,0.88,"13,724","2,154","4,756",3,7,Low,-,"7,733",Low,Carlisle,4
+CA9,0.81,"1,349",215,422,1,-,Low,-,"1,000",Low,Carlisle,5
+DL12,0.84,"7,444","1,029","2,303",4,8,Low,1,"4,583",Medium,Darlington,4
+LA11,0.83,"6,038",683,"1,581",1,14,Low,-,"3,067",Low,Lancaster,5
+LA23,0.83,"5,568",635,"1,933",2,13,Low,-,"3,283",Medium,Lancaster,5
+LA4,0.92,"17,238","2,589","5,955",7,16,Low,3,"10,217",Medium,Lancaster,3
+LA5,0.89,"10,114","1,301","3,225",5,4,Low,-,"5,200",High,Lancaster,3
+LA7,0.85,"3,141",348,981,-,1,Low,-,"1,783",High,Lancaster,4
+LA8,0.85,"5,401",664,"1,666",-,2,Low,-,"3,150",Medium,Lancaster,4
+LA9,0.93,"19,343","2,717","7,619",7,20,Low,1,"11,967",Medium,Lancaster,3
+LA10,0.81,"2,240",242,663,-,-,Low,-,"1,183",Low,Lancaster,5
+LA12,0.9,"12,691","1,679","4,368",4,8,Low,1,"6,700",Medium,Lancaster,3
+LA21,0.81,581,77,168,1,1,Low,-,"1,000",Medium,Lancaster,5
+LA22,0.82,"3,011",385,"1,007",4,6,Low,1,"2,050",Medium,Lancaster,5
+LA6,0.87,"7,501",962,"2,373",3,9,Low,-,"4,533",Medium,Lancaster,4
+DL10,0.88,"11,131","1,555","3,848",3,9,Low,-,"6,250",Medium,Darlington,4
+DL11,0.82,"3,249",407,"1,023",-,2,Low,-,"1,433",Low,Darlington,5
+DL13,0.84,"9,024","1,197","3,128",5,3,Low,-,"4,267",Low,Darlington,4
+DL14,1,"24,152","3,945","9,110",10,15,Low,-,"15,650",High,Darlington,1
+DL15,0.88,"14,528","2,279","5,737",5,5,Low,-,"8,600",Low,Darlington,4
+DL2,0.87,"10,418","1,432","4,030",5,5,Low,-,"7,067",Medium,Darlington,4
+DL8,0.88,"11,447","1,538","3,676",2,11,Low,-,"6,467",Medium,Darlington,4
+DL9,0.86,"7,320","1,485","4,393",4,2,Low,-,"6,600",Low,Darlington,4
+HG4,0.92,"15,649","2,183","5,929",6,11,Low,2,"9,200",High,Harrogate,3
+DL1,0.98,"30,065","5,197","12,039",11,32,Low,-,"19,283",Medium,Darlington,2
+DL17,0.88,"11,551","1,865","4,263",5,4,Low,-,"7,367",Medium,Darlington,4
+DL3,0.95,"29,020","4,625","11,661",7,30,Low,1,"15,200",Medium,Darlington,2
+DL4,0.85,"6,659","1,089","2,408",-,1,Low,-,"3,667",Medium,Darlington,4
+DL5,0.91,"18,547","3,073","6,950",5,8,Low,-,"12,217",Medium,Darlington,3
+DL6,0.87,"9,752","1,522","3,398",1,8,Low,-,"5,833",Medium,Darlington,4
+DL7,0.87,"9,545","1,350","3,719",5,7,Low,1,"5,667",Medium,Darlington,4
+DL98,0.8,-,-,-,-,-,Low,-,-,Medium,Darlington,5
+TS1,0.9,"11,852","4,047","5,084",3,56,Medium,1,"7,717",Medium,Teeside,3
+TS10,0.95,"23,929","4,350","9,152",9,12,Medium,1,"15,000",Medium,Teeside,2
+TS15,0.88,"7,756","1,138","2,686",2,6,Medium,-,"4,617",High,Teeside,4
+TS16,0.85,"6,419",988,"2,595",3,2,Medium,-,"3,800",Medium,Teeside,4
+TS17,1.01,"27,769","5,520","13,303",11,16,Medium,-,"18,717",High,Teeside,1
+TS18,0.91,"15,208","3,045","6,244",3,25,Medium,2,"9,450",Medium,Teeside,3
+TS19,0.95,"23,623","4,446","9,060",5,8,Medium,-,"14,050",Medium,Teeside,2
+TS2,0.82,511,120,227,-,2,Medium,-,"1,150",Medium,Teeside,5
+TS20,0.9,"13,441","2,264","5,333",2,6,Medium,-,"7,633",High,Teeside,3
+TS21,0.86,"7,774","1,142","2,962",3,9,Medium,-,"5,067",Medium,Teeside,4
+TS22,0.85,"5,094",720,"1,694",3,18,Medium,-,"3,650",Medium,Teeside,4
+TS23,0.93,"19,059","3,743","7,673",2,12,Medium,-,"11,783",Medium,Teeside,3
+TS25,0.96,"25,021","4,486","8,959",5,14,Medium,-,"14,683",Medium,Teeside,2
+TS26,0.9,"16,183","3,040","6,525",6,7,Medium,-,"8,833",Low,Teeside,3
+TS3,0.93,"19,755","3,963","7,181",3,9,Medium,1,"12,350",Medium,Teeside,3
+TS4,0.89,"11,148","2,466","4,459",7,12,Medium,-,"8,617",Medium,Teeside,3
+TS5,0.96,"24,611","4,885","10,062",14,22,Medium,-,"14,333",Medium,Teeside,2
+TS6,0.92,"19,828","3,822","7,223",3,7,Medium,-,"11,583",Medium,Teeside,3
+TS7,0.91,"13,546","2,213","4,516",-,6,Medium,-,"7,467",High,Teeside,3
+TS8,0.9,"13,201","2,299","5,338",2,2,Medium,1,"8,517",High,Teeside,3
+TS9,0.87,"7,969","1,045","2,323",3,5,Medium,-,"4,217",Medium,Teeside,4
+TS11,0.85,"7,532","1,115","2,451",3,-,Medium,-,"3,633",Medium,Teeside,4
+TS12,0.89,"14,284","2,357","5,524",7,6,Medium,-,"9,317",Medium,Teeside,3
+TS14,0.88,"10,912","1,673","3,863",6,4,Medium,-,"6,050",Medium,Teeside,4
+YO51,0.84,"3,368",493,"1,204",1,3,Low,-,"2,700",Medium,York,5
+YO61,0.87,"8,477","1,160","2,710",2,6,Low,1,"4,317",High,York,4
+YO7,0.9,"12,001","1,776","4,665",3,6,Low,-,"8,083",Medium,York,3
+YO21,0.87,"8,822","1,230","2,750",2,15,Low,1,"5,083",Medium,York,4
+YO60,0.84,"2,916",339,900,-,3,Low,-,"1,317",High,York,4
+YO62,0.85,"7,086",953,"2,098",1,2,Low,5,"3,433",Medium,York,4
+TS13,0.85,"6,577","1,168","2,266",2,6,Medium,-,"3,800",Medium,Teeside,4
+YO11,0.89,"15,148","2,725","4,981",3,26,Low,2,"9,750",Low,York,3
+YO12,0.96,"25,990","4,364","9,539",3,10,Low,1,"16,700",Low,York,2
+YO13,0.83,"6,146",783,"1,732",-,3,Low,-,"3,100",Medium,York,5
+YO18,0.84,"6,683",868,"1,940",2,7,Low,1,"3,500",Medium,York,5
+YO22,0.83,"5,409",737,"1,582",2,7,Low,-,"3,450",Low,York,5
+YO14,0.84,"7,167","1,020","1,786",1,5,Low,-,"3,733",Medium,York,5
+YO16,0.91,"16,195","2,188","5,045",5,16,Low,1,"9,767",Medium,York,3
+LL66,0.81,-,-,-,-,-,Low,-,"1,000",Low,Llandudno,5
+LL69,0.81,385,57,135,-,-,Low,-,"1,000",Low,Llandudno,5
+LL70,0.81,215,31,57,-,-,Low,-,"1,000",Low,Llandudno,5
+LL72,0.81,476,59,115,-,1,Low,-,"1,000",Low,Llandudno,5
+LL67,0.81,898,129,270,-,-,Low,-,"1,000",Low,Llandudno,5
+LL68,0.82,"4,039",651,"1,310",1,1,Low,-,"2,467",Low,Llandudno,5
+CH28,0.8,-,-,-,-,-,Low,-,-,Low,Chester,5
+CH29,0.8,-,-,-,-,-,Low,-,-,Low,Chester,5
+CH30,0.8,-,-,-,-,-,Low,-,-,Medium,Chester,5
+CH47,0.84,"6,738","1,023","2,341",2,4,Low,-,"3,017",Medium,Chester,5
+CH48,0.86,"9,466","1,239","3,015",4,7,Low,-,"4,033",Medium,Chester,4
+CH8,0.89,"13,005","2,164","4,817",1,8,Low,-,"7,617",Medium,Chester,3
+LL19,0.87,"12,693","1,951","4,140",2,10,Low,-,"6,733",Medium,Llandudno,4
+BB2,1.05,"36,964","6,775","16,420",9,34,Medium,1,"21,172",High,Blackburn,1
+BB1,1.05,"38,639","8,158","18,500",9,65,Medium,-,"19,600",Medium,Blackburn,1
+BB3,0.94,"22,210","3,785","9,558",3,28,Medium,-,"13,283",Low,Blackburn,2
+BB5,1.06,"38,548","7,025","16,635",6,42,Medium,-,"23,756",Medium,Blackburn,1
+BB6,0.86,"9,162","1,519","3,667",4,8,Medium,-,"5,000",Medium,Blackburn,4
+BB7,0.94,"19,337","2,789","7,111",6,25,Medium,1,"13,633",Medium,Blackburn,2
+BD23,0.91,"18,239","2,537","6,196",5,25,Low,1,"11,800",Medium,Bradford,3
+BL1,1.02,"40,868","7,796","17,944",7,131,Medium,-,"18,967",Medium,Bolton,1
+BL11,0.8,-,-,-,-,-,Medium,-,-,Medium,Bolton,5
+BL5,0.91,"17,015","2,771","7,260",8,11,Medium,-,"11,333",Medium,Bolton,3
+BL6,0.93,"18,558","2,879","7,681",5,20,Medium,-,"11,983",Medium,Bolton,3
+BL78,0.8,-,-,-,-,-,Medium,-,-,Medium,Bolton,5
+BL2,0.98,"29,350","5,033","11,425",6,34,Medium,-,"17,267",Medium,Bolton,2
+BL3,1.03,"39,430","7,818","18,161",8,102,Medium,-,"18,933",Medium,Bolton,1
+BL4,1,"21,673","4,228","8,985",1,30,Medium,-,"13,650",High,Bolton,2
+BL7,0.86,"9,252","1,446","3,510",3,7,Medium,-,"5,050",Medium,Bolton,4
+CH25,0.8,-,-,-,-,-,Low,-,-,Medium,Chester,5
+CH26,0.8,-,-,-,-,-,Low,-,-,Low,Chester,5
+CH27,0.81,-,-,-,-,-,Low,-,-,Medium,Chester,5
+CH32,0.8,-,-,-,-,-,Low,-,-,Low,Chester,5
+CH41,0.89,"13,557","2,562","5,171",3,33,Low,2,"8,683",Medium,Chester,4
+CH42,0.92,"21,048","3,870","8,465",6,10,Low,1,"10,950",Medium,Chester,3
+CH43,0.93,"25,170","4,089","9,767",1,13,Low,-,"12,700",Low,Chester,3
+CH44,0.93,"20,086","3,700","7,760",3,24,Low,-,"10,767",Medium,Chester,3
+CH45,0.92,"20,237","3,369","7,399",1,11,Low,-,"10,183",Medium,Chester,3
+CH46,0.89,"16,684","2,719","6,358",2,13,Low,-,"9,283",Low,Chester,3
+CH49,0.93,"18,559","2,868","6,531",6,16,Low,-,"11,367",Medium,Chester,3
+CH60,0.83,"7,950",960,"2,303",3,2,Low,-,"2,650",Medium,Chester,5
+CH61,0.87,"11,072","1,537","3,450",3,4,Low,-,"4,633",Medium,Chester,4
+CH62,0.91,"18,580","2,831","7,408",8,25,Low,-,"11,250",Low,Chester,3
+CH63,0.91,"18,812","2,968","6,658",5,7,Low,-,"8,967",Medium,Chester,3
+CW9,0.96,"20,732","3,160","8,835",9,11,Low,2,"13,767",High,Crewe,2
+FY1,0.96,"22,470","4,148","8,555",5,48,Medium,5,"15,250",Medium,The Fylde,2
+FY2,0.89,"16,096","2,396","5,922",2,6,Medium,-,"8,967",Low,The Fylde,3
+FY3,0.95,"21,350","3,560","8,303",3,20,Medium,-,"13,683",Medium,The Fylde,2
+FY4,0.99,"28,693","4,469","10,391",12,49,Medium,-,"18,217",Medium,The Fylde,2
+FY5,0.97,"28,850","3,932","9,505",9,30,Medium,-,"16,917",Low,The Fylde,2
+FY6,0.93,"17,516","2,427","5,473",5,15,Medium,-,"10,917",Medium,The Fylde,3
+FY7,0.91,"16,499","2,883","5,746",4,21,Medium,1,"10,283",Medium,The Fylde,3
+FY8,0.96,"28,808","3,571","9,082",9,30,Medium,-,"15,250",Medium,The Fylde,2
+L1,0.88,"5,865","2,204","2,877",9,40,Medium,6,"6,483",Medium,Liverpool,4
+L10,0.87,"9,754","1,693","3,729",4,2,Medium,-,"4,667",Medium,Liverpool,4
+L11,0.92,"17,064","3,190","6,416",3,8,Medium,-,"9,567",Medium,Liverpool,3
+L12,0.92,"20,215","3,659","8,108",1,6,Medium,-,"7,850",Medium,Liverpool,3
+L13,0.93,"20,815","3,668","8,610",7,20,Medium,-,"9,067",Medium,Liverpool,3
+L14,0.92,"16,668","3,004","6,496",5,18,Medium,-,"9,100",Medium,Liverpool,3
+L15,0.95,"21,053","8,303","8,188",4,42,Medium,-,"8,667",Medium,Liverpool,2
+L16,0.87,"8,916","1,644","3,402",1,3,Medium,-,"3,583",Medium,Liverpool,4
+L17,0.9,"16,764","3,301","8,385",1,20,Medium,-,"5,883",Medium,Liverpool,3
+L18,0.91,"17,743","5,029","6,765",2,39,Medium,-,"5,633",Medium,Liverpool,3
+L19,0.9,"15,876","2,779","6,613",3,18,Medium,-,"6,417",Medium,Liverpool,3
+L2,0.84,535,126,377,2,11,Medium,1,"2,433",Medium,Liverpool,5
+L20,0.95,"21,481","3,971","8,188",3,38,Medium,-,"12,183",High,Liverpool,2
+L21,0.92,"17,084","3,272","6,784",-,10,Medium,-,"8,750",Medium,Liverpool,3
+L22,0.85,"9,072","1,559","3,752",1,8,Medium,-,"4,383",Low,Liverpool,4
+L23,0.89,"18,976","3,154","6,194",6,13,Medium,-,"7,733",Low,Liverpool,3
+L25,0.92,"22,112","3,390","7,567",7,11,Medium,-,"8,633",Medium,Liverpool,3
+L26,0.88,"9,666","1,855","3,865",3,2,Medium,-,"5,700",Medium,Liverpool,4
+L27,0.84,"4,380",809,"1,573",-,1,Medium,-,"1,650",Medium,Liverpool,4
+L28,0.83,"4,448",793,"1,470",-,-,Medium,-,"1,950",Medium,Liverpool,5
+L29,0.81,238,41,116,-,-,Medium,-,"1,000",Low,Liverpool,5
+L3,0.9,"11,124","3,382","5,551",2,68,Medium,7,"7,500",Medium,Liverpool,3
+L30,0.9,"13,067","2,533","4,833",3,5,Medium,-,"6,833",Medium,Liverpool,3
+L31,0.9,"18,691","3,083","6,365",1,18,Medium,-,"9,000",Medium,Liverpool,3
+L32,0.88,"13,939","2,521","5,085",-,4,Medium,-,"6,917",Low,Liverpool,4
+L33,0.88,"11,091","2,178","4,901",-,8,Medium,-,"7,250",Medium,Liverpool,4
+L34,0.86,"7,817","1,278","2,937",1,7,Medium,-,"5,567",Medium,Liverpool,4
+L35,0.93,"19,507","3,509","7,408",3,11,Medium,-,"11,583",Medium,Liverpool,3
+L36,0.96,"26,136","5,120","9,418",-,15,Medium,-,"12,917",Medium,Liverpool,2
+L38,0.82,"1,589",242,411,-,1,Medium,-,"1,017",Low,Liverpool,5
+L39,0.92,"17,149","4,115","5,345",3,13,Medium,-,"9,833",Medium,Liverpool,3
+L4,0.98,"28,205","5,314","10,936",4,33,Medium,-,"13,450",High,Liverpool,2
+L40,0.89,"10,925","1,622","4,030",2,22,Medium,1,"6,667",High,Liverpool,3
+L5,0.87,"9,331","1,602","3,413",2,7,Medium,-,"4,700",Medium,Liverpool,4
+L6,0.91,"16,541","3,381","7,059",-,18,Medium,2,"8,017",Medium,Liverpool,3
+L67,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L68,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L69,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L7,0.91,"12,131","4,016","4,930",1,54,Medium,1,"8,150",Medium,Liverpool,3
+L70,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L71,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L72,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L73,0.81,-,-,-,-,-,Low,-,-,Medium,Liverpool,5
+L74,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L75,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L8,0.95,"24,262","5,370","10,770",1,51,Medium,-,"10,433",Medium,Liverpool,2
+L80,0.81,-,-,-,-,-,Medium,-,-,Medium,Liverpool,5
+L9,0.94,"20,940","3,648","9,309",5,16,Medium,-,"9,517",High,Liverpool,2
+L24,0.91,"10,860","2,122","4,257",1,12,Medium,-,"7,100",High,Liverpool,3
+L37,0.87,"14,173","2,033","4,366",6,5,Medium,-,"6,000",Low,Liverpool,4
+LA1,1.02,"31,538","8,343","12,910",7,28,Low,1,"19,000",Medium,Lancaster,1
+LA2,0.91,"12,127","1,597","4,053",3,7,Low,-,"6,833",High,Lancaster,3
+LA3,0.92,"15,663","2,527","6,212",2,8,Low,1,"10,367",Medium,Lancaster,3
+M29,0.98,"14,533","2,579","6,173",5,11,Medium,-,"9,900",High,Manchester,2
+M38,0.92,"8,622","1,635","3,365",-,7,Medium,-,"5,317",High,Manchester,3
+M46,0.92,"14,541","2,377","6,235",-,21,Medium,-,"8,967",Medium,Manchester,3
+M28,1.03,"25,310","3,960","10,585",5,24,Medium,-,"15,483",High,Manchester,1
+M30,1,"24,379","4,120","10,785",7,35,Medium,-,"13,500",High,Manchester,1
+M31,0.84,"5,480",971,"2,066",-,6,Medium,-,"3,333",Medium,Manchester,5
+M41,0.95,"25,969","4,184","10,251",6,22,Medium,-,"13,917",Medium,Manchester,2
+M44,0.94,"12,553","2,225","5,457",-,14,Medium,-,"7,100",High,Manchester,3
+PR0,0.81,-,-,-,-,-,Low,-,-,Medium,Preston,5
+PR1,1.07,"44,815","8,343","19,987",20,87,Low,1,"23,922",Medium,Preston,1
+PR11,0.81,-,-,-,-,-,Low,-,-,Medium,Preston,5
+PR2,1.09,"47,362","8,343","21,231",6,61,Low,-,"28,850",Medium,Preston,1
+PR25,0.95,"19,510","3,352","8,012",4,16,Low,-,"13,800",Medium,Preston,2
+PR26,0.87,"8,375","1,357","3,427",1,4,Low,-,"5,383",Medium,Preston,4
+PR3,1.01,"22,688","3,435","7,767",7,25,Low,-,"16,789",High,Preston,1
+PR4,1.06,"35,004","5,462","12,792",5,29,Low,-,"24,450",High,Preston,1
+PR5,1,"25,923","4,403","11,084",6,22,Low,1,"16,372",High,Preston,2
+PR6,0.95,"21,741","3,331","8,886",2,19,Low,-,"13,850",Medium,Preston,2
+PR7,1.04,"34,821","5,782","15,382",5,35,Low,-,"24,256",Medium,Preston,1
+PR8,1.02,"34,045","5,110","11,956",6,24,Low,2,"19,400",High,Preston,1
+PR9,0.98,"27,737","4,060","9,411",9,38,Low,1,"15,483",High,Preston,2
+WA1,0.89,"13,788","2,390","6,083",3,14,Low,4,"9,350",Medium,Warrington,4
+WA10,0.95,"25,425","4,301","9,992",5,32,Low,1,"14,983",Medium,Warrington,2
+WA11,0.94,"25,803","4,109","9,650",5,16,Low,-,"14,667",Medium,Warrington,2
+WA12,0.91,"14,244","2,550","6,274",3,11,Low,-,"10,167",Medium,Warrington,3
+WA13,0.87,"7,848","1,029","3,207",7,6,Low,1,"3,767",High,Warrington,4
+WA2,0.96,"26,678","5,047","11,287",7,12,Low,-,"16,467",Medium,Warrington,2
+WA3,1.04,"29,297","4,659","11,694",2,14,Low,-,"17,483",High,Warrington,1
+WA5,1.05,"35,795","6,085","16,827",6,22,Low,-,"25,234",Medium,Warrington,1
+WA55,0.8,-,-,-,-,-,Low,-,-,Medium,Warrington,5
+WA88,0.8,-,-,-,-,-,Low,-,-,Medium,Warrington,5
+WA9,1,"31,674","5,738","13,252",8,18,Low,1,"20,950",Medium,Warrington,2
+WA4,0.97,"29,085","4,422","11,499",10,23,Low,-,"16,017",High,Warrington,2
+WA7,1.05,"40,735","7,115","17,000",10,18,Low,1,"24,778",Medium,Warrington,1
+WA8,1.04,"39,594","7,247","16,005",9,10,Low,-,"23,450",Medium,Warrington,1
+WN1,0.9,"13,236","2,217","5,443",1,26,Low,1,"8,483",Medium,Wigan,3
+WN2,1.02,"33,383","5,828","14,477",2,25,Low,-,"20,283",Medium,Wigan,1
+WN3,0.93,"18,773","3,381","8,566",2,11,Low,1,"11,500",Medium,Wigan,3
+WN4,0.92,"17,987","3,028","7,296",2,11,Low,-,"10,700",Medium,Wigan,3
+WN5,0.99,"28,131","4,656","11,444",5,19,Low,-,"16,133",High,Wigan,2
+WN6,0.98,"24,958","4,055","9,958",5,16,Low,-,"15,567",High,Wigan,2
+WN7,1.01,"30,869","5,386","13,170",8,47,Low,-,"19,767",Medium,Wigan,1
+WN8,1.01,"29,268","5,319","11,794",2,14,Low,1,"18,383",High,Wigan,1
+BB10,0.96,"23,538","4,166","9,527",3,38,Medium,-,"14,233",Medium,Blackburn,2
+BB11,0.92,"14,513","2,650","5,699",6,30,Medium,2,"11,233",Low,Blackburn,3
+BB12,0.96,"22,030","3,798","8,968",-,21,Medium,-,"14,756",Medium,Blackburn,2
+BB18,0.88,"10,872","1,821","4,478",2,11,Medium,-,"7,267",Low,Blackburn,4
+BB4,0.97,"25,875","4,406","10,887",3,17,Medium,1,"16,500",Medium,Blackburn,2
+BB8,0.91,"14,939","2,558","5,914",6,24,Medium,1,"9,700",Medium,Blackburn,3
+BB9,0.97,"26,938","5,279","12,286",2,49,Medium,-,"14,867",Medium,Blackburn,2
+BB94,0.8,-,-,-,-,-,Medium,-,-,Low,Blackburn,5
+BD1,0.83,"2,891","1,002","1,722",3,30,Low,4,"2,583",Medium,Bradford,5
+BD12,0.87,"10,821","1,858","4,386",-,7,Low,-,"5,767",Medium,Bradford,4
+BD13,0.9,"15,706","2,683","6,561",3,24,Low,1,"9,817",Medium,Bradford,3
+BD14,0.83,"5,185",893,"2,211",-,4,Low,-,"2,617",Medium,Bradford,5
+BD15,0.85,"9,441","1,541","4,126",4,6,Low,-,"4,700",Medium,Bradford,4
+BD16,0.89,"16,480","2,412","6,682",6,16,Low,-,"7,783",Medium,Bradford,4
+BD18,0.89,"17,322","2,895","8,049",2,21,Low,1,"8,683",Medium,Bradford,3
+BD20,0.93,"21,330","3,184","8,492",5,10,Low,-,"13,200",Medium,Bradford,3
+BD21,0.91,"16,078","3,493","7,817",6,30,Low,1,"8,000",Medium,Bradford,3
+BD22,0.91,"18,946","3,037","7,834",2,6,Low,-,"10,783",Medium,Bradford,3
+BD5,0.9,"18,369","4,029","9,934",2,27,Low,-,"7,617",Medium,Bradford,3
+BD6,0.92,"19,160","3,426","8,465",1,14,Low,-,"11,417",Medium,Bradford,3
+BD7,0.91,"19,158","5,342","10,339",3,46,Low,1,"9,233",Medium,Bradford,3
+BD8,0.89,"16,938","4,226","9,914",2,40,Low,-,"6,950",Medium,Bradford,3
+BD9,0.89,"14,965","4,068","8,983",2,35,Low,-,"6,567",Medium,Bradford,4
+BD97,0.8,-,-,-,-,-,Low,-,-,Medium,Bradford,5
+BD98,0.8,-,-,-,-,-,Low,-,-,Medium,Bradford,5
+BD99,0.8,-,-,-,-,-,Low,-,-,Medium,Bradford,5
+BD10,0.91,"16,411","2,782","7,283",6,30,Low,-,"10,700",Medium,Bradford,3
+BD11,0.84,"7,001",973,"2,985",2,6,Low,2,"4,217",Medium,Bradford,4
+BD17,0.86,"11,460","1,641","4,556",3,13,Low,-,"6,067",Medium,Bradford,4
+BD19,0.88,"13,945","2,270","5,984",2,19,Low,2,"8,467",Medium,Bradford,4
+BD2,0.9,"17,587","3,332","7,690",5,21,Low,-,"10,067",Medium,Bradford,3
+BD24,0.82,"3,111",399,886,2,1,Low,1,"1,550",Low,Bradford,5
+BD3,0.92,"18,073","4,884","10,618",4,46,Low,-,"7,833",Medium,Bradford,3
+BD4,0.93,"19,978","3,714","8,935",-,37,Low,-,"11,883",Medium,Bradford,3
+BL0,0.88,"11,205","1,608","4,689",4,10,Medium,-,"5,733",Medium,Bolton,4
+BL8,0.94,"21,926","3,457","8,749",3,18,Medium,-,"12,333",Medium,Bolton,2
+BL9,1,"30,671","5,476","12,957",3,50,Medium,-,"18,567",Medium,Bolton,2
+HD1,0.89,"13,999","4,055","6,841",8,64,Low,2,"7,800",Medium,Huddersfield,3
+HD2,0.9,"18,739","3,591","8,364",-,14,Low,-,"9,067",Medium,Huddersfield,3
+HD3,0.91,"18,907","3,088","8,199",19,13,Low,-,"11,033",Medium,Huddersfield,3
+HD4,0.91,"19,553","3,800","7,955",3,15,Low,-,"9,967",Medium,Huddersfield,3
+HD6,0.9,"17,473","2,680","6,942",3,18,Low,-,"9,483",Medium,Huddersfield,3
+HD7,0.9,"14,362","2,166","6,214",3,17,Low,1,"8,017",Medium,Huddersfield,3
+HD5,0.91,"20,186","3,892","8,194",5,15,Low,-,"10,433",Medium,Huddersfield,3
+HD8,0.93,"20,199","2,890","8,216",4,16,Low,-,"11,150",Medium,Huddersfield,3
+HD9,0.95,"21,683","3,121","8,333",11,19,Low,-,"11,983",High,Huddersfield,2
+HG3,0.89,"15,925","2,112","6,014",3,16,Low,-,"9,567",Low,Harrogate,4
+HX1,0.88,"14,301","3,210","7,546",3,36,Low,2,"6,800",Medium,Halifax,4
+HX2,0.93,"22,877","3,831","8,982",3,4,Low,-,"13,400",Medium,Halifax,3
+HX3,0.97,"29,515","4,650","11,826",1,16,Low,-,"17,767",Medium,Halifax,2
+HX4,0.84,"7,580","1,085","3,279",1,1,Low,-,"4,200",Medium,Halifax,5
+HX5,0.84,"6,687","1,108","2,748",3,4,Low,1,"3,983",Medium,Halifax,5
+HX6,0.88,"12,083","1,944","5,243",1,11,Low,-,"7,083",Medium,Halifax,4
+HX7,0.84,"8,752","1,106","3,196",3,8,Low,-,"4,183",Medium,Halifax,4
+LS29,0.89,"19,036","2,355","6,829",8,16,Low,-,"8,333",Medium,Leeds,3
+LS19,0.87,"12,447","1,797","5,293",4,10,Low,-,"6,900",Medium,Leeds,4
+LS20,0.84,"7,807","1,075","3,265",4,6,Low,-,"3,633",Medium,Leeds,5
+LS21,0.87,"11,060","1,445","4,154",5,16,Low,-,"6,133",Medium,Leeds,4
+LS28,0.95,"24,044","3,523","11,331",6,21,Low,2,"14,183",Medium,Leeds,2
+M1,0.88,"8,447","3,029","4,532",13,44,Medium,9,"6,767",Medium,Manchester,4
+M11,0.89,"14,123","2,637","6,361",3,24,Medium,1,"7,183",Medium,Manchester,4
+M12,0.87,"10,442","2,119","5,372",-,40,Medium,1,"4,717",Medium,Manchester,4
+M13,0.91,"12,823","4,709","6,172",3,28,Medium,3,"9,200",Medium,Manchester,3
+M14,0.99,"33,099","8,343","12,941",3,115,Medium,-,"14,850",Medium,Manchester,2
+M15,0.9,"15,799","4,378","8,997",3,24,Medium,1,"7,917",Medium,Manchester,3
+M16,0.93,"22,892","4,536","12,523",2,52,Medium,1,"9,917",Medium,Manchester,3
+M17,0.87,-,-,-,1,3,Medium,2,"1,600",High,Manchester,4
+M18,0.9,"15,758","2,848","7,168",3,34,Medium,-,"8,383",Medium,Manchester,3
+M19,0.94,"22,389","4,638","11,554",4,69,Medium,-,"10,683",Medium,Manchester,3
+M2,0.83,-,-,-,4,22,Medium,4,"2,550",Medium,Manchester,5
+M20,0.99,"33,627","8,343","18,708",8,63,Medium,-,"14,100",Medium,Manchester,2
+M21,0.92,"20,020","2,912","11,956",5,53,Medium,-,"7,533",Medium,Manchester,3
+M22,0.98,"28,844","5,082","13,122",3,29,Medium,-,"15,650",Medium,Manchester,2
+M23,0.93,"21,002","3,419","9,565",5,15,Medium,-,"11,567",Medium,Manchester,3
+M24,1,"30,940","5,450","12,499",3,40,Medium,-,"17,583",Medium,Manchester,2
+M25,0.98,"19,162","3,196","8,684",3,41,Medium,-,"8,700",High,Manchester,2
+M26,0.95,"22,441","4,094","9,958",-,29,Medium,-,"13,383",Medium,Manchester,2
+M27,1.01,"26,936","4,455","11,344",4,20,Medium,-,"14,483",High,Manchester,1
+M3,0.97,"10,012","2,668","6,144",15,58,Medium,8,"10,300",High,Manchester,2
+M32,0.91,"18,996","3,152","8,749",5,24,Medium,-,"9,817",Medium,Manchester,3
+M33,1.01,"38,670","5,526","17,086",8,28,Medium,1,"19,033",Medium,Manchester,1
+M34,0.99,"30,197","5,275","11,667",3,27,Medium,1,"19,283",Low,Manchester,2
+M35,0.89,"13,460","2,273","5,359",4,12,Medium,-,"7,917",Medium,Manchester,4
+M4,0.89,"9,872","2,824","5,924",6,55,Medium,5,"7,933",Medium,Manchester,3
+M40,0.96,"28,127","5,049","11,650",-,73,Medium,-,"14,250",Medium,Manchester,2
+M43,0.9,"15,164","2,781","6,079",-,17,Medium,-,"9,000",Medium,Manchester,3
+M45,0.89,"14,589","2,384","6,113",2,11,Medium,-,"7,583",Medium,Manchester,3
+M5,0.97,"11,797","2,599","5,618",2,10,Medium,1,"12,533",High,Manchester,2
+M50,0.89,"2,858",695,"2,051",3,7,Medium,1,"3,483",High,Manchester,3
+M6,1,"21,004","4,071","8,698",4,38,Medium,-,"13,633",High,Manchester,2
+M60,0.83,-,-,-,-,-,Medium,-,-,High,Manchester,5
+M61,0.81,-,-,-,-,-,Medium,-,-,Medium,Manchester,5
+M7,0.96,"17,053","3,427","7,759",-,39,Medium,-,"7,950",High,Manchester,2
+M8,0.98,"19,084","4,046","10,392",1,52,Medium,1,"8,600",High,Manchester,2
+M9,0.95,"27,447","4,651","12,110",3,22,Medium,-,"13,467",Medium,Manchester,2
+M90,0.81,-,-,-,-,-,Medium,-,"1,000",Medium,Manchester,5
+M99,0.81,-,-,-,-,-,Medium,-,-,Medium,Manchester,5
+OL1,0.9,"13,282","2,683","6,151",3,38,Medium,2,"9,883",Low,Oldham,3
+OL10,0.92,"18,236","3,482","7,242",3,16,Medium,-,"11,400",Medium,Oldham,3
+OL11,0.96,"27,897","5,573","11,976",3,24,Medium,-,"15,433",Medium,Oldham,2
+OL12,0.99,"28,428","5,271","12,119",2,26,Medium,-,"15,533",Medium,Oldham,2
+OL13,0.87,"9,693","1,635","3,987",-,5,Medium,-,"6,250",Low,Oldham,4
+OL14,0.86,"10,096","1,540","4,002",3,13,Medium,-,"5,750",Medium,Oldham,4
+OL15,0.86,"9,071","1,428","3,748",3,4,Medium,-,"5,217",Medium,Oldham,4
+OL16,0.95,"22,723","4,854","10,667",7,44,Medium,-,"13,917",Medium,Oldham,2
+OL2,0.95,"27,117","4,359","10,522",3,16,Medium,-,"14,633",Medium,Oldham,2
+OL3,0.85,"9,359","1,287","3,426",2,13,Medium,-,"4,417",Medium,Oldham,4
+OL4,0.96,"27,229","5,448","12,339",4,24,Medium,-,"14,500",Low,Oldham,2
+OL5,0.85,"7,077","1,005","3,327",1,5,Medium,1,"4,033",Low,Oldham,4
+OL6,0.94,"18,640","3,276","8,199",16,42,Medium,-,"11,067",High,Oldham,2
+OL7,0.89,"10,800","2,058","4,532",-,12,Medium,-,"7,417",Medium,Oldham,3
+OL8,0.95,"23,479","5,376","10,896",-,48,Medium,-,"13,817",Low,Oldham,2
+OL9,0.95,"24,997","4,993","11,359",4,31,Medium,1,"12,900",Medium,Oldham,2
+OL95,0.8,-,-,-,-,-,Medium,-,-,Low,Oldham,5
+S36,0.94,"16,911","2,533","6,876",2,8,High,1,"9,883",High,Sheffield,2
+S6,1.03,"38,263","6,839","17,450",6,18,High,-,"18,750",Medium,Sheffield,1
+SK1,0.85,"8,073","1,171","3,574",2,17,Low,-,"5,633",Low,Stockport,4
+SK13,0.94,"20,826","3,460","8,524",2,21,Low,1,"12,683",Medium,Stockport,2
+SK14,1,"29,506","5,146","12,488",5,27,Low,-,"18,217",Medium,Stockport,1
+SK15,0.93,"17,547","3,179","7,481",3,12,Low,-,"10,717",High,Stockport,3
+SK16,0.88,"12,667","2,165","5,328",1,14,Low,-,"7,100",Medium,Stockport,4
+SK2,0.91,"18,473","3,130","7,543",5,10,Low,-,"11,433",Low,Stockport,3
+SK3,0.91,"18,690","3,002","9,104",4,21,Low,-,"10,817",Low,Stockport,3
+SK4,0.92,"22,205","3,389","9,859",4,24,Low,-,"10,600",Medium,Stockport,3
+SK5,0.91,"19,683","3,558","8,365",1,27,Low,-,"11,017",Low,Stockport,3
+SK6,0.99,"31,734","4,583","11,277",6,21,Low,1,"16,183",High,Stockport,2
+SK8,1,"35,939","5,682","14,059",6,43,Low,-,"18,067",Medium,Stockport,1
+WA15,0.96,"26,002","3,852","10,774",8,20,Low,-,"12,283",High,Warrington,2
+WF14,0.87,"12,200","1,873","4,586",3,11,Low,-,"6,950",Medium,Wakefield,4
+WF15,0.86,"11,198","1,815","4,732",3,7,Low,-,"6,300",Medium,Wakefield,4
+DN1,0.86,"6,298","1,079","3,113",3,55,Medium,1,"6,833",Low,Doncaster,4
+DN11,0.96,"17,598","2,997","6,757",3,17,Medium,-,"12,383",High,Doncaster,2
+DN12,0.93,"15,428","2,880","6,128",2,15,Medium,-,"9,467",High,Doncaster,3
+DN2,0.9,"15,591","2,848","6,560",5,13,Medium,-,"9,867",Low,Doncaster,3
+DN4,1.01,"34,079","5,992","14,282",5,45,Medium,1,"20,517",Medium,Doncaster,1
+DN5,0.97,"25,518","4,517","10,054",5,19,Medium,-,"14,750",Medium,Doncaster,2
+DN55,0.8,-,-,-,-,-,Medium,-,-,Low,Doncaster,5
+DN6,0.94,"19,436","3,491","7,651",2,15,Medium,-,"12,867",Medium,Doncaster,2
+DN10,0.85,"7,332",936,"2,567",3,5,Medium,-,"4,283",Medium,Doncaster,4
+DN14,0.99,"28,582","4,712","11,795",4,23,Medium,1,"19,983",Medium,Doncaster,2
+DN3,0.94,"18,769","2,977","7,550",4,14,Medium,-,"11,583",Medium,Doncaster,2
+DN7,0.91,"14,033","2,501","5,544",1,3,Medium,-,"8,417",Medium,Doncaster,3
+DN9,0.88,"12,115","1,902","4,365",3,8,Medium,-,"7,983",Medium,Doncaster,4
+HG1,0.92,"22,672","3,413","10,128",13,24,Low,2,"11,933",Low,Harrogate,3
+HG2,0.9,"20,814","2,891","8,070",7,15,Low,-,"10,317",Low,Harrogate,3
+HG5,0.86,"11,385","1,546","3,887",5,7,Low,-,"6,517",Medium,Harrogate,4
+LS1,0.85,"3,051",986,"1,790",17,26,Low,1,"4,950",Medium,Leeds,4
+LS10,0.95,"23,916","4,647","11,394",5,12,Low,1,"15,617",Medium,Leeds,2
+LS11,0.95,"23,649","4,579","11,608",3,45,Low,-,"12,900",Medium,Leeds,2
+LS12,0.96,"27,468","5,061","13,263",3,36,Low,1,"14,017",Medium,Leeds,2
+LS13,0.95,"23,161","3,926","10,864",5,9,Low,-,"13,000",Medium,Leeds,2
+LS14,0.96,"22,597","3,946","9,135",4,10,Low,-,"13,550",High,Leeds,2
+LS15,0.93,"22,051","3,478","8,143",2,24,Low,-,"11,767",Medium,Leeds,3
+LS16,0.94,"22,570","3,733","8,619",4,14,Low,-,"10,967",High,Leeds,3
+LS17,0.93,"27,307","4,091","11,574",11,17,Low,1,"12,017",Medium,Leeds,3
+LS18,0.87,"11,947","1,813","5,422",1,15,Low,-,"6,233",Medium,Leeds,4
+LS2,0.86,"5,110","2,405","2,658",3,10,Low,4,"5,700",Medium,Leeds,4
+LS22,0.85,"9,567","1,212","3,179",9,17,Low,1,"4,933",Medium,Leeds,4
+LS23,0.84,"5,145",592,"1,927",-,1,Low,-,"2,683",Medium,Leeds,5
+LS24,0.85,"7,263","1,146","2,788",2,6,Low,-,"4,400",Medium,Leeds,4
+LS25,0.96,"24,656","4,015","10,112",6,27,Low,-,"16,617",Medium,Leeds,2
+LS26,0.91,"18,740","2,732","8,106",5,9,Low,-,"11,717",Medium,Leeds,3
+LS27,0.96,"23,146","3,386","11,303",1,15,Low,-,"14,283",Medium,Leeds,2
+LS3,0.83,"1,812","1,026",798,-,7,Low,-,"1,283",Medium,Leeds,5
+LS4,0.86,"6,675","2,809","3,092",3,6,Low,1,"3,317",Medium,Leeds,4
+LS5,0.84,"5,318","1,276","2,716",1,2,Low,-,"2,750",Medium,Leeds,5
+LS6,0.97,"31,661","8,343","10,710",12,39,Low,2,"14,150",Medium,Leeds,2
+LS7,0.91,"19,681","3,558","9,913",11,36,Low,-,"8,383",Medium,Leeds,3
+LS8,0.96,"29,620","5,772","15,039",5,56,Low,1,"12,467",Medium,Leeds,2
+LS88,0.8,-,-,-,-,-,Low,-,-,Medium,Leeds,5
+LS9,0.96,"25,613","4,947","11,747",1,44,Low,3,"15,333",Medium,Leeds,2
+LS98,0.8,-,-,-,-,-,Low,-,-,Medium,Leeds,5
+LS99,0.8,-,-,-,-,-,Low,-,-,Medium,Leeds,5
+S1,0.92,"6,359","5,066","2,194",11,34,High,4,"5,083",High,Sheffield,3
+S10,0.98,"28,570","8,343","10,177",11,23,High,-,"11,500",Medium,Sheffield,2
+S13,0.97,"19,659","3,292","7,794",2,7,High,-,"10,417",High,Sheffield,2
+S2,1.04,"29,037","7,683","13,032",3,49,High,1,"16,367",High,Sheffield,1
+S3,0.91,"11,979","5,348","5,650",1,20,High,-,"5,883",Medium,Sheffield,3
+S35,1,"25,505","3,834","9,943",5,11,High,-,"12,550",High,Sheffield,1
+S4,0.88,"8,535","1,916","4,284",-,29,High,-,"3,933",Medium,Sheffield,4
+S5,1.05,"38,224","7,207","15,861",2,29,High,-,"21,567",Medium,Sheffield,1
+S60,1,"22,500","4,062","9,575",2,39,High,1,"15,433",High,Sheffield,1
+S61,0.99,"22,775","4,216","9,101",5,8,High,-,"12,783",High,Sheffield,2
+S62,0.89,"12,713","2,219","5,125",4,4,High,-,"7,167",High,Sheffield,3
+S63,1.02,"24,218","4,358","9,835",6,14,High,-,"17,983",High,Sheffield,1
+S64,0.97,"19,600","3,618","7,673",2,22,High,1,"13,383",High,Sheffield,2
+S65,1,"22,364","4,232","9,300",5,23,High,-,"12,833",High,Sheffield,2
+S66,1.04,"28,676","4,933","11,440",12,14,High,-,"18,083",High,Sheffield,1
+S70,0.98,"25,717","4,496","10,701",7,36,High,2,"16,117",Medium,Sheffield,2
+S71,1.01,"28,654","5,003","11,537",10,20,High,-,"19,417",Medium,Sheffield,1
+S72,0.95,"15,875","2,855","6,697",3,13,High,-,"10,750",High,Sheffield,2
+S73,0.98,"17,157","2,894","7,207",3,16,High,-,"12,250",High,Sheffield,2
+S74,0.93,"11,294","1,913","4,541",1,8,High,-,"7,250",High,Sheffield,3
+S75,1,"27,215","4,038","11,069",5,13,High,-,"16,283",High,Sheffield,2
+S9,0.96,"16,981","3,448","8,363",1,39,High,1,"9,667",High,Sheffield,2
+S95,0.83,-,-,-,-,-,High,-,-,High,Sheffield,5
+S96,0.82,-,-,-,-,-,High,-,-,Medium,Sheffield,5
+S97,0.83,-,-,-,-,-,High,-,-,High,Sheffield,5
+S98,0.82,-,-,-,-,-,High,-,-,Medium,Sheffield,5
+S99,0.82,-,-,-,-,-,High,-,-,Medium,Sheffield,5
+WF1,0.94,"21,897","3,991","10,145",6,45,Low,3,"15,333",Medium,Wakefield,2
+WF10,1,"28,901","5,272","12,537",10,27,Low,-,"21,717",Medium,Wakefield,2
+WF11,0.88,"10,881","2,042","4,173",3,3,Low,-,"7,667",Medium,Wakefield,4
+WF12,0.92,"20,043","4,189","9,064",3,20,Low,-,"11,850",Medium,Wakefield,3
+WF13,0.89,"16,093","3,639","8,606",-,38,Low,-,"7,617",Medium,Wakefield,4
+WF16,0.84,"7,556","1,520","3,702",1,6,Low,-,"3,667",Medium,Wakefield,5
+WF17,0.95,"25,741","5,327","12,423",2,21,Low,-,"13,983",Medium,Wakefield,2
+WF2,0.99,"31,811","5,342","12,775",12,28,Low,-,"19,433",Medium,Wakefield,2
+WF3,0.92,"20,310","3,319","9,078",1,10,Low,-,"12,967",Medium,Wakefield,3
+WF4,0.97,"26,886","4,185","10,778",2,17,Low,1,"16,433",Medium,Wakefield,2
+WF5,0.88,"13,401","1,959","5,549",3,21,Low,-,"7,883",Low,Wakefield,4
+WF6,0.88,"13,550","2,343","5,855",2,10,Low,-,"9,017",Medium,Wakefield,4
+WF7,0.89,"12,683","2,122","5,102",1,8,Low,-,"8,783",Medium,Wakefield,3
+WF8,0.93,"20,409","3,301","8,103",4,20,Low,-,"14,450",Low,Wakefield,3
+WF9,0.98,"24,924","4,487","9,951",3,15,Low,1,"17,883",Medium,Wakefield,2
+YO1,0.86,"3,265",694,"1,732",7,19,Low,5,"3,433",High,York,4
+YO23,0.88,"12,309","1,862","5,311",5,11,Low,3,"5,800",Medium,York,4
+YO24,0.92,"19,116","3,020","8,268",7,13,Low,-,"10,417",Medium,York,3
+YO31,0.92,"19,974","5,572","8,275",8,10,Low,1,"8,800",Medium,York,3
+YO90,0.81,-,-,-,-,-,Low,-,-,Medium,York,5
+YO91,0.81,-,-,-,-,-,Low,-,-,Medium,York,5
+YO10,0.92,"17,644","7,365","6,771",11,11,Low,1,"9,933",Medium,York,3
+YO19,0.85,"7,463",991,"2,618",1,6,Low,-,"3,783",Medium,York,4
+YO26,0.93,"18,732","2,941","7,936",7,13,Low,1,"10,000",High,York,3
+YO30,0.92,"16,747","2,835","7,879",7,26,Low,-,"8,983",High,York,3
+YO32,0.92,"17,282","2,376","6,340",6,7,Low,-,"9,350",High,York,3
+YO8,1,"26,832","4,567","11,296",6,16,Low,-,"19,400",High,York,1
+DN15,0.96,"23,116","4,079","10,123",7,39,Medium,-,"16,017",Medium,Doncaster,2
+DN16,0.94,"20,374","3,672","8,338",3,13,Medium,-,"14,317",Medium,Doncaster,3
+DN17,0.95,"23,295","4,010","8,792",3,5,Medium,-,"14,867",Medium,Doncaster,2
+DN18,0.85,"7,428","1,098","2,889",1,5,Medium,-,"4,917",Low,Doncaster,4
+DN20,0.88,"11,767","1,754","4,320",5,14,Medium,-,"6,933",Medium,Doncaster,4
+DN38,0.82,"1,805",270,668,-,-,Medium,-,"1,200",Low,Doncaster,5
+DN8,0.9,"10,887","1,917","4,305",3,11,Medium,-,"7,100",High,Doncaster,3
+DN19,0.83,"3,803",622,"1,501",2,1,Medium,-,"2,567",Low,Doncaster,5
+DN21,0.95,"23,110","3,871","8,856",9,20,Medium,1,"16,033",Medium,Doncaster,2
+DN37,0.88,"13,251","2,144","4,796",4,12,Medium,-,"7,917",Medium,Doncaster,4
+DN39,0.82,"1,784",238,685,1,1,Medium,-,"1,217",Medium,Doncaster,5
+DN40,0.85,"7,759","1,382","2,966",5,5,Medium,-,"5,417",Medium,Doncaster,4
+HU1,0.82,"2,566",520,"1,382",-,14,Low,5,"2,083",Medium,Hull,5
+HU10,0.87,"11,532","1,719","3,826",12,7,Low,-,"6,633",Medium,Hull,4
+HU13,0.87,"9,239","1,584","3,835",3,11,Low,-,"5,383",Medium,Hull,4
+HU14,0.83,"4,887",613,"1,661",1,3,Low,-,"2,617",Medium,Hull,5
+HU15,0.88,"14,113","2,047","6,174",2,18,Low,-,"8,433",Low,Hull,4
+HU16,0.87,"9,508","1,323","2,997",6,16,Low,-,"5,483",Medium,Hull,4
+HU2,0.82,"3,000",575,"1,378",1,8,Low,2,"1,600",Medium,Hull,5
+HU20,0.81,596,91,182,-,-,Low,-,"1,000",Low,Hull,5
+HU3,0.92,"18,862","3,728","8,885",6,52,Low,2,"12,100",Medium,Hull,3
+HU4,0.9,"14,943","2,620","5,640",7,8,Low,-,"8,783",Medium,Hull,3
+HU5,1,"34,438","8,343","15,012",6,37,Low,1,"18,000",Medium,Hull,2
+HU6,0.93,"21,953","5,863","8,366",3,10,Low,-,"12,333",Medium,Hull,3
+HU11,0.84,"7,156","1,044","2,320",-,5,Low,-,"4,117",Low,Hull,5
+HU17,0.97,"26,903","3,925","10,161",6,21,Low,2,"15,533",Medium,Hull,2
+HU7,0.99,"26,461","5,644","11,953",2,14,Low,-,"21,433",Medium,Hull,2
+HU8,0.93,"22,369","4,196","9,076",2,22,Low,-,"12,300",Medium,Hull,3
+HU9,0.95,"27,678","5,355","11,481",5,15,Low,-,"13,750",Medium,Hull,2
+LN1,0.93,"18,008","4,676","6,903",7,12,Low,1,"11,667",Medium,Lincoln,3
+LN2,0.95,"24,176","4,527","9,722",12,22,Low,2,"14,233",Medium,Lincoln,2
+LN3,0.86,"5,408",726,"1,853",2,3,Low,-,"3,450",High,Lincoln,4
+LN7,0.83,"3,767",554,"1,219",1,-,Low,-,"2,367",Medium,Lincoln,5
+LN8,0.87,"10,572","1,481","3,497",2,9,Low,-,"6,133",Medium,Lincoln,4
+YO42,0.86,"8,841","1,265","3,237",6,7,Low,2,"6,050",Medium,York,4
+YO43,0.86,"7,490","1,077","2,972",-,3,Low,1,"5,183",Medium,York,4
+YO17,0.9,"13,135","2,015","4,930",3,7,Low,1,"9,133",Medium,York,3
+YO25,0.92,"20,477","2,945","7,272",-,11,Low,-,"12,533",Low,York,3
+YO41,0.85,"6,075",784,"2,366",1,3,Low,-,"3,833",Medium,York,4
+DN31,0.85,"6,900","1,410","2,926",6,29,Medium,2,"4,733",Medium,Doncaster,4
+DN32,0.92,"20,333","4,160","8,321",2,32,Medium,-,"10,533",Medium,Doncaster,3
+DN33,0.88,"12,203","2,203","4,619",2,5,Medium,-,"8,050",Medium,Doncaster,4
+DN34,0.88,"12,160","2,219","4,796",5,12,Medium,-,"7,183",Medium,Doncaster,4
+DN35,0.93,"22,556","3,893","8,614",3,27,Medium,-,"12,317",Medium,Doncaster,3
+DN36,0.88,"11,520","1,673","3,745",1,16,Medium,1,"8,317",Medium,Doncaster,4
+DN41,0.83,"3,769",593,"1,331",-,3,Medium,-,"2,417",Medium,Doncaster,5
+HU12,0.89,"15,547","2,302","5,783",2,20,Low,-,"8,783",Low,Hull,4
+HU18,0.83,"5,421",804,"1,637",1,3,Low,-,"3,300",Medium,Hull,5
+HU19,0.83,"4,437",695,"1,377",2,-,Low,-,"2,467",Medium,Hull,5
+LN11,0.93,"17,772","2,741","5,976",7,12,Low,-,"11,283",High,Lincoln,3
+LN12,0.84,"8,228",968,"1,802",2,9,Low,1,"4,767",Medium,Lincoln,5
+LN13,0.83,"4,711",710,"1,398",1,1,Low,-,"2,967",Medium,Lincoln,5
+YO15,0.86,"8,604","1,229","2,517",1,6,Low,2,"4,650",Medium,York,4
+LL64,0.81,677,88,219,-,1,Low,-,"1,000",Low,Llandudno,5
+LL25,0.81,312,25,105,-,1,Low,-,"1,000",Low,Llandudno,5
+LL27,0.81,504,72,165,-,-,Low,-,"1,000",Low,Llandudno,5
+LL32,0.82,"4,164",603,"1,376",-,6,Low,-,"2,417",Low,Llandudno,5
+LL33,0.81,"2,391",406,865,1,2,Low,-,"1,417",Low,Llandudno,5
+LL34,0.82,"2,844",446,993,-,2,Low,-,"1,550",Medium,Llandudno,5
+LL38,0.81,499,51,118,-,-,Low,-,"1,000",Low,Llandudno,5
+LL39,0.81,190,21,49,-,-,Low,-,"1,000",Low,Llandudno,5
+LL42,0.81,"1,690",244,521,1,4,Low,-,"1,150",Low,Llandudno,5
+LL43,0.81,305,31,74,-,-,Low,-,"1,000",Low,Llandudno,5
+LL44,0.81,691,79,179,-,1,Low,-,"1,000",Low,Llandudno,5
+LL45,0.81,407,46,116,-,-,Low,-,"1,000",Low,Llandudno,5
+LL46,0.81,"1,175",150,293,-,1,Low,-,"1,000",Low,Llandudno,5
+LL47,0.81,344,48,92,-,-,Low,-,"1,000",Low,Llandudno,5
+LL48,0.81,"1,621",239,564,-,-,Low,-,"1,100",Medium,Llandudno,5
+LL49,0.82,"2,963",406,950,3,3,Low,-,"1,633",Medium,Llandudno,5
+LL51,0.81,380,67,122,-,-,Low,-,"1,000",Low,Llandudno,5
+LL52,0.81,"1,645",233,478,-,4,Low,-,"1,033",Low,Llandudno,5
+LL54,0.85,"6,973","1,106","2,582",1,2,Low,-,"4,167",Medium,Llandudno,4
+LL55,0.91,"13,852","2,247","5,496",1,14,Low,-,"8,400",High,Llandudno,3
+LL56,0.81,"1,458",255,655,-,-,Low,-,"1,067",Low,Llandudno,5
+LL57,0.95,"16,342","5,440","6,275",5,19,Low,2,"11,117",High,Llandudno,2
+LL58,0.81,"2,512",329,746,-,2,Low,-,"1,250",Low,Llandudno,5
+LL59,0.82,"3,653",630,"1,325",3,2,Low,-,"1,700",Low,Llandudno,5
+LL60,0.81,"1,992",351,729,-,-,Low,-,"1,200",Medium,Llandudno,5
+LL61,0.82,"3,701",575,"1,328",1,1,Low,-,"2,067",Low,Llandudno,5
+LL62,0.81,"1,052",150,353,-,3,Low,-,"1,000",Low,Llandudno,5
+LL75,0.81,908,126,330,-,1,Low,-,"1,000",Low,Llandudno,5
+LL76,0.81,200,28,62,-,-,Low,-,"1,000",Low,Llandudno,5
+LL77,0.83,"4,663",733,"1,757",3,-,Low,-,"3,517",Medium,Llandudno,5
+LL36,0.82,"2,968",330,802,1,2,Low,1,"1,650",Low,Llandudno,5
+LL37,0.81,326,33,77,-,-,Low,-,"1,000",Low,Llandudno,5
+LL53,0.87,"10,935","1,504","3,699",-,10,Low,-,"5,933",Medium,Llandudno,4
+LL63,0.81,878,113,256,-,1,Low,-,"1,000",Low,Llandudno,5
+LL65,0.88,"15,044","2,398","5,705",5,7,Low,-,"8,867",Medium,Llandudno,4
+LL71,0.81,"1,079",193,410,-,1,Low,-,"1,000",Low,Llandudno,5
+LL73,0.81,164,10,36,-,-,Low,-,"1,000",Low,Llandudno,5
+LL74,0.81,"1,455",163,307,-,-,Low,-,"1,000",Low,Llandudno,5
+LL78,0.81,320,45,92,-,-,Low,-,"1,000",Low,Llandudno,5
+CH31,0.8,-,-,-,-,-,Low,-,-,Medium,Chester,5
+CH5,1,"26,810","4,961","11,482",4,23,Low,-,"17,233",High,Chester,1
+CH6,0.87,"10,785","1,954","4,342",2,5,Low,-,"7,417",Medium,Chester,4
+CH64,0.87,"11,898","1,756","3,794",2,5,Low,-,"6,400",Medium,Chester,4
+CH7,1.01,"30,949","4,937","11,670",8,15,Low,-,"17,367",High,Chester,1
+LL15,0.84,"6,652","1,042","2,314",3,2,Low,-,"3,883",Medium,Llandudno,5
+LL16,0.86,"9,731","1,601","3,623",4,5,Low,-,"5,400",Medium,Llandudno,4
+LL17,0.83,"3,214",491,"1,116",1,7,Low,-,"2,317",Medium,Llandudno,5
+LL18,0.97,"25,899","4,561","9,271",10,8,Low,4,"17,733",Medium,Llandudno,2
+LL21,0.82,"3,722",597,"1,299",-,4,Low,-,"2,133",Medium,Llandudno,5
+LL22,0.88,"11,148","1,489","3,375",1,5,Low,-,"6,467",High,Llandudno,4
+LL29,0.9,"12,913","2,147","4,663",6,12,Low,1,"7,567",High,Llandudno,3
+LL11,0.97,"24,101","4,135","10,638",2,10,Low,1,"14,967",Medium,Llandudno,2
+LL14,0.94,"21,260","3,555","8,871",7,10,Low,-,"12,267",Medium,Llandudno,2
+LL20,0.85,"5,176",783,"1,792",4,3,Low,-,"2,567",Medium,Llandudno,4
+LL23,0.82,"2,750",409,"1,021",1,3,Low,-,"1,700",Low,Llandudno,5
+LL24,0.81,"1,205",176,405,-,2,Low,-,"1,000",Low,Llandudno,5
+LL26,0.84,"2,900",461,"1,030",1,4,Low,-,"1,650",High,Llandudno,5
+LL28,0.84,"8,819","1,201","2,667",2,4,Low,2,"4,467",Low,Llandudno,4
+LL30,0.87,"14,066","2,027","4,520",5,7,Low,2,"7,383",Low,Llandudno,4
+LL31,0.85,"5,933",889,"2,046",2,3,Low,-,"3,683",Medium,Llandudno,4
+LL40,0.83,"2,608",352,833,1,1,Low,1,"1,617",High,Llandudno,5
+LL41,0.83,"4,203",703,"1,348",1,1,Low,-,"2,067",Medium,Llandudno,5
+SY10,0.88,"8,699","1,332","2,961",-,4,Low,-,"5,417",Medium,Shrewsbury,4
+SY19,0.81,717,94,179,-,-,Low,-,"1,000",Low,Shrewsbury,5
+SY20,0.83,"4,421",610,"1,526",2,4,Low,1,"2,617",Medium,Shrewsbury,5
+SY21,0.86,"10,045","1,609","3,421",3,7,Low,1,"6,167",Medium,Shrewsbury,4
+SY22,0.83,"5,785",848,"2,066",-,5,Low,-,"3,100",Medium,Shrewsbury,5
+CH1,1,"20,359","5,783","8,059",7,27,Low,3,"13,600",High,Chester,2
+CH2,0.96,"21,947","3,699","9,795",3,7,Low,-,"12,017",High,Chester,2
+CH3,0.95,"19,873","2,811","7,483",9,18,Low,-,"11,017",High,Chester,2
+CH33,0.8,-,-,-,-,-,Low,-,-,Low,Chester,5
+CH34,0.81,-,-,-,-,-,Low,-,-,Medium,Chester,5
+CH4,0.96,"20,493","3,240","8,697",7,18,Low,-,"11,883",High,Chester,2
+CH65,0.93,"17,263","3,078","7,246",5,13,Low,-,"12,333",Medium,Chester,3
+CH66,0.95,"21,817","3,624","8,572",2,10,Low,-,"13,633",Medium,Chester,2
+CH70,0.82,-,-,-,-,-,Low,-,-,High,Chester,5
+CH88,0.82,-,-,-,-,-,Low,-,-,High,Chester,5
+CH99,0.82,-,-,-,-,-,Low,-,-,High,Chester,5
+CW6,0.84,"7,182",962,"2,331",3,8,Low,-,"4,050",Medium,Crewe,5
+CW7,0.94,"19,686","3,683","8,519",4,15,Low,-,"13,850",Medium,Crewe,2
+CW8,0.94,"21,884","3,264","8,454",5,21,Low,-,"13,667",Medium,Crewe,2
+CW98,0.8,-,-,-,-,-,Low,-,-,Low,Crewe,5
+LL12,0.92,"17,542","2,643","6,510",3,7,Low,-,"9,967",Medium,Llandudno,3
+LL13,0.97,"22,551","4,266","9,770",8,22,Low,4,"15,133",Medium,Llandudno,2
+SY1,0.91,"16,973","3,133","7,567",10,22,Low,1,"10,483",Low,Shrewsbury,3
+SY11,0.91,"16,886","2,817","6,920",14,13,Low,-,"10,667",Medium,Shrewsbury,3
+SY12,0.83,"4,941",753,"1,719",1,1,Low,-,"2,950",Medium,Shrewsbury,5
+SY13,0.91,"11,908","1,884","4,471",2,4,Low,-,"7,100",High,Shrewsbury,3
+SY14,0.85,"3,453",451,"1,143",-,3,Low,1,"2,233",Medium,Shrewsbury,4
+SY2,0.87,"11,096","1,801","4,314",5,11,Low,-,"7,250",Low,Shrewsbury,4
+SY3,0.93,"21,079","3,175","8,007",4,10,Low,-,"11,217",Medium,Shrewsbury,3
+SY4,0.9,"14,448","2,166","5,243",3,9,Low,1,"9,183",Medium,Shrewsbury,3
+SY99,0.81,-,-,-,-,-,Low,-,-,Medium,Shrewsbury,5
+SY5,0.89,"12,666","1,848","4,380",1,8,Low,-,"7,533",Medium,Shrewsbury,3
+TF1,0.95,"23,158","4,093","10,399",5,28,Low,1,"15,633",Medium,Telford,2
+TF4,0.88,"11,371","2,113","5,344",2,6,Low,-,"9,467",Low,Telford,4
+TF5,0.82,"3,142",591,"1,407",-,1,Low,-,"1,817",Medium,Telford,5
+TF6,0.82,"2,944",434,995,-,3,Low,-,"2,667",Medium,Telford,5
+TF13,0.81,"2,243",294,707,-,3,Low,-,"1,283",Low,Telford,5
+TF7,0.91,"11,205","2,134","4,591",3,4,Low,-,"7,550",High,Telford,3
+TF8,0.81,"1,785",226,686,1,1,Low,-,"1,400",Medium,Telford,5
+WA6,0.86,"11,617","1,504","4,238",3,5,Low,-,"6,300",Medium,Warrington,4
+WV99,0.81,-,-,-,-,-,Low,-,-,High,Wolverhampton,5
+CW12,0.92,"18,087","2,614","7,008",7,20,Low,-,"12,717",Low,Crewe,3
+CW1,1,"26,349","4,986","11,473",9,29,Low,2,"20,383",Medium,Crewe,2
+CW10,0.86,"8,849","1,409","3,849",-,8,Low,-,"5,783",Medium,Crewe,4
+CW11,0.89,"13,940","2,136","5,435",7,9,Low,-,"9,500",Medium,Crewe,4
+CW2,0.97,"26,020","4,809","10,690",6,20,Low,-,"16,417",Medium,Crewe,2
+CW3,0.84,"5,528",793,"1,890",2,1,Low,1,"2,783",Medium,Crewe,4
+CW4,0.84,"5,661",695,"1,825",2,2,Low,-,"3,167",Medium,Crewe,5
+CW5,0.91,"18,229","2,626","7,147",5,21,Low,-,"11,800",Medium,Crewe,3
+SK11,0.96,"23,651","3,491","9,793",6,24,Low,-,"12,850",Medium,Stockport,2
+SK10,0.97,"24,745","3,429","9,526",7,23,Low,2,"14,467",High,Stockport,2
+SK12,0.87,"11,609","1,676","3,722",6,13,Low,-,"6,117",Medium,Stockport,4
+SK17,0.94,"20,198","3,462","7,517",6,14,Low,-,"11,417",High,Stockport,2
+SK22,0.85,"7,733","1,204","3,077",3,8,Low,2,"4,683",Low,Stockport,4
+SK23,0.87,"10,534","1,645","3,844",2,6,Low,-,"6,583",Medium,Stockport,4
+SK7,0.94,"24,663","3,734","8,824",6,16,Low,-,"12,450",Medium,Stockport,3
+SK9,0.94,"23,746","3,067","9,631",7,30,Low,1,"10,917",Medium,Stockport,3
+ST1,0.93,"19,956","4,030","8,939",7,32,Medium,3,"11,833",Medium,Stoke-on-Trent,3
+ST10,0.93,"15,652","2,460","5,961",1,7,Medium,-,"9,100",High,Stoke-on-Trent,3
+ST11,0.84,"6,162",933,"2,115",-,3,Medium,-,"3,217",Medium,Stoke-on-Trent,5
+ST12,0.82,"2,284",282,775,-,1,Medium,-,"1,300",Medium,Stoke-on-Trent,5
+ST13,0.9,"17,530","2,674","7,002",3,14,Medium,-,"9,800",Medium,Stoke-on-Trent,3
+ST14,0.88,"11,914","2,059","4,776",3,12,Medium,-,"7,950",Medium,Stoke-on-Trent,4
+ST15,0.9,"13,170","1,945","5,253",7,11,Medium,1,"8,533",Medium,Stoke-on-Trent,3
+ST16,0.94,"19,707","4,397","8,693",7,25,Medium,-,"13,333",Medium,Stoke-on-Trent,3
+ST17,0.93,"25,043","4,029","10,011",7,9,Medium,-,"12,467",Medium,Stoke-on-Trent,3
+ST18,0.87,"9,074","1,228","3,104",-,4,Medium,-,"6,900",Medium,Stoke-on-Trent,4
+ST19,0.86,"8,992","1,364","3,152",6,6,Medium,-,"5,817",Medium,Stoke-on-Trent,4
+ST2,0.92,"22,072","3,726","8,392",4,10,Medium,-,"12,117",Medium,Stoke-on-Trent,3
+ST20,0.83,"4,081",587,"1,407",1,2,Medium,-,"2,200",Medium,Stoke-on-Trent,5
+ST21,0.83,"3,325",444,"1,093",1,3,Medium,-,"2,050",Medium,Stoke-on-Trent,5
+ST3,1.05,"42,524","7,674","17,177",8,35,Medium,2,"24,650",Medium,Stoke-on-Trent,1
+ST4,1.03,"37,488","8,343","16,020",13,49,Medium,1,"22,633",Medium,Stoke-on-Trent,1
+ST5,1.1,"47,362","8,343","20,143",15,46,Medium,1,"29,050",Medium,Stoke-on-Trent,1
+ST55,0.81,-,-,-,-,-,Medium,-,-,Medium,Stoke-on-Trent,5
+ST6,1.05,"41,095","7,533","17,854",2,46,Medium,-,"23,650",Medium,Stoke-on-Trent,1
+ST7,1.02,"32,949","5,214","12,450",15,13,Medium,-,"19,517",High,Stoke-on-Trent,1
+ST8,0.87,"12,601","1,932","4,819",2,2,Medium,-,"6,533",Medium,Stoke-on-Trent,4
+ST9,0.84,"7,008",998,"2,247",2,3,Medium,-,"3,750",Medium,Stoke-on-Trent,4
+TF10,0.87,"10,905","2,380","3,652",3,10,Low,1,"6,717",Medium,Telford,4
+TF2,0.96,"24,030","4,263","10,789",10,18,Low,1,"15,500",Medium,Telford,2
+TF3,0.9,"14,900","3,050","7,300",5,9,Low,-,"10,883",Low,Telford,3
+TF9,0.91,"14,955","2,359","5,823",6,10,Low,1,"9,717",Medium,Telford,3
+WA14,0.93,"17,435","2,491","8,335",19,28,Low,-,"8,733",High,Warrington,3
+WA16,0.89,"14,559","1,709","5,316",11,21,Low,-,"7,217",High,Warrington,4
+WS11,1,"26,881","4,739","11,549",5,31,Low,2,"17,633",High,Walsall,1
+WS12,0.95,"21,744","4,016","10,218",2,5,Low,-,"15,617",Medium,Walsall,2
+WS15,0.96,"22,526","3,709","8,918",3,13,Low,-,"15,167",Medium,Walsall,2
+WS7,0.91,"18,157","2,854","7,322",4,6,Low,-,"11,617",Medium,Walsall,3
+DE1,0.9,"9,651","2,750","4,599",9,55,Medium,3,"5,750",High,Derby,3
+DE11,1.01,"27,294","4,714","12,668",12,20,Medium,-,"20,450",Medium,Derby,1
+DE14,0.95,"18,507","3,803","9,380",12,43,Medium,2,"14,167",Medium,Derby,2
+DE15,0.89,"14,991","2,578","5,949",2,5,Medium,-,"9,083",Medium,Derby,3
+DE21,1.02,"35,748","6,280","15,004",17,17,Medium,-,"21,439",Medium,Derby,1
+DE22,1,"30,556","7,022","12,169",18,25,Medium,1,"17,067",Medium,Derby,2
+DE23,1.02,"35,806","7,423","17,567",3,59,Medium,-,"18,400",Medium,Derby,1
+DE24,1.04,"34,606","6,667","15,411",12,28,Medium,1,"22,906",Medium,Derby,1
+DE3,0.87,"10,280","1,529","3,994",3,5,Medium,-,"5,717",Medium,Derby,4
+DE5,0.92,"13,819","2,326","5,546",5,7,Medium,-,"9,217",High,Derby,3
+DE55,1.04,"32,320","5,052","13,317",8,15,Medium,-,"21,333",High,Derby,1
+DE56,0.94,"24,784","3,580","9,852",3,18,Medium,-,"13,000",Medium,Derby,2
+DE7,1.02,"31,294","5,599","12,721",6,16,Medium,-,"19,517",Medium,Derby,1
+DE72,0.89,"12,482","1,745","4,680",2,8,Medium,-,"7,950",Medium,Derby,3
+DE73,0.89,"11,623","1,649","5,153",6,14,Medium,2,"7,000",Medium,Derby,4
+DE74,0.87,"7,200","1,167","2,939",5,3,Medium,1,"6,967",Medium,Derby,4
+DE75,0.9,"11,618","2,029","5,051",2,4,Medium,-,"8,100",Medium,Derby,3
+DE99,0.81,-,-,-,-,-,Medium,-,-,Medium,Derby,5
+DE12,0.89,"12,452","1,863","5,024",4,10,Medium,1,"8,450",Medium,Derby,4
+DE13,0.97,"24,768","3,708","9,216",9,25,Medium,-,"15,917",Medium,Derby,2
+DE4,0.92,"20,704","2,900","6,946",6,17,Medium,1,"11,233",Medium,Derby,3
+DE45,0.83,"5,299",664,"1,414",2,6,Medium,-,"2,533",Medium,Derby,5
+DE6,0.9,"15,059","2,113","5,247",18,18,Medium,1,"9,467",Medium,Derby,3
+DE65,0.93,"13,742","2,122","6,341",5,6,Medium,-,"10,167",High,Derby,3
+DN22,0.94,"21,690","3,336","7,931",4,15,Medium,1,"13,717",Medium,Doncaster,3
+LE11,1.04,"35,499","8,343","14,254",7,45,Low,2,"20,017",High,Leicester,1
+LE12,1.06,"37,664","5,719","15,478",9,31,Low,1,"23,867",High,Leicester,1
+LE4,1.13,"47,362","8,343","24,746",9,118,Low,-,"29,728",High,Leicester,1
+LE41,0.81,-,-,-,-,-,Low,-,-,Medium,Leicester,5
+LE65,0.86,"8,597","1,228","3,407",7,6,Low,-,"5,867",Medium,Leicester,4
+LE67,1.04,"36,198","5,687","15,437",10,27,Low,1,"25,161",Medium,Leicester,1
+LE14,0.86,"10,542","1,455","3,854",1,1,Low,-,"6,433",Medium,Leicester,4
+NG1,0.9,"9,916","5,115","3,814",14,46,Medium,8,"6,533",Medium,Nottingham,3
+NG10,0.98,"29,983","5,069","12,924",6,15,Medium,-,"17,600",Medium,Nottingham,2
+NG11,0.97,"23,776","4,027","9,268",6,9,Medium,-,"13,050",High,Nottingham,2
+NG15,0.97,"25,602","4,233","10,517",9,13,Medium,1,"17,083",Medium,Nottingham,2
+NG16,1.06,"39,688","6,519","15,583",9,24,Medium,-,"23,317",High,Nottingham,1
+NG17,1.08,"45,861","7,793","19,089",7,35,Medium,1,"29,850",Medium,Nottingham,1
+NG18,0.99,"26,649","4,630","11,634",6,98,Medium,2,"19,000",Medium,Nottingham,2
+NG19,1.03,"33,104","5,714","13,159",5,15,Medium,-,"20,600",High,Nottingham,1
+NG2,1.04,"38,440","7,737","18,640",13,37,Medium,1,"18,467",High,Nottingham,1
+NG20,0.94,"16,389","3,162","6,391",2,17,Medium,-,"11,817",High,Nottingham,2
+NG21,0.91,"13,688","2,330","5,656",3,10,Medium,-,"11,200",Medium,Nottingham,3
+NG3,0.99,"31,952","5,994","14,547",11,24,Medium,1,"14,317",Medium,Nottingham,2
+NG4,0.97,"26,280","4,397","11,292",8,19,Medium,-,"13,583",Medium,Nottingham,2
+NG5,1.11,"47,362","8,343","24,274",24,48,Medium,-,"28,500",Medium,Nottingham,1
+NG6,0.96,"24,897","4,448","10,626",4,19,Medium,-,"12,900",Medium,Nottingham,2
+NG7,1.03,"36,439","8,343","15,447",8,65,Medium,1,"18,683",Medium,Nottingham,1
+NG8,1.03,"40,515","7,968","16,578",11,23,Medium,-,"19,383",Medium,Nottingham,1
+NG80,0.82,-,-,-,-,-,Medium,-,-,High,Nottingham,5
+NG9,1.08,"45,833","8,267","19,559",11,30,Medium,-,"22,300",High,Nottingham,1
+NG90,0.81,-,-,-,-,-,Medium,-,-,Medium,Nottingham,5
+NG12,0.93,"20,173","2,801","7,057",11,11,Medium,1,"11,567",High,Nottingham,3
+NG14,0.87,"11,339","1,581","3,859",5,4,Medium,-,"6,117",Medium,Nottingham,4
+NG22,0.92,"16,040","2,662","5,740",2,13,Medium,-,"11,150",Medium,Nottingham,3
+NG25,0.84,"5,238",740,"1,548",2,6,Medium,1,"2,567",Medium,Nottingham,5
+S18,0.89,"15,207","2,126","5,233",5,8,High,-,"7,333",Medium,Sheffield,3
+S40,0.95,"23,171","3,629","8,607",6,15,High,-,"11,400",High,Sheffield,2
+S41,0.95,"23,520","3,847","9,649",9,18,High,1,"13,800",Medium,Sheffield,2
+S42,0.95,"17,667","2,680","6,282",2,5,High,-,"10,817",High,Sheffield,2
+S43,0.99,"25,381","4,211","10,485",5,18,High,-,"16,167",High,Sheffield,2
+S44,0.92,"13,729","2,284","5,287",1,5,High,-,"9,217",High,Sheffield,3
+S45,0.89,"8,670","1,400","3,422",3,4,High,-,"5,517",High,Sheffield,3
+S49,0.81,-,-,-,-,-,High,-,-,Medium,Sheffield,5
+S11,0.96,"22,569","7,706","9,053",9,41,High,-,"9,167",Medium,Sheffield,2
+S12,0.95,"21,636","3,404","8,464",5,16,High,-,"11,933",Medium,Sheffield,2
+S14,0.86,"6,546","1,374","2,606",1,3,High,-,"2,900",Medium,Sheffield,4
+S17,0.87,"9,572","1,106","3,167",2,4,High,-,"3,917",Medium,Sheffield,4
+S20,0.96,"19,598","3,214","8,603",5,3,High,-,"9,733",High,Sheffield,2
+S21,0.93,"12,957","2,412","5,227",6,10,High,-,"7,600",High,Sheffield,3
+S25,0.92,"12,986","2,260","5,244",3,4,High,-,"8,200",High,Sheffield,3
+S26,0.95,"15,959","2,538","6,515",5,9,High,-,"10,017",High,Sheffield,2
+S32,0.86,"3,457",403,"1,037",-,3,High,-,"1,583",High,Sheffield,4
+S33,0.85,"3,080",380,"1,000",1,5,High,1,"1,633",Medium,Sheffield,4
+S7,0.88,"10,667","2,189","5,648",3,14,High,1,"4,267",Medium,Sheffield,4
+S8,0.99,"30,246","4,703","13,353",20,27,High,-,"13,400",High,Sheffield,2
+S80,0.98,"19,120","3,246","7,868",6,19,High,-,"13,167",High,Sheffield,2
+S81,0.97,"22,958","3,867","9,017",5,5,High,1,"15,433",High,Sheffield,2
+WS13,0.91,"16,476","2,603","7,131",11,20,Low,-,"11,333",Medium,Walsall,3
+LE13,0.91,"16,933","2,926","6,986",6,9,Low,-,"10,183",Medium,Leicester,3
+LE15,0.93,"18,111","2,427","6,644",6,7,Low,1,"10,283",High,Leicester,3
+LN5,0.94,"20,711","4,303","8,744",6,27,Low,1,"13,167",Medium,Lincoln,2
+LN6,1.03,"34,851","5,904","14,275",11,13,Low,1,"24,228",Medium,Lincoln,1
+LN4,0.95,"23,071","3,329","9,039",8,8,Low,-,"16,050",Medium,Lincoln,2
+NG13,0.9,"12,482","1,697","4,747",2,11,Medium,1,"7,983",Medium,Nottingham,3
+NG23,0.87,"10,269","1,294","3,409",3,3,Medium,1,"5,983",Medium,Nottingham,4
+NG24,1.01,"28,759","4,678","12,077",24,26,Medium,-,"20,683",Medium,Nottingham,1
+NG31,0.98,"28,188","4,846","11,664",5,26,Medium,-,"18,100",Low,Nottingham,2
+NG32,0.85,"7,476",859,"2,298",1,5,Medium,1,"4,233",Medium,Nottingham,4
+NG33,0.84,"5,995",738,"2,144",2,2,Medium,-,"3,250",Medium,Nottingham,5
+NG34,0.96,"25,535","3,818","9,628",9,11,Medium,1,"16,233",Medium,Nottingham,2
+PE10,0.88,"13,303","2,068","5,153",2,6,Low,-,"9,183",Medium,Peterborough,4
+LN10,0.83,"3,545",418,896,3,5,Low,-,"1,883",Medium,Lincoln,5
+LN9,0.86,"5,979",823,"1,946",2,5,Low,-,"3,633",High,Lincoln,4
+PE11,1,"27,188","4,306","11,157",6,34,Low,1,"19,300",High,Peterborough,2
+PE12,0.96,"24,211","3,502","8,397",7,15,Low,1,"15,983",Medium,Peterborough,2
+PE20,0.86,"8,551","1,287","3,148",1,6,Low,-,"5,867",Medium,Peterborough,4
+PE21,0.99,"27,619","4,784","11,667",8,54,Low,-,"20,683",Medium,Peterborough,2
+PE22,0.89,"10,056","1,403","3,098",1,5,Low,-,"6,083",High,Peterborough,3
+PE23,0.83,"5,207",693,"1,656",3,2,Low,-,"2,767",Low,Peterborough,5
+PE24,0.85,"7,452",872,"1,901",3,8,Low,-,"4,783",Medium,Peterborough,4
+PE25,0.92,"13,669","1,983","4,446",6,16,Low,-,"12,533",Medium,Peterborough,3
+NR21,0.86,"9,937","1,428","3,281",3,5,Low,-,"5,617",Medium,Norwich,4
+NR22,0.81,547,75,142,-,2,Low,-,"1,000",Low,Norwich,5
+NR23,0.82,"1,963",244,542,1,2,Low,1,"1,200",Low,Norwich,5
+NR10,0.89,"13,442","2,081","5,245",2,4,Low,-,"8,183",Medium,Norwich,3
+NR11,0.86,"10,947","1,451","3,156",2,6,Low,1,"5,417",Medium,Norwich,4
+NR24,0.83,"2,744",445,913,2,1,Low,-,"1,383",Medium,Norwich,5
+NR25,0.83,"5,422",519,"1,274",-,11,Low,-,"2,117",Medium,Norwich,5
+PE31,0.86,"12,555","1,324","3,373",1,3,Low,-,"5,933",Low,Peterborough,4
+PE35,0.81,-,-,-,-,-,Low,-,"1,000",Low,Peterborough,5
+PE36,0.82,"4,169",462,946,2,8,Low,-,"1,817",Medium,Peterborough,5
+PE30,0.97,"27,916","5,253","12,123",5,31,Low,1,"17,433",Low,Peterborough,2
+NR12,0.87,"12,579","1,556","3,600",-,10,Low,-,"6,583",Medium,Norwich,4
+NR26,0.83,"5,206",583,"1,282",2,7,Low,-,"2,450",Low,Norwich,5
+NR27,0.84,"7,368",929,"2,006",3,11,Low,-,"3,700",Medium,Norwich,5
+NR28,0.86,"10,863","1,661","3,568",5,10,Low,-,"5,850",Low,Norwich,4
+NR8,0.88,"12,330","2,031","5,604",-,6,Low,-,"7,617",Medium,Norwich,4
+SA37,0.81,795,98,264,-,-,Low,-,"1,000",Low,Swansea,5
+SA42,0.82,"1,488",178,370,-,2,Low,-,"1,000",Medium,Swansea,5
+SA64,0.81,"1,571",247,546,-,1,Low,-,"1,000",Low,Swansea,5
+LL35,0.81,615,66,147,-,1,Low,-,"1,000",Low,Llandudno,5
+SA39,0.81,"1,452",243,472,-,-,Low,-,"1,000",Low,Swansea,5
+SA40,0.81,"2,230",331,752,-,-,Low,-,"1,167",Medium,Swansea,5
+SA45,0.81,"1,091",130,315,-,-,Low,-,"1,000",Medium,Swansea,5
+SA46,0.81,"1,784",223,516,-,1,Low,-,"1,033",Medium,Swansea,5
+SA47,0.81,774,121,255,-,-,Low,-,"1,000",Medium,Swansea,5
+SA48,0.83,"5,414",861,"1,783",3,3,Low,-,"3,317",Medium,Swansea,5
+SA32,0.83,"4,732",662,"1,424",-,7,Low,-,"2,533",Low,Swansea,5
+SA33,0.84,"7,588","1,192","2,462",1,5,Low,-,"4,183",Low,Swansea,4
+SA38,0.82,"2,999",459,917,-,1,Low,-,"1,633",Low,Swansea,5
+SA43,0.85,"8,191","1,148","2,417",3,8,Low,1,"4,883",Medium,Swansea,4
+SA44,0.84,"7,174","1,065","2,108",-,5,Low,2,"3,900",Low,Swansea,5
+SY24,0.82,"2,971",426,"1,037",-,-,Low,-,"1,417",Low,Shrewsbury,5
+LD1,0.84,"7,172","1,045","2,236",3,5,Low,-,"4,317",Low,Llandrindod Wells,5
+LD2,0.82,"3,558",484,"1,189",2,2,Low,-,"2,183",Low,Llandrindod Wells,5
+LD4,0.81,490,78,130,-,-,Low,-,"1,000",Low,Llandrindod Wells,5
+LD5,0.81,686,85,221,-,-,Low,-,"1,000",Low,Llandrindod Wells,5
+LD6,0.82,"1,690",240,453,1,-,Low,-,"1,100",Medium,Llandrindod Wells,5
+SY16,0.89,"10,273","1,740","3,803",1,10,Low,-,"5,983",High,Shrewsbury,4
+SY17,0.81,"2,173",336,671,-,-,Low,-,"1,350",Low,Shrewsbury,5
+SY18,0.83,"2,989",489,933,1,3,Low,-,"1,750",Medium,Shrewsbury,5
+SY23,0.95,"18,105","6,290","5,860",3,16,Low,1,"10,383",High,Shrewsbury,2
+SY25,0.82,"2,802",359,838,-,-,Low,-,"1,333",Medium,Shrewsbury,5
+HR4,0.94,"19,259","3,025","7,996",9,19,Low,2,"11,367",High,Hereford,2
+HR6,0.89,"12,832","1,887","4,540",5,5,Low,1,"7,550",High,Hereford,3
+HR7,0.85,"4,417",637,"1,467",2,1,Low,-,"2,767",High,Hereford,4
+HR3,0.85,"4,898",617,"1,399",1,4,Low,4,"2,400",High,Hereford,4
+HR5,0.85,"2,870",415,913,1,21,Low,-,"1,567",High,Hereford,4
+LD7,0.82,"3,041",439,923,1,2,Low,-,"1,583",Medium,Llandrindod Wells,5
+LD8,0.83,"2,601",368,710,-,4,Low,-,"1,450",Medium,Llandrindod Wells,5
+SY6,0.82,"3,966",471,"1,051",1,4,Low,-,"1,767",Medium,Shrewsbury,5
+SY8,0.88,"11,688","1,602","3,736",6,4,Low,1,"6,250",Medium,Shrewsbury,4
+SY15,0.84,"3,146",483,"1,051",1,2,Low,-,"2,017",Medium,Shrewsbury,5
+SY7,0.85,"7,294",936,"2,214",-,4,Low,1,"3,350",Medium,Shrewsbury,4
+SY9,0.81,"1,777",259,615,1,1,Low,-,"1,050",Low,Shrewsbury,5
+TF12,0.82,"3,520",526,"1,285",1,3,Low,-,"2,167",Low,Telford,5
+WR15,0.84,"4,375",621,"1,382",1,6,Low,2,"2,583",Medium,Worcester,4
+B1,0.87,"6,353","1,614","3,735",2,38,Medium,5,"3,200",Medium,Birmingham,4
+B10,0.89,"13,275","3,826","7,543",1,51,Medium,-,"5,133",Medium,Birmingham,3
+B11,0.95,"23,887","6,658","13,655",3,80,Medium,-,"10,200",Medium,Birmingham,2
+B12,0.88,"11,935","3,322","6,528",1,51,Medium,2,"4,000",Medium,Birmingham,4
+B13,0.93,"23,377","4,481","11,401",16,30,Medium,-,"8,333",Medium,Birmingham,3
+B14,0.99,"28,414","4,929","12,374",5,42,Medium,1,"12,533",High,Birmingham,2
+B15,0.89,"9,781","2,224","4,442",1,38,Medium,1,"8,967",Medium,Birmingham,3
+B16,0.9,"16,759","4,353","9,259",-,39,Medium,-,"6,467",Medium,Birmingham,3
+B17,0.94,"17,057","3,356","8,466",7,19,Medium,-,"6,733",High,Birmingham,3
+B18,0.88,"10,589","2,335","5,353",1,23,Medium,-,"4,150",High,Birmingham,4
+B19,0.89,"11,389","2,938","6,019",3,61,Medium,-,"5,233",Medium,Birmingham,3
+B2,0.84,623,267,280,1,9,Medium,-,"1,433",Medium,Birmingham,5
+B20,0.92,"19,831","5,111","10,202",-,32,Medium,-,"7,183",Medium,Birmingham,3
+B21,0.91,"18,479","4,340","9,637",1,69,Medium,-,"7,517",Medium,Birmingham,3
+B23,0.97,"29,031","5,327","12,777",1,56,Medium,-,"13,467",Medium,Birmingham,2
+B24,0.92,"18,557","3,486","8,026",3,27,Medium,1,"9,167",Medium,Birmingham,3
+B25,0.87,"9,958","1,923","4,593",1,18,Medium,-,"5,167",Medium,Birmingham,4
+B26,0.96,"20,882","3,635","8,606",7,26,Medium,-,"10,667",High,Birmingham,2
+B27,0.93,"15,713","3,144","7,469",5,32,Medium,1,"7,033",High,Birmingham,3
+B28,0.93,"17,747","3,403","8,171",6,26,Medium,-,"6,833",High,Birmingham,3
+B29,0.96,"26,761","8,343","9,464",9,21,Medium,-,"12,150",Medium,Birmingham,2
+B3,0.85,"2,397",691,"1,561",7,34,Medium,-,"2,367",Medium,Birmingham,4
+B30,0.91,"18,952","3,074","8,672",2,30,Medium,-,"8,400",Medium,Birmingham,3
+B31,1,"35,253","6,575","14,680",6,28,Medium,-,"17,017",Medium,Birmingham,2
+B32,0.98,"25,218","4,447","10,481",5,18,Medium,-,"11,317",High,Birmingham,2
+B33,0.93,"21,880","4,386","9,330",1,31,Medium,-,"10,517",Medium,Birmingham,3
+B34,0.88,"12,622","2,267","5,088",1,9,Medium,-,"5,333",Medium,Birmingham,4
+B35,0.85,"6,594","1,253","2,494",2,5,Medium,-,"3,717",Medium,Birmingham,4
+B36,0.96,"21,566","4,520","8,452",3,15,Medium,-,"10,750",High,Birmingham,2
+B38,0.89,"13,721","2,371","5,418",3,12,Medium,-,"6,167",Medium,Birmingham,4
+B4,0.84,"1,080",812,316,3,8,Medium,2,"2,050",Medium,Birmingham,4
+B42,0.89,"15,106","2,997","6,655",2,23,Medium,-,"6,550",Medium,Birmingham,3
+B43,0.92,"17,697","2,977","7,054",2,17,Medium,-,"8,650",Medium,Birmingham,3
+B44,0.95,"23,742","4,579","9,707",5,28,Medium,-,"12,500",Medium,Birmingham,2
+B45,0.92,"19,211","3,147","7,674",1,14,Medium,-,"10,950",Medium,Birmingham,3
+B47,0.85,"5,735",878,"1,884",-,6,Medium,-,"3,233",Medium,Birmingham,4
+B48,0.84,"3,473",495,"1,237",1,6,Medium,-,"2,367",Medium,Birmingham,5
+B49,0.84,"6,336",908,"2,079",3,8,Medium,-,"3,317",Medium,Birmingham,5
+B5,0.88,"7,977","2,546","3,668",5,37,Medium,1,"4,517",Medium,Birmingham,4
+B50,0.83,"3,238",461,"1,272",-,3,Medium,-,"2,417",Medium,Birmingham,5
+B6,0.88,"10,919","2,916","6,026",-,39,Medium,-,"4,100",Medium,Birmingham,4
+B60,0.91,"17,157","2,704","6,809",6,8,Medium,-,"8,950",Medium,Birmingham,3
+B61,0.91,"14,343","2,299","5,950",9,7,Medium,-,"8,833",Medium,Birmingham,3
+B62,0.92,"15,041","2,515","5,702",2,16,Medium,-,"8,567",High,Birmingham,3
+B63,0.95,"22,894","3,909","9,449",5,24,Medium,1,"11,667",Medium,Birmingham,2
+B64,0.88,"10,379","1,890","4,639",1,19,Medium,-,"5,417",Medium,Birmingham,4
+B65,0.89,"14,883","2,831","6,284",3,19,Medium,-,"8,117",Low,Birmingham,3
+B66,0.92,"12,867","2,944","6,919",4,112,Medium,-,"7,083",High,Birmingham,3
+B67,0.96,"19,209","3,632","9,414",-,25,Medium,-,"8,533",High,Birmingham,2
+B68,0.97,"19,292","3,579","7,918",1,28,Medium,-,"9,567",High,Birmingham,2
+B69,0.92,"18,113","3,428","8,661",6,22,Medium,-,"10,300",Medium,Birmingham,3
+B7,0.85,"5,685","1,114","2,460",-,11,Medium,-,"1,917",Medium,Birmingham,4
+B70,0.91,"17,483","3,369","8,148",6,89,Medium,1,"9,550",Medium,Birmingham,3
+B71,0.92,"19,596","3,727","8,368",1,20,Medium,-,"10,833",Medium,Birmingham,3
+B72,0.84,"5,835",943,"2,257",5,11,Medium,-,"2,333",Medium,Birmingham,4
+B73,0.89,"14,206","2,215","5,657",7,17,Medium,-,"6,183",Medium,Birmingham,4
+B74,0.92,"19,651","3,026","6,893",4,15,Medium,-,"7,483",Medium,Birmingham,3
+B75,0.9,"16,436","2,557","6,461",3,10,Medium,1,"7,750",Medium,Birmingham,3
+B8,0.94,"22,059","6,037","12,530",2,77,Medium,-,"8,883",Medium,Birmingham,2
+B80,0.86,"4,366",666,"1,574",3,4,Medium,-,"2,800",High,Birmingham,4
+B9,0.9,"13,626","3,506","7,589",4,31,Medium,6,"6,867",Medium,Birmingham,3
+B90,1.02,"28,192","4,653","11,605",10,35,Medium,-,"17,067",High,Birmingham,1
+B91,0.96,"19,934","3,127","7,281",6,19,Medium,-,"9,517",High,Birmingham,2
+B94,0.88,"4,368",607,"1,469",1,3,Medium,-,"2,750",High,Birmingham,4
+B95,0.83,"3,543",376,"1,095",1,2,Medium,-,"1,867",Medium,Birmingham,5
+B96,0.85,"3,137",427,"1,070",-,2,Medium,-,"1,683",Medium,Birmingham,4
+B97,0.95,"20,334","3,383","9,032",5,18,Medium,-,"12,150",Medium,Birmingham,2
+B98,1.02,"31,297","5,668","14,438",4,18,Medium,-,"19,700",Medium,Birmingham,1
+B99,0.81,-,-,-,-,-,Medium,-,-,Medium,Birmingham,5
+B37,0.99,"23,431","4,727","9,096",1,16,Medium,-,"14,633",High,Birmingham,2
+B40,0.83,-,-,-,-,-,Medium,-,"1,000",High,Birmingham,5
+B46,0.9,"7,517","1,256","2,918",3,7,Medium,-,"5,117",High,Birmingham,3
+B76,0.88,"13,456","1,973","5,210",2,3,Medium,-,"6,100",Medium,Birmingham,4
+B78,0.91,"15,002","2,406","6,216",6,12,Medium,1,"9,967",Medium,Birmingham,3
+B79,0.9,"13,957","2,117","5,319",6,15,Medium,1,"10,000",Medium,Birmingham,3
+B92,0.97,"23,356","3,700","9,183",1,7,Medium,-,"11,733",High,Birmingham,2
+B93,0.91,"11,695","1,655","3,891",3,8,Medium,-,"4,767",High,Birmingham,3
+CV35,0.89,"14,899","1,874","5,500",2,8,Low,2,"9,183",Medium,Coventry,4
+CV36,0.87,"5,856",714,"1,920",2,4,Low,-,"3,183",High,Coventry,4
+CV37,0.98,"25,949","3,559","9,817",7,25,Low,2,"14,900",High,Coventry,2
+CV7,0.95,"17,057","2,569","6,534",4,11,Low,-,"11,700",High,Coventry,2
+DY1,0.92,"19,884","3,734","8,916",7,51,Low,-,"12,483",Low,Dudley,3
+DY10,0.93,"22,819","3,650","9,150",2,17,Low,-,"13,550",Medium,Dudley,3
+DY11,0.91,"19,019","3,023","7,486",2,8,Low,1,"11,800",Medium,Dudley,3
+DY13,0.89,"13,990","1,979","5,081",1,5,Low,-,"8,133",Medium,Dudley,3
+DY2,0.92,"21,309","4,165","9,677",6,18,Low,-,"12,133",Medium,Dudley,3
+DY3,0.94,"21,046","3,416","7,959",2,18,Low,-,"12,100",High,Dudley,2
+DY4,0.97,"26,778","5,138","12,612",3,32,Low,-,"15,900",Medium,Dudley,2
+DY5,0.96,"26,277","5,003","11,709",18,32,Low,1,"16,800",Low,Dudley,2
+DY6,0.91,"16,653","2,592","6,033",5,30,Low,-,"9,333",Medium,Dudley,3
+DY7,0.84,"5,019",724,"1,573",1,4,Low,-,"2,583",Medium,Dudley,5
+DY8,0.98,"31,595","4,749","12,770",11,18,Low,-,"16,767",Medium,Dudley,2
+DY9,0.9,"18,177","2,905","7,012",3,28,Low,-,"8,783",Medium,Dudley,3
+DY12,0.84,"7,742",967,"2,420",1,2,Low,-,"3,800",Medium,Dudley,5
+DY14,0.83,"5,142",752,"1,635",1,4,Low,-,"2,883",Medium,Dudley,5
+GL20,0.92,"17,429","2,599","7,318",6,8,Low,1,"10,733",Medium,Gloucester,3
+GL18,0.85,"4,624",721,"1,534",2,3,Low,-,"3,317",Medium,Gloucester,4
+GL19,0.83,"5,370",781,"1,620",-,4,Low,-,"3,100",Medium,Gloucester,5
+GL51,0.99,"33,029","6,041","14,263",11,14,Low,-,"16,850",Medium,Gloucester,2
+GL52,0.98,"27,761","4,260","11,835",5,12,Low,2,"14,400",High,Gloucester,2
+GL54,0.89,"13,718","1,626","4,588",5,9,Low,1,"7,917",Medium,Gloucester,3
+GL55,0.86,"3,363",372,914,1,7,Low,-,"1,800",High,Gloucester,4
+GL56,0.83,"5,309",576,"1,772",3,7,Low,1,"3,117",Medium,Gloucester,5
+HR8,0.88,"8,663","1,161","3,090",3,7,Low,1,"4,983",High,Hereford,4
+TF11,0.84,"6,266",928,"2,287",2,5,Low,-,"5,167",Medium,Telford,4
+WR1,0.86,"6,477","1,332","3,311",8,29,Low,2,"4,333",Medium,Worcester,4
+WR10,0.86,"10,922","1,471","3,379",1,7,Low,-,"6,783",Medium,Worcester,4
+WR11,0.96,"25,697","4,174","10,174",5,33,Low,2,"17,717",Medium,Worcester,2
+WR12,0.82,"3,414",400,926,-,3,Low,-,"1,900",Medium,Worcester,5
+WR14,0.91,"21,218","3,116","7,366",10,18,Low,-,"11,467",Medium,Worcester,3
+WR2,0.93,"18,165","3,940","6,377",10,9,Low,-,"11,250",Medium,Worcester,3
+WR3,0.9,"12,848","1,835","5,627",4,2,Low,-,"7,983",Medium,Worcester,3
+WR4,0.92,"16,637","2,931","8,016",3,6,Low,-,"10,050",Medium,Worcester,3
+WR5,0.94,"19,363","3,083","8,853",5,12,Low,1,"13,200",Medium,Worcester,2
+WR7,0.83,"2,894",374,926,-,-,Low,-,"1,617",Medium,Worcester,5
+WR8,0.84,"5,193",632,"1,513",1,1,Low,1,"2,733",Medium,Worcester,5
+WR9,0.92,"19,108","2,803","7,261",6,22,Low,1,"13,200",Low,Worcester,3
+WR99,0.81,-,-,-,-,-,Low,-,-,Medium,Worcester,5
+WR13,0.82,"4,916",619,"1,346",-,1,Low,-,"2,400",Medium,Worcester,5
+WR6,0.86,"7,231",929,"2,256",-,6,Low,-,"3,883",Medium,Worcester,4
+WS1,0.91,"16,182","3,830","8,244",3,57,Low,-,"7,733",Medium,Walsall,3
+WS10,1,"28,872","5,824","12,652",4,38,Low,-,"17,767",High,Walsall,1
+WS2,0.96,"23,949","5,056","11,134",2,41,Low,-,"14,367",Medium,Walsall,2
+WS4,0.88,"10,571","1,820","4,112",1,13,Low,-,"5,817",Medium,Walsall,4
+WS5,0.88,"12,876","2,320","5,577",2,12,Low,-,"5,217",Medium,Walsall,4
+WS14,0.86,"9,876","1,403","3,966",2,3,Low,-,"5,133",Medium,Walsall,4
+WS3,1.01,"31,495","5,492","12,367",4,23,Low,1,"19,367",Medium,Walsall,1
+WS6,0.89,"10,965","2,045","4,077",2,5,Low,-,"6,467",Medium,Walsall,3
+WS8,0.89,"9,645","1,647","4,073",4,12,Low,-,"5,833",High,Walsall,3
+WS9,0.92,"16,526","2,487","5,961",4,16,Low,-,"8,517",High,Walsall,3
+WV1,0.89,"10,174","2,347","4,763",2,52,Low,2,"6,133",High,Wolverhampton,4
+WV12,0.92,"15,870","2,894","6,490",3,8,Low,-,"8,517",High,Wolverhampton,3
+WV13,0.91,"13,153","2,546","5,926",3,26,Low,1,"7,483",High,Wolverhampton,3
+WV14,1.01,"29,876","5,597","12,763",1,35,Low,1,"17,800",High,Wolverhampton,1
+WV2,0.88,"9,520","1,992","4,471",7,37,Low,3,"5,050",High,Wolverhampton,4
+WV3,0.92,"18,791","3,051","8,172",6,38,Low,-,"8,167",High,Wolverhampton,3
+WV4,0.93,"21,612","3,697","9,346",1,30,Low,-,"9,400",High,Wolverhampton,3
+WV5,0.85,"9,728","1,567","3,332",2,9,Low,-,"4,500",Medium,Wolverhampton,4
+WV6,0.97,"28,376","5,169","11,792",4,42,Low,-,"13,417",High,Wolverhampton,2
+WV98,0.81,-,-,-,-,-,Low,-,-,High,Wolverhampton,5
+WV10,1.07,"35,751","7,115","15,369",7,39,Low,-,"22,433",High,Wolverhampton,1
+WV11,0.98,"22,105","3,936","8,750",5,27,Low,-,"13,133",High,Wolverhampton,2
+WV15,0.83,"4,813",656,"1,806",5,4,Low,1,"2,967",Low,Wolverhampton,5
+WV16,0.89,"10,713","1,519","3,943",3,5,Low,-,"6,733",High,Wolverhampton,4
+WV7,0.84,"3,969",553,"1,563",2,4,Low,-,"2,067",High,Wolverhampton,4
+WV8,0.87,"9,765","1,566","3,707",2,7,Low,-,"5,050",High,Wolverhampton,4
+WV9,0.85,"4,531",736,"1,743",1,2,Low,-,"2,000",High,Wolverhampton,4
+B77,1.03,"35,414","6,642","16,325",7,23,Medium,-,"22,656",Low,Birmingham,1
+CV1,0.97,"20,103","7,399","8,911",6,66,Low,8,"13,333",High,Coventry,2
+CV10,1.04,"31,325","5,553","13,786",7,19,Low,-,"22,667",High,Coventry,1
+CV11,0.96,"24,539","4,496","10,149",6,35,Low,1,"16,183",Medium,Coventry,2
+CV12,0.96,"20,071","3,139","7,876",3,9,Low,-,"11,400",High,Coventry,2
+CV2,1.08,"41,777","8,343","17,950",6,52,Low,-,"24,850",High,Coventry,1
+CV21,0.95,"23,497","3,910","10,870",4,35,Low,-,"15,283",Medium,Coventry,2
+CV22,0.93,"21,210","3,117","8,839",7,14,Low,-,"13,317",Medium,Coventry,3
+CV23,0.9,"12,498","1,727","5,134",3,8,Low,-,"9,833",Medium,Coventry,3
+CV3,1.1,"40,824","7,186","16,951",4,47,Low,-,"22,350",High,Coventry,1
+CV31,0.92,"20,482","6,303","9,437",6,15,Low,1,"10,317",Medium,Coventry,3
+CV32,0.91,"21,499","4,074","9,349",5,22,Low,-,"9,183",Medium,Coventry,3
+CV33,0.82,"3,708",493,"1,382",1,2,Low,-,"2,217",Medium,Coventry,5
+CV34,0.93,"20,147","2,842","9,672",11,31,Low,1,"14,400",Medium,Coventry,3
+CV4,0.95,"18,725","4,208","7,613",3,20,Low,1,"10,933",High,Coventry,2
+CV47,0.87,"10,275","1,543","4,156",4,7,Low,-,"7,833",Medium,Coventry,4
+CV5,1.01,"30,111","6,185","11,974",4,53,Low,-,"15,133",High,Coventry,1
+CV6,1.14,"47,362","8,343","24,746",8,395,Low,-,"31,817",High,Coventry,1
+CV8,0.92,"19,362","2,578","7,047",7,7,Low,-,"10,050",High,Coventry,3
+CV13,0.84,"6,395",864,"2,218",2,4,Low,-,"3,617",Medium,Coventry,5
+CV9,0.89,"13,154","2,040","5,142",5,9,Low,1,"9,267",Low,Coventry,4
+LE10,1,"30,001","4,524","12,637",11,28,Low,1,"19,783",Medium,Leicester,2
+LE18,0.92,"20,042","3,339","7,984",8,14,Low,-,"10,117",Medium,Leicester,3
+LE19,0.87,"9,136","1,511","4,015",6,20,Low,-,"5,700",Medium,Leicester,4
+LE21,0.81,-,-,-,-,-,Low,-,-,Medium,Leicester,5
+LE87,0.81,-,-,-,-,-,Low,-,-,Medium,Leicester,5
+LE95,0.81,-,-,-,-,-,Low,-,-,Medium,Leicester,5
+LE1,0.88,"8,662","3,021","4,281",7,103,Low,13,"5,933",Medium,Leicester,4
+LE16,0.93,"20,881","2,837","8,383",11,24,Low,-,"13,317",Medium,Leicester,3
+LE17,0.89,"12,326","1,836","4,656",3,15,Low,1,"8,867",Medium,Leicester,3
+LE2,1.11,"47,362","8,343","24,746",20,105,Low,2,"32,550",Medium,Leicester,1
+LE3,1.14,"47,362","8,343","24,746",8,101,Low,2,"36,867",High,Leicester,1
+LE5,1.09,"47,362","8,343","24,383",6,177,Low,-,"21,900",High,Leicester,1
+LE55,0.81,-,-,-,-,-,Low,-,-,Medium,Leicester,5
+LE6,0.84,"7,375","1,223","2,911",3,3,Low,-,"3,583",Medium,Leicester,5
+LE7,0.97,"27,237","4,309","10,461",8,22,Low,1,"16,300",Medium,Leicester,2
+LE8,0.93,"21,204","3,274","8,186",10,16,Low,-,"12,917",Medium,Leicester,3
+LE9,1.03,"33,665","5,409","13,628",12,21,Low,-,"20,683",High,Leicester,1
+NN11,0.97,"23,113","3,718","9,965",9,17,Low,2,"16,617",Medium,Northampton,2
+NN13,0.88,"11,334","1,738","4,878",9,12,Low,-,"8,350",Medium,Northampton,4
+NN12,0.91,"13,846","1,964","5,552",5,12,Low,-,"10,567",Medium,Northampton,3
+NN6,0.93,"19,961","2,969","7,281",4,15,Low,2,"13,783",Medium,Northampton,3
+NN7,0.95,"16,455","2,365","5,932",-,14,Low,-,"10,067",High,Northampton,2
+OX15,0.89,"10,657","1,350","3,569",2,5,Low,1,"6,650",High,Oxford,3
+OX16,0.99,"29,377","5,109","14,612",19,24,Low,-,"19,767",Medium,Oxford,2
+OX17,0.88,"10,193","1,277","3,731",2,2,Low,-,"5,950",High,Oxford,4
+OX25,0.87,"5,246",759,"2,345",3,1,Low,-,"4,083",Medium,Oxford,4
+OX7,0.88,"13,976","1,778","5,052",6,11,Low,1,"7,433",Medium,Oxford,4
+LE94,0.81,-,-,-,-,-,Low,-,-,Medium,Leicester,5
+MK1,0.83,423,62,202,5,5,Low,1,"1,000",High,Milton Keynes,5
+MK10,0.88,"8,561","1,248","6,225",7,7,Low,-,"7,800",Medium,Milton Keynes,4
+MK11,0.87,"4,901",726,"2,056",-,13,Low,1,"3,467",High,Milton Keynes,4
+MK12,0.89,"7,896","1,374","4,095",1,16,Low,1,"5,267",High,Milton Keynes,4
+MK13,0.9,"12,026","2,107","5,658",4,14,Low,-,"5,800",High,Milton Keynes,3
+MK14,0.92,"11,632","2,074","5,604",5,8,Low,-,"7,333",High,Milton Keynes,3
+MK15,0.85,"4,544",676,"1,906",2,3,Low,-,"2,317",Medium,Milton Keynes,4
+MK16,0.91,"11,370","1,774","4,934",4,12,Low,-,"6,633",High,Milton Keynes,3
+MK19,0.88,"6,750",918,"2,987",1,4,Low,-,"4,867",High,Milton Keynes,4
+MK2,0.88,"9,055","1,598","3,928",1,15,Low,-,"5,517",Medium,Milton Keynes,4
+MK3,0.91,"14,175","2,340","5,993",2,6,Low,-,"9,217",Medium,Milton Keynes,3
+MK4,0.91,"13,270","2,041","7,960",6,2,Low,-,"9,333",Medium,Milton Keynes,3
+MK40,0.92,"19,399","3,868","9,403",5,55,Low,1,"11,817",Medium,Milton Keynes,3
+MK41,0.95,"26,359","4,461","10,750",4,7,Low,-,"12,600",Medium,Milton Keynes,2
+MK42,1,"28,129","5,190","14,063",5,31,Low,-,"19,417",Medium,Milton Keynes,2
+MK43,0.96,"19,737","2,855","7,879",5,12,Low,1,"14,600",High,Milton Keynes,2
+MK45,0.99,"26,205","4,227","10,415",5,14,Low,1,"18,483",High,Milton Keynes,2
+MK46,0.85,"5,533",698,"2,231",3,3,Low,-,"3,417",High,Milton Keynes,4
+MK5,0.87,"9,350","1,531","4,985",2,15,Low,-,"4,383",Medium,Milton Keynes,4
+MK6,0.93,"17,687","3,094","9,549",2,18,Low,-,"11,467",Medium,Milton Keynes,3
+MK7,0.88,"9,096","1,442","5,085",1,5,Low,1,"4,667",High,Milton Keynes,4
+MK77,0.82,-,-,-,-,-,Low,-,-,High,Milton Keynes,5
+MK8,0.88,"7,452","1,299","3,939",1,6,Low,-,"3,933",High,Milton Keynes,4
+MK9,0.85,"2,658",549,"1,995",3,27,Low,1,"2,900",Medium,Milton Keynes,4
+NN1,0.95,"21,073","4,522","11,567",7,55,Low,3,"14,650",Low,Northampton,2
+NN10,0.95,"23,551","3,713","10,517",4,14,Low,1,"15,333",Medium,Northampton,2
+NN14,0.98,"26,137","3,846","11,059",9,9,Low,-,"17,533",High,Northampton,2
+NN15,0.94,"20,887","3,207","8,875",9,19,Low,-,"15,633",Medium,Northampton,2
+NN16,0.92,"19,671","3,444","9,269",5,23,Low,-,"12,450",Medium,Northampton,3
+NN17,0.93,"17,368","2,917","7,126",5,22,Low,1,"14,433",Low,Northampton,3
+NN18,0.95,"21,105","3,925","10,181",5,9,Low,-,"16,650",Medium,Northampton,2
+NN2,0.95,"23,911","4,890","10,279",5,18,Low,-,"14,967",Medium,Northampton,2
+NN29,0.84,"7,050",915,"2,792",2,3,Low,1,"4,483",Medium,Northampton,4
+NN3,1.06,"42,853","7,387","17,778",10,29,Low,1,"27,850",Medium,Northampton,1
+NN4,0.99,"28,923","4,702","15,218",7,21,Low,-,"19,200",Medium,Northampton,2
+NN5,0.96,"24,483","3,956","11,487",7,25,Low,-,"16,500",Medium,Northampton,2
+NN8,1.03,"31,309","5,225","13,976",5,60,Low,-,"20,850",High,Northampton,1
+NN9,0.94,"16,099","2,565","6,746",3,8,Low,-,"11,433",High,Northampton,3
+PE5,0.81,962,122,328,-,-,Low,-,"1,000",Medium,Peterborough,5
+CB1,1,"32,483","7,040","17,178",17,33,Low,1,"12,833",High,Cambridge,1
+CB2,0.89,"6,756","1,262","3,413",15,15,Low,3,"10,067",High,Cambridge,3
+CB22,0.91,"14,727","2,003","5,797",1,18,Low,1,"7,300",High,Cambridge,3
+CB23,0.94,"18,462","2,643","9,261",2,13,Low,2,"10,800",High,Cambridge,3
+CB24,0.95,"20,019","2,995","8,983",4,12,Low,-,"11,117",High,Cambridge,2
+CB25,0.9,"10,726","1,505","4,607",2,5,Low,1,"6,083",High,Cambridge,3
+CB3,0.87,"6,702",983,"2,972",5,4,Low,-,"4,717",High,Cambridge,4
+CB4,0.97,"27,996","5,340","14,921",7,22,Low,-,"12,267",High,Cambridge,2
+CB5,0.87,"7,466","1,355","4,085",4,5,Low,-,"4,050",High,Cambridge,4
+CB6,0.94,"23,085","3,454","10,725",4,13,Low,2,"14,567",Medium,Cambridge,2
+CB10,0.86,"8,042","1,155","3,179",6,14,Low,1,"4,650",Medium,Cambridge,4
+CB21,0.88,"9,302","1,345","3,470",2,6,Low,1,"4,750",High,Cambridge,4
+CB7,0.91,"16,443","2,519","7,888",4,21,Low,1,"10,833",Medium,Cambridge,3
+CB8,0.95,"20,891","3,184","8,979",11,18,Low,-,"11,850",High,Cambridge,2
+MK44,0.88,"9,251","1,254","3,072",1,10,Low,-,"5,617",High,Milton Keynes,4
+PE1,1.01,"30,776","6,588","15,668",8,118,Low,-,"21,083",Medium,Peterborough,1
+PE15,0.93,"18,338","2,880","6,994",3,11,Low,-,"12,550",Medium,Peterborough,3
+PE16,0.85,"6,543","1,070","2,746",3,4,Low,-,"4,783",Medium,Peterborough,4
+PE26,0.86,"7,295","1,281","2,846",-,4,Low,-,"4,567",Medium,Peterborough,4
+PE27,0.89,"12,531","2,097","5,421",5,24,Low,1,"6,450",Medium,Peterborough,4
+PE29,0.93,"18,636","3,411","8,981",5,11,Low,-,"12,450",Medium,Peterborough,3
+PE3,0.91,"17,897","3,315","7,975",5,15,Low,1,"10,900",Medium,Peterborough,3
+PE4,0.92,"18,275","3,093","7,730",3,19,Low,-,"10,567",Medium,Peterborough,3
+PE13,0.96,"22,021","3,731","8,630",3,34,Low,1,"15,650",Medium,Peterborough,2
+PE14,0.89,"12,542","1,980","4,444",1,7,Low,-,"7,883",Medium,Peterborough,3
+PE19,0.98,"27,031","4,489","11,857",6,25,Low,1,"16,717",Medium,Peterborough,2
+PE2,0.98,"29,029","4,845","13,729",9,28,Low,1,"18,867",Medium,Peterborough,2
+PE28,1.01,"27,634","4,152","11,041",4,11,Low,1,"18,683",High,Peterborough,1
+PE34,0.85,"8,640","1,387","3,149",2,6,Low,-,"5,083",Low,Peterborough,4
+PE38,0.86,"9,235","1,290","3,370",-,6,Low,-,"5,550",Medium,Peterborough,4
+PE6,0.94,"21,493","3,270","8,308",2,13,Low,-,"15,167",Medium,Peterborough,2
+PE7,1,"26,192","4,488","12,416",4,32,Low,-,"19,633",Medium,Peterborough,2
+PE8,0.91,"9,816","1,332","3,904",2,9,Low,-,"5,333",High,Peterborough,3
+PE9,0.93,"19,440","2,577","7,727",7,14,Low,-,"10,433",High,Peterborough,3
+SG15,0.82,"3,496",590,"1,764",-,2,Low,-,"2,017",Medium,Stevenage,5
+SG7,0.85,"8,146","1,247","3,358",1,8,Low,3,"4,550",Low,Stevenage,4
+SG8,0.93,"23,063","3,366","9,740",2,21,Low,1,"12,700",Medium,Stevenage,3
+SG16,0.83,"3,634",489,"1,753",-,3,Low,-,"2,383",Medium,Stevenage,5
+SG17,0.85,"7,238","1,163","3,227",-,2,Low,-,"5,800",Medium,Stevenage,4
+SG18,0.91,"14,862","2,377","6,376",6,13,Low,-,"11,683",Medium,Stevenage,3
+SG19,0.89,"14,671","2,250","6,338",4,6,Low,-,"8,767",Medium,Stevenage,4
+CB9,0.97,"20,168","3,764","9,135",5,18,Low,-,"12,317",High,Cambridge,2
+CM7,0.98,"30,476","5,282","13,687",8,19,Low,1,"16,933",Medium,Chelmsford,2
+CO10,0.99,"28,823","4,172","10,501",13,23,Low,-,"16,633",High,Colchester,2
+CO11,0.85,"7,972","1,201","2,911",2,2,Low,-,"4,733",Low,Colchester,4
+CO4,1.01,"29,209","6,506","13,329",11,10,Low,1,"20,317",Medium,Colchester,1
+CO6,0.91,"17,176","2,337","6,486",4,6,Low,-,"10,433",Medium,Colchester,3
+CO7,0.93,"20,180","3,106","6,921",6,24,Low,1,"11,817",Medium,Colchester,3
+CO8,0.83,"1,398",165,473,-,1,Low,-,"1,000",Medium,Colchester,5
+CO9,0.89,"15,546","2,297","5,980",7,6,Low,-,"9,167",Medium,Colchester,3
+IP24,0.92,"17,457","3,358","7,823",6,19,Low,-,"12,683",Medium,Ipswich,3
+IP26,0.84,"5,352",840,"2,145",-,2,Low,1,"3,433",Medium,Ipswich,5
+IP27,0.88,"11,218","1,858","4,886",4,5,Low,-,"8,217",Medium,Ipswich,4
+IP28,0.91,"14,930","2,573","7,077",3,17,Low,-,"12,633",Medium,Ipswich,3
+IP29,0.83,"5,390",685,"1,794",-,-,Low,-,"2,500",Low,Ipswich,5
+IP30,0.86,"8,190","1,178","2,994",2,4,Low,-,"4,467",Medium,Ipswich,4
+IP31,0.89,"12,201","1,809","4,574",1,8,Low,-,"6,567",Medium,Ipswich,4
+IP32,0.88,"10,828","1,995","5,296",3,13,Low,-,"5,717",Medium,Ipswich,4
+IP33,0.89,"15,936","2,320","6,266",9,9,Low,3,"8,183",Medium,Ipswich,4
+IP7,0.86,"9,498","1,369","3,652",1,11,Low,-,"5,500",Medium,Ipswich,4
+IP14,0.97,"23,702","3,589","9,557",7,8,Low,-,"14,500",High,Ipswich,2
+IP22,0.88,"13,544","1,902","4,779",4,13,Low,1,"7,583",Medium,Ipswich,4
+IP23,0.83,"4,150",622,"1,362",2,4,Low,-,"2,317",Medium,Ipswich,5
+IP25,0.87,"10,575","1,561","3,724",-,6,Low,-,"7,600",Low,Ipswich,4
+IP6,0.86,"9,821","1,350","3,713",3,6,Low,-,"6,600",Medium,Ipswich,4
+IP8,0.84,"6,753",942,"2,803",6,4,Low,-,"4,317",Medium,Ipswich,4
+IP9,0.84,"6,531",922,"2,059",2,4,Low,1,"4,000",Low,Ipswich,5
+NR16,0.84,"7,116","1,046","2,602",1,3,Low,-,"3,950",Low,Norwich,5
+NR17,0.86,"9,725","1,518","3,744",13,15,Low,-,"6,367",Low,Norwich,4
+NR18,0.87,"10,411","1,488","4,001",5,6,Low,-,"7,383",Low,Norwich,4
+NR19,0.89,"12,682","2,166","5,030",7,11,Low,-,"7,033",Medium,Norwich,4
+NR20,0.88,"11,367","1,676","3,896",-,5,Low,-,"6,217",Medium,Norwich,4
+NR9,0.86,"10,150","1,268","3,786",1,8,Low,-,"6,717",Medium,Norwich,4
+PE32,0.85,"9,301","1,305","2,946",-,8,Low,-,"5,083",Medium,Peterborough,4
+PE33,0.88,"9,008","1,343","3,664",-,3,Low,1,"5,150",High,Peterborough,4
+PE37,0.84,"6,373",895,"1,922",3,9,Low,-,"4,017",Medium,Peterborough,5
+IP1,0.95,"25,119","4,795","11,524",18,40,Low,1,"14,050",Medium,Ipswich,2
+IP10,0.81,"1,813",231,516,-,-,Low,-,"1,200",Medium,Ipswich,5
+IP12,0.88,"14,530","1,892","4,871",3,8,Low,1,"7,433",Medium,Ipswich,4
+IP13,0.86,"10,678","1,508","3,297",3,11,Low,2,"5,317",Medium,Ipswich,4
+IP15,0.81,"1,608",126,352,2,4,Low,-,"1,000",Low,Ipswich,5
+IP16,0.85,"4,056",617,"1,395",1,2,Low,-,"2,367",High,Ipswich,4
+IP17,0.84,"6,656",772,"1,918",3,5,Low,4,"3,883",Medium,Ipswich,5
+IP18,0.82,"2,623",240,562,2,1,Low,-,"1,117",Low,Ipswich,5
+IP19,0.83,"6,385",873,"1,747",1,13,Low,-,"3,017",Medium,Ipswich,5
+IP2,0.92,"20,196","3,867","8,673",6,17,Low,1,"11,233",Medium,Ipswich,3
+IP20,0.83,"4,862",608,"1,742",-,11,Low,-,"2,533",Low,Ipswich,5
+IP21,0.83,"6,726",867,"2,238",1,1,Low,-,"3,350",Low,Ipswich,5
+IP3,0.93,"21,921","3,966","10,410",16,25,Low,-,"11,767",Low,Ipswich,3
+IP4,0.93,"22,965","3,845","10,324",9,40,Low,3,"12,567",Medium,Ipswich,3
+IP5,0.87,"11,812","1,707","5,127",3,4,Low,-,"6,217",Medium,Ipswich,4
+IP98,0.8,-,-,-,-,-,Low,-,-,Low,Ipswich,5
+NR14,0.9,"14,289","2,004","5,148",2,9,Low,-,"8,933",Medium,Norwich,3
+NR15,0.85,"9,398","1,380","3,552",2,5,Low,-,"5,133",Medium,Norwich,4
+NR31,1.02,"31,783","5,558","11,763",8,19,Low,-,"21,183",Medium,Norwich,1
+NR32,0.95,"24,266","3,974","8,826",5,28,Low,-,"15,183",Medium,Norwich,2
+NR33,0.94,"24,576","3,923","8,837",9,13,Low,1,"14,500",Medium,Norwich,2
+NR34,0.87,"13,808","2,034","4,607",1,14,Low,-,"7,283",Medium,Norwich,4
+NR35,0.84,"6,629",971,"2,327",1,4,Low,1,"3,367",Low,Norwich,5
+NR4,0.89,"11,819","2,304","3,967",11,6,Low,-,"9,017",Medium,Norwich,3
+NR99,0.8,-,-,-,-,-,Low,-,-,Medium,Norwich,5
+NR1,0.91,"17,452","2,993","8,397",7,34,Low,3,"10,200",Medium,Norwich,3
+NR13,0.9,"16,087","2,192","5,736",5,7,Low,1,"10,283",Medium,Norwich,3
+NR2,0.91,"19,112","5,352","8,289",5,33,Low,1,"8,717",Medium,Norwich,3
+NR29,0.87,"12,109","1,648","3,742",3,5,Low,-,"7,083",Medium,Norwich,4
+NR3,0.93,"23,056","4,353","11,608",9,32,Low,3,"11,700",Medium,Norwich,3
+NR30,0.92,"20,132","3,669","7,361",2,34,Low,1,"11,717",Medium,Norwich,3
+NR5,0.91,"18,889","4,633","8,081",6,7,Low,-,"10,733",Medium,Norwich,3
+NR6,0.89,"15,036","2,230","6,068",4,8,Low,-,"8,850",Medium,Norwich,4
+NR7,0.91,"20,060","2,994","7,588",7,10,Low,-,"10,650",Medium,Norwich,3
+SA61,0.86,"9,343","1,734","3,610",6,12,Low,-,"5,933",Medium,Swansea,4
+SA63,0.81,677,98,228,-,-,Low,-,"1,000",Low,Swansea,5
+SA67,0.83,"4,310",670,"1,354",-,2,Low,-,"2,817",Low,Swansea,5
+SA68,0.82,"2,629",390,774,1,1,Low,-,"1,617",Low,Swansea,5
+SA69,0.82,"2,209",300,598,-,3,Low,-,"1,367",Low,Swansea,5
+SA70,0.84,"6,159",935,"1,928",3,3,Low,-,"3,283",Medium,Swansea,5
+SA71,0.84,"6,511","1,021","2,114",1,2,Low,1,"3,767",Low,Swansea,5
+SA72,0.85,"6,726","1,335","2,512",3,2,Low,-,"4,283",Medium,Swansea,4
+SA73,0.9,"13,005","2,278","4,527",1,5,Low,-,"8,500",Medium,Swansea,3
+SA34,0.82,"3,321",562,"1,147",1,1,Low,-,"1,733",Low,Swansea,5
+SA35,0.81,429,60,124,-,-,Low,-,"1,000",Low,Swansea,5
+SA36,0.81,237,38,91,-,-,Low,-,"1,000",Low,Swansea,5
+SA41,0.81,"1,176",179,359,-,-,Low,-,"1,000",Low,Swansea,5
+SA62,0.91,"12,774","1,853","4,184",-,5,Low,1,"7,133",High,Swansea,3
+SA65,0.82,"2,806",447,846,1,4,Low,-,"1,617",Low,Swansea,5
+SA66,0.81,"1,898",281,609,-,-,Low,-,"1,100",Low,Swansea,5
+SA1,1.04,"33,545","8,343","13,274",6,67,Low,4,"18,617",High,Swansea,1
+SA14,0.95,"21,196","3,579","8,243",3,13,Low,-,"14,000",High,Swansea,2
+SA15,0.96,"24,054","4,191","8,800",4,19,Low,1,"13,667",High,Swansea,2
+SA16,0.83,"5,493",793,"1,785",1,2,Low,-,"2,750",Low,Swansea,5
+SA17,0.84,"5,911",951,"1,959",1,2,Low,-,"3,567",Low,Swansea,5
+SA18,0.92,"18,833","3,008","6,854",2,14,Low,-,"10,983",Medium,Swansea,3
+SA2,0.98,"22,986","6,808","7,656",6,16,Low,-,"11,100",High,Swansea,2
+SA3,0.91,"16,574","1,822","5,235",3,13,Low,-,"6,667",High,Swansea,3
+SA31,0.87,"10,858","1,924","4,019",6,14,Low,1,"7,667",Low,Swansea,4
+SA4,1,"27,921","4,453","11,391",3,17,Low,-,"16,183",High,Swansea,1
+SA5,0.97,"23,795","4,067","9,781",4,16,Low,-,"11,933",High,Swansea,2
+SA6,0.97,"22,224","3,636","8,937",1,14,Low,-,"13,350",High,Swansea,2
+SA7,0.9,"9,437","1,552","4,567",3,10,Low,-,"5,883",High,Swansea,3
+SA80,0.82,-,-,-,-,-,Low,-,-,High,Swansea,5
+SA99,0.81,-,-,-,-,-,Low,-,-,Medium,Swansea,5
+CF10,0.9,"10,676","2,843","6,442",10,23,Medium,7,"7,767",Medium,Cardiff,3
+CF11,0.97,"24,043","4,632","13,712",8,29,Medium,3,"14,617",Medium,Cardiff,2
+CF14,1.1,"47,362","8,343","19,162",21,57,Medium,-,"25,294",High,Cardiff,1
+CF15,0.9,"10,944","1,649","4,422",2,1,Medium,-,"6,183",High,Cardiff,3
+CF23,1,"28,543","5,169","13,026",13,21,Medium,-,"14,133",High,Cardiff,1
+CF24,1.05,"37,260","8,343","16,320",9,72,Medium,3,"23,117",Medium,Cardiff,1
+CF30,0.82,-,-,-,-,-,Medium,-,-,High,Cardiff,5
+CF31,1.02,"28,485","4,836","12,467",5,12,Medium,-,"18,683",High,Cardiff,1
+CF32,0.97,"19,278","3,355","7,877",3,13,Medium,-,"11,600",High,Cardiff,2
+CF33,0.88,"9,349","1,631","3,930",-,4,Medium,-,"5,800",High,Cardiff,4
+CF34,0.9,"13,305","2,243","5,156",2,6,Medium,-,"7,383",High,Cardiff,3
+CF35,0.92,"9,081","1,313","3,516",1,4,Medium,-,"7,267",High,Cardiff,3
+CF36,0.88,"10,236","1,299","3,157",2,9,Medium,-,"5,233",High,Cardiff,4
+CF37,1,"24,818","5,781","9,716",6,27,Medium,2,"16,100",High,Cardiff,1
+CF38,0.89,"14,353","2,299","6,404",2,9,Medium,-,"8,583",Low,Cardiff,3
+CF39,0.95,"18,633","3,427","7,440",4,12,Medium,-,"11,850",High,Cardiff,2
+CF40,0.89,"13,367","2,525","5,313",1,11,Medium,-,"7,867",Medium,Cardiff,4
+CF41,0.86,"6,935","1,209","2,701",-,6,Medium,-,"4,633",Medium,Cardiff,4
+CF42,0.87,"8,742","1,477","3,053",1,7,Medium,-,"5,117",Medium,Cardiff,4
+CF43,0.85,"7,933","1,400","2,850",1,1,Medium,-,"4,600",Medium,Cardiff,4
+CF44,1.01,"25,185","4,501","9,673",3,16,Medium,-,"15,883",High,Cardiff,1
+CF45,0.9,"12,749","2,354","4,911",1,14,Medium,-,"8,117",Medium,Cardiff,3
+CF46,0.94,"8,971","1,548","3,619",3,8,Medium,-,"5,683",High,Cardiff,2
+CF47,0.95,"14,222","2,684","5,773",2,16,Medium,-,"8,917",High,Cardiff,2
+CF48,0.98,"17,590","3,235","6,958",3,13,Medium,-,"11,633",High,Cardiff,2
+CF5,1.07,"42,890","7,242","17,842",14,34,Medium,-,"23,467",High,Cardiff,1
+CF61,0.86,"6,073",960,"2,106",1,6,Medium,2,"2,967",High,Cardiff,4
+CF62,1,"25,791","4,290","10,410",5,16,Medium,-,"17,500",High,Cardiff,1
+CF63,0.9,"14,493","2,616","6,513",1,8,Medium,-,"8,200",Medium,Cardiff,3
+CF64,0.96,"23,225","3,347","8,701",3,14,Medium,-,"12,250",High,Cardiff,2
+CF71,0.86,"5,464",668,"1,680",3,3,Medium,-,"3,217",High,Cardiff,4
+CF72,0.97,"15,987","2,289","7,358",4,9,Medium,-,"11,067",High,Cardiff,2
+CF81,0.88,"10,618","1,996","4,139",-,2,Medium,-,"5,883",Medium,Cardiff,4
+CF82,0.91,"12,557","2,328","5,420",4,9,Medium,-,"8,250",High,Cardiff,3
+CF83,1.05,"34,817","5,884","14,893",4,22,Medium,-,"20,750",High,Cardiff,1
+CF91,0.81,-,-,-,-,-,Medium,-,-,Medium,Cardiff,5
+CF95,0.81,-,-,-,-,-,Medium,-,-,Medium,Cardiff,5
+CF99,0.81,-,-,-,-,-,Medium,-,-,Medium,Cardiff,5
+LD3,0.87,"12,066","1,775","4,136",6,5,Low,-,"7,067",Medium,Llandrindod Wells,4
+NP12,0.94,"20,976","3,690","8,589",6,10,Low,-,"13,833",Medium,Newport,2
+NP13,0.89,"12,998","2,509","4,958",1,7,Low,-,"7,650",Medium,Newport,3
+NP22,0.91,"14,582","2,540","5,522",-,12,Low,-,"8,417",High,Newport,3
+NP23,0.95,"21,535","3,964","8,707",4,11,Low,-,"14,300",Medium,Newport,2
+NP24,0.83,"3,187",576,"1,304",-,2,Low,-,"1,783",Medium,Newport,5
+SA10,0.92,"18,718","2,967","7,499",1,7,Low,1,"10,817",Medium,Swansea,3
+SA11,0.95,"23,913","3,989","9,051",3,25,Low,-,"13,067",Medium,Swansea,2
+SA12,0.94,"21,376","3,515","8,155",1,12,Low,-,"13,183",Medium,Swansea,2
+SA13,0.9,"12,690","2,191","5,090",3,9,Low,-,"7,050",High,Swansea,3
+SA19,0.83,"5,909",816,"1,768",1,6,Low,-,"2,700",Low,Swansea,5
+SA20,0.82,"2,173",354,605,1,2,Low,-,"1,383",Low,Swansea,5
+SA8,0.87,"7,980","1,341","3,123",-,4,Low,1,"4,667",Medium,Swansea,4
+SA9,0.87,"9,726","1,530","3,556",-,4,Low,-,"5,883",Medium,Swansea,4
+BA1,0.97,"27,415","5,371","11,335",13,28,Low,10,"11,250",High,Bath,2
+BA11,0.96,"20,261","3,185","7,949",8,12,Low,-,"12,517",High,Bath,2
+BA2,1.08,"45,435","8,343","16,607",19,28,Low,2,"22,533",High,Bath,1
+BA3,0.96,"20,864","3,470","8,273",7,15,Low,1,"13,783",High,Bath,2
+BA5,0.86,"10,923","1,634","3,349",3,13,Low,2,"6,533",Medium,Bath,4
+BS0,0.8,-,-,-,-,-,Low,-,-,Medium,Bristol,5
+BS1,0.95,"8,261","3,620","4,034",9,43,Medium,8,"10,850",High,Bristol,2
+BS10,0.92,"18,021","3,026","7,721",9,17,Medium,-,"10,383",Medium,Bristol,3
+BS11,0.89,"11,319","2,086","4,713",5,18,Medium,-,"7,567",Medium,Bristol,4
+BS13,0.93,"19,235","3,708","7,359",7,5,Medium,-,"11,550",Medium,Bristol,3
+BS14,0.94,"17,578","3,078","6,800",2,6,Medium,-,"11,450",High,Bristol,2
+BS15,0.98,"30,016","5,265","12,816",5,26,Medium,1,"16,200",Medium,Bristol,2
+BS16,1.09,"46,377","8,343","20,416",16,58,Medium,-,"29,517",Medium,Bristol,1
+BS2,0.88,"11,594","3,041","5,975",3,15,Medium,8,"5,617",Medium,Bristol,4
+BS20,0.97,"18,619","2,334","7,843",12,11,Medium,1,"10,867",High,Bristol,2
+BS21,0.91,"14,341","1,990","5,288",7,9,Medium,-,"7,883",High,Bristol,3
+BS22,0.93,"23,525","3,468","9,484",9,9,Medium,-,"14,067",Medium,Bristol,3
+BS23,0.94,"22,592","3,685","8,549",2,22,Medium,1,"14,450",Low,Bristol,2
+BS24,0.89,"11,568","1,590","5,082",2,3,Medium,-,"9,583",Medium,Bristol,4
+BS25,0.84,"3,630",449,"1,028",1,4,Medium,-,"2,000",Medium,Bristol,5
+BS29,0.82,"1,805",247,535,1,-,Medium,-,"1,317",Medium,Bristol,5
+BS3,1.02,"25,862","4,311","14,835",7,37,Medium,1,"14,083",High,Bristol,1
+BS31,0.9,"12,437","1,985","4,208",6,8,Medium,1,"9,067",Medium,Bristol,3
+BS32,0.9,"15,335","2,539","8,968",4,6,Medium,-,"8,983",Medium,Bristol,3
+BS34,0.95,"19,106","3,500","8,595",7,16,Medium,-,"13,667",Medium,Bristol,2
+BS35,0.9,"13,215","2,105","4,612",4,11,Medium,-,"7,800",Medium,Bristol,3
+BS36,0.86,"9,166","1,402","2,993",3,2,Medium,-,"5,617",Medium,Bristol,4
+BS39,0.88,"9,126","1,491","3,482",2,15,Medium,-,"5,650",High,Bristol,4
+BS4,1.01,"30,886","5,109","15,262",6,25,Medium,1,"17,600",High,Bristol,1
+BS40,0.86,"7,690","1,152","2,468",1,10,Medium,-,"4,467",Medium,Bristol,4
+BS41,0.84,"3,665",377,"1,710",1,-,Medium,1,"1,667",High,Bristol,4
+BS48,0.93,"14,179","2,079","4,568",5,3,Medium,1,"7,383",High,Bristol,3
+BS49,0.86,"7,198","1,140","2,642",1,7,Medium,-,"4,217",Medium,Bristol,4
+BS5,1,"35,597","5,954","18,282",6,61,Medium,-,"17,117",Medium,Bristol,1
+BS6,0.95,"23,038","8,159","11,934",-,36,Medium,1,"9,683",Medium,Bristol,2
+BS7,0.98,"27,006","6,993","13,431",7,32,Medium,-,"14,233",Medium,Bristol,2
+BS8,0.97,"18,242","6,598","9,260",15,22,Medium,1,"6,433",High,Bristol,2
+BS9,0.9,"17,782","2,123","6,721",8,22,Medium,1,"8,050",Medium,Bristol,3
+BS98,0.81,-,-,-,-,-,Medium,-,-,Medium,Bristol,5
+BS99,0.81,-,-,-,-,-,Medium,-,-,Medium,Bristol,5
+BS26,0.82,"3,056",492,959,1,1,Medium,-,"1,600",Low,Bristol,5
+BS27,0.83,"4,275",630,"1,416",2,2,Medium,-,"2,850",Medium,Bristol,5
+BS28,0.82,"1,937",296,545,-,1,Medium,-,"1,167",Low,Bristol,5
+BS30,0.93,"18,589","3,177","7,599",6,9,Medium,1,"10,233",Medium,Bristol,3
+BS37,0.95,"23,295","4,077","9,683",2,5,Medium,-,"15,900",Medium,Bristol,2
+CF3,1.03,"27,056","4,957","11,133",3,16,Medium,-,"16,550",High,Cardiff,1
+GL15,0.89,"12,661","1,975","4,562",1,7,Low,1,"7,783",Medium,Gloucester,4
+GL16,0.87,"8,277","1,285","2,927",1,4,Low,-,"5,650",Medium,Gloucester,4
+GL17,0.84,"6,745","1,010","2,467",2,-,Low,-,"3,667",Medium,Gloucester,5
+GL11,0.87,"11,184","1,712","4,274",2,4,Low,1,"6,433",Medium,Gloucester,4
+GL12,0.87,"8,502","1,357","3,145",1,7,Low,-,"5,550",Medium,Gloucester,4
+GL13,0.83,"3,595",516,"1,318",1,-,Low,-,"2,533",Medium,Gloucester,5
+GL14,0.86,"9,781","1,632","3,667",2,8,Low,-,"5,617",Low,Gloucester,4
+GL2,1.03,"31,374","5,367","14,014",6,14,Low,-,"23,267",Medium,Gloucester,1
+HR1,0.94,"19,676","3,196","7,147",4,13,Low,1,"11,850",High,Hereford,2
+HR2,0.96,"24,584","4,166","10,026",1,17,Low,-,"13,833",High,Hereford,2
+HR9,0.9,"12,900","1,820","4,284",6,12,Low,-,"7,883",High,Hereford,3
+NP15,0.82,"4,572",627,"1,374",1,4,Low,-,"2,517",Low,Newport,5
+NP16,0.88,"14,456","2,207","5,553",1,7,Low,1,"8,400",Medium,Newport,4
+NP18,0.88,"10,268","1,700","3,490",2,10,Low,-,"6,483",High,Newport,4
+NP19,1.04,"33,412","6,701","14,002",7,52,Low,2,"22,433",High,Newport,1
+NP20,1.03,"33,326","6,522","13,552",6,58,Low,2,"20,633",High,Newport,1
+NP25,0.86,"9,135","1,318","3,045",5,9,Low,4,"4,783",Medium,Newport,4
+NP26,0.89,"13,743","2,383","5,217",5,6,Low,-,"8,467",Medium,Newport,4
+NP44,1,"29,945","5,484","11,483",7,24,Low,-,"19,933",Medium,Newport,2
+NP10,0.91,"14,442","2,266","6,278",1,2,Low,-,"10,700",Medium,Newport,3
+NP11,0.95,"24,062","4,291","9,856",5,16,Low,1,"12,933",Medium,Newport,2
+NP4,0.97,"28,722","5,077","11,091",3,17,Low,1,"17,900",Medium,Newport,2
+NP7,0.89,"16,318","2,425","5,269",7,11,Low,1,"8,933",Low,Newport,4
+NP8,0.82,"3,449",419,953,-,4,Low,-,"1,783",Low,Newport,5
+SN14,0.91,"16,688","2,653","7,071",11,9,Low,1,"9,467",Medium,Swindon,3
+TA8,0.87,"10,629","1,465","3,251",1,4,Low,-,"5,817",Medium,Taunton,4
+TA9,0.85,"7,692","1,227","2,662",3,5,Low,-,"5,917",Low,Taunton,4
+BA14,1.03,"29,958","4,915","12,849",6,25,Low,3,"18,783",High,Bath,1
+BA15,0.85,"8,196",998,"2,598",2,6,Low,-,"3,683",Medium,Bath,4
+BA13,0.9,"12,424","1,997","5,179",4,7,Low,-,"8,383",High,Bath,3
+GL1,0.96,"22,259","4,876","10,443",6,43,Low,2,"15,033",Medium,Gloucester,2
+GL10,0.88,"8,455","1,378","3,194",3,9,Low,-,"6,200",Medium,Gloucester,4
+GL3,0.94,"18,864","2,967","7,643",9,12,Low,-,"12,533",Medium,Gloucester,2
+GL4,0.99,"29,693","5,184","12,285",7,6,Low,-,"16,350",Medium,Gloucester,2
+GL5,0.91,"19,651","3,148","7,810",7,16,Low,1,"9,417",Medium,Gloucester,3
+GL50,0.91,"14,905","3,726","7,244",4,33,Low,6,"7,767",Medium,Gloucester,3
+GL53,0.87,"11,944","1,546","4,606",7,9,Low,2,"5,200",Medium,Gloucester,4
+GL6,0.87,"14,877","1,914","5,030",1,9,Low,1,"5,983",Medium,Gloucester,4
+GL8,0.85,"5,192",684,"1,942",1,5,Low,-,"3,350",Medium,Gloucester,4
+GL9,0.82,"1,574",245,547,-,-,Low,-,"1,083",Medium,Gloucester,5
+GL7,0.95,"25,887","4,101","9,299",11,22,Low,-,"15,200",Medium,Gloucester,2
+OX18,0.92,"14,777","2,288","7,152",5,8,Low,-,"10,550",Medium,Oxford,3
+SN1,0.94,"19,910","3,695","11,271",9,49,Low,3,"14,100",Medium,Swindon,2
+SN11,0.89,"13,433","2,108","5,744",2,4,Low,-,"8,633",Medium,Swindon,3
+SN12,0.91,"15,441","2,429","5,986",7,9,Low,-,"11,417",Medium,Swindon,3
+SN13,0.88,"10,285","1,413","4,095",3,5,Low,-,"5,317",High,Swindon,4
+SN15,0.93,"21,039","3,468","9,156",9,14,Low,1,"12,550",Medium,Swindon,3
+SN16,0.86,"8,352","1,094","3,219",2,7,Low,-,"4,917",Medium,Swindon,4
+SN2,0.96,"26,699","4,635","12,375",8,13,Low,1,"16,117",Medium,Swindon,2
+SN25,0.95,"21,877","3,259","13,237",5,11,Low,-,"16,000",Medium,Swindon,2
+SN26,0.81,"1,049",163,331,-,-,Low,-,"1,000",Medium,Swindon,5
+SN38,0.8,-,-,-,-,-,Low,-,-,Medium,Swindon,5
+SN5,0.92,"20,568","3,624","9,354",5,8,Low,-,"11,983",Medium,Swindon,3
+SN99,0.8,-,-,-,-,-,Low,-,-,Medium,Swindon,5
+SN10,0.93,"19,182","2,836","7,144",3,11,Low,1,"11,183",High,Swindon,3
+SN3,0.99,"32,194","5,616","12,820",7,9,Low,-,"19,517",Medium,Swindon,2
+SN4,0.9,"16,786","2,527","6,072",2,18,Low,1,"10,483",Medium,Swindon,3
+SN6,0.91,"12,880","1,700","4,962",3,5,Low,-,"7,733",High,Swindon,3
+SN8,0.91,"14,233","1,868","5,098",2,18,Low,1,"6,967",High,Swindon,3
+SN9,0.84,"5,023",655,"1,797",1,1,Low,-,"2,600",Medium,Swindon,5
+SP3,0.84,"6,942",842,"2,147",2,10,Low,1,"3,133",Medium,Salisbury,4
+SP4,0.94,"17,813","2,972","8,489",10,4,Low,-,"15,333",Medium,Salisbury,2
+SP9,0.84,"4,844","1,061","3,087",-,1,Low,-,"4,817",Low,Salisbury,5
+OX1,0.92,"10,756","2,021","5,390",11,15,Low,2,"8,467",High,Oxford,3
+OX10,0.89,"15,497","2,150","6,859",7,12,Low,-,"9,267",Medium,Oxford,3
+OX11,0.97,"20,481","3,298","9,904",7,15,Low,1,"15,883",High,Oxford,2
+OX12,0.9,"15,373","2,342","6,130",6,3,Low,-,"10,083",Medium,Oxford,3
+OX13,0.86,"7,460","1,078","3,079",3,2,Low,-,"5,000",Medium,Oxford,4
+OX14,0.98,"27,440","4,137","12,083",7,10,Low,1,"15,133",Medium,Oxford,2
+OX2,0.95,"23,644","3,537","10,676",14,17,Low,-,"8,017",High,Oxford,2
+OX20,0.82,"2,993",324,"1,212",1,5,Low,-,"1,567",Low,Oxford,5
+OX26,0.97,"20,471","3,338","10,678",9,19,Low,-,"15,550",Medium,Oxford,2
+OX28,0.92,"17,223","2,856","8,185",4,16,Low,-,"9,617",Medium,Oxford,3
+OX29,0.9,"13,784","1,990","4,827",3,13,Low,-,"9,500",Medium,Oxford,3
+OX3,1,"27,056","5,556","13,282",16,12,Low,2,"14,067",High,Oxford,2
+OX33,0.86,"4,587",710,"1,708",1,3,Low,-,"2,700",High,Oxford,4
+OX4,1.05,"40,297","8,343","20,630",14,35,Low,2,"19,017",High,Oxford,1
+OX44,0.89,"4,965",743,"1,980",-,4,Low,-,"2,733",High,Oxford,4
+OX5,0.91,"14,379","2,229","5,757",2,5,Low,-,"8,217",High,Oxford,3
+RG14,0.97,"24,150","3,652","11,236",10,17,Low,-,"14,150",Medium,Reading,2
+RG17,0.86,"9,394","1,247","3,813",3,7,Low,-,"4,817",Medium,Reading,4
+RG18,0.87,"10,890","1,747","4,998",2,3,Low,1,"6,283",Medium,Reading,4
+RG20,0.88,"11,118","1,426","4,291",-,1,Low,-,"5,683",High,Reading,4
+RG26,0.88,"13,505","2,001","5,543",3,3,Low,-,"8,050",Medium,Reading,4
+RG31,0.9,"16,614","2,757","7,120",2,10,Low,-,"8,550",Medium,Reading,3
+RG8,0.85,"10,923","1,408","3,907",3,7,Low,1,"4,783",Medium,Reading,4
+SN7,0.85,"8,215","1,156","3,472",5,4,Low,1,"5,433",Medium,Swindon,4
+GU14,1.01,"34,243","6,308","16,721",8,33,Low,-,"20,817",Medium,Guildford,1
+GU15,0.93,"20,524","3,418","9,480",8,27,Low,-,"12,817",Medium,Guildford,3
+GU16,0.9,"14,121","2,286","6,328",2,8,Low,1,"9,300",Medium,Guildford,3
+GU17,0.84,"6,584","1,094","2,755",3,3,Low,-,"4,050",Low,Guildford,5
+GU18,0.82,"4,062",533,"1,672",2,2,Low,-,"2,117",Medium,Guildford,5
+GU19,0.82,"3,455",450,"1,624",5,4,Low,-,"2,217",Medium,Guildford,5
+GU20,0.83,"2,610",298,968,-,3,Low,-,"1,400",Medium,Guildford,5
+GU21,0.97,"30,715","4,891","15,598",12,22,Low,2,"15,933",Medium,Guildford,2
+GU22,0.91,"20,346","2,931","10,040",5,8,Low,-,"11,300",Low,Guildford,3
+GU23,0.83,"3,990",480,"1,514",6,3,Low,-,"1,967",Medium,Guildford,5
+GU24,0.89,"9,831","1,468","4,383",2,6,Low,-,"5,900",High,Guildford,3
+GU25,0.82,"3,197",448,"1,239",-,4,Low,-,"1,667",Medium,Guildford,5
+GU46,0.85,"8,932","1,522","3,576",7,3,Low,-,"5,033",Medium,Guildford,4
+GU47,0.87,"11,424","1,885","5,205",6,7,Low,-,"6,700",Medium,Guildford,4
+GU95,0.8,-,-,-,-,-,Low,-,-,Medium,Guildford,5
+GU1,0.91,"19,155","3,575","9,553",7,21,Low,3,"9,383",Medium,Guildford,3
+GU10,0.89,"12,886","1,706","4,579",2,12,Low,1,"6,650",Medium,Guildford,4
+GU11,0.92,"13,618","2,575","7,570",-,23,Low,3,"10,633",Medium,Guildford,3
+GU12,0.95,"19,784","3,263","9,704",16,11,Low,-,"12,600",High,Guildford,2
+GU2,0.93,"19,439","5,365","9,066",9,14,Low,2,"11,600",Medium,Guildford,3
+GU3,0.85,"6,639",861,"2,554",-,4,Low,-,"3,217",Medium,Guildford,4
+GU4,0.85,"9,864","1,376","4,026",2,2,Low,1,"4,400",Medium,Guildford,4
+GU51,0.88,"14,322","1,965","7,049",10,6,Low,-,"7,883",Medium,Guildford,4
+GU52,0.87,"9,415","1,330","4,185",2,5,Low,-,"5,783",Medium,Guildford,4
+HA2,1,"33,750","6,384","16,820",3,137,Medium,2,"17,150",Medium,Harrow,1
+HA4,0.97,"30,787","4,991","14,114",8,64,Medium,2,"14,917",Medium,Harrow,2
+HA5,0.94,"27,733","4,157","11,565",10,82,Medium,1,"11,217",Medium,Harrow,2
+HA6,0.88,"13,516","1,930","5,715",3,33,Medium,-,"6,150",Medium,Harrow,4
+HP1,0.89,"15,383","2,588","6,527",3,19,Low,1,"8,567",Low,Hemel Hempstead,4
+HP10,0.89,"11,556","1,739","4,610",2,11,Low,-,"6,017",Medium,Hemel Hempstead,4
+HP11,0.86,"8,039","1,869","4,087",15,25,Low,3,"5,517",Low,Hemel Hempstead,4
+HP12,0.88,"13,850","2,962","7,466",-,11,Low,-,"6,667",Medium,Hemel Hempstead,4
+HP13,0.96,"26,705","5,488","13,768",4,30,Low,-,"14,517",Medium,Hemel Hempstead,2
+HP14,0.87,"10,524","1,549","4,206",1,6,Low,2,"5,883",Medium,Hemel Hempstead,4
+HP15,0.85,"10,253","1,558","3,694",5,7,Low,1,"4,967",Medium,Hemel Hempstead,4
+HP16,0.83,"7,060","1,033","2,272",2,1,Low,-,"2,867",Medium,Hemel Hempstead,5
+HP17,0.84,"6,088",763,"2,226",1,2,Low,-,"3,533",Medium,Hemel Hempstead,5
+HP19,0.89,"14,880","2,381","8,531",5,13,Low,-,"8,800",Low,Hemel Hempstead,3
+HP2,0.95,"24,556","4,337","11,353",12,15,Low,-,"15,217",Low,Hemel Hempstead,2
+HP20,0.87,"9,363","1,548","4,723",31,12,Low,1,"5,533",Medium,Hemel Hempstead,4
+HP21,0.93,"20,743","3,591","10,164",6,13,Low,-,"11,350",Medium,Hemel Hempstead,3
+HP22,0.92,"14,690","1,950","5,569",-,16,Low,-,"11,200",High,Hemel Hempstead,3
+HP23,0.86,"10,506","1,584","4,094",2,5,Low,1,"5,217",Low,Hemel Hempstead,4
+HP27,0.84,"7,327","1,023","2,429",2,1,Low,-,"4,100",Low,Hemel Hempstead,5
+HP3,0.91,"19,474","3,365","8,738",16,16,Low,-,"11,817",Medium,Hemel Hempstead,3
+HP4,0.88,"14,760","1,801","6,190",10,6,Low,-,"6,733",Medium,Hemel Hempstead,4
+HP5,0.93,"15,645","2,412","6,634",5,14,Low,2,"8,833",High,Hemel Hempstead,3
+HP6,0.85,"8,512","1,178","3,140",2,13,Low,-,"4,233",Medium,Hemel Hempstead,4
+HP7,0.85,"6,498",819,"2,685",1,24,Low,1,"2,400",Medium,Hemel Hempstead,4
+HP8,0.82,"4,013",503,"1,316",1,1,Low,-,"2,000",Medium,Hemel Hempstead,5
+HP9,0.85,"10,122","1,322","3,974",7,14,Low,-,"4,767",Low,Hemel Hempstead,4
+HP18,0.87,"7,740","1,074","2,891",2,9,Low,-,"6,950",Medium,Hemel Hempstead,4
+KT10,0.87,"12,338","1,708","4,799",2,13,Low,-,"5,667",Medium,Kingston upon Thames,4
+KT11,0.85,"8,777","1,179","3,428",8,6,Low,-,"4,467",Medium,Kingston upon Thames,4
+KT12,0.95,"23,170","3,237","10,929",7,18,Low,-,"12,033",Medium,Kingston upon Thames,2
+KT13,0.87,"13,312","1,450","6,244",6,21,Low,1,"6,267",Medium,Kingston upon Thames,4
+KT14,0.85,"8,380","1,049","3,932",5,8,Low,-,"4,433",Low,Kingston upon Thames,4
+KT15,0.9,"17,208","2,516","7,377",7,11,Low,-,"9,883",Medium,Kingston upon Thames,3
+KT16,0.88,"11,761","1,567","5,276",6,12,Low,-,"9,050",Medium,Kingston upon Thames,4
+KT23,0.83,"6,544",864,"2,052",1,9,Low,-,"2,483",Medium,Kingston upon Thames,5
+KT7,0.85,"6,225",768,"2,939",1,6,Low,-,"3,067",Medium,Kingston upon Thames,4
+KT8,0.87,"12,547","1,671","5,448",3,10,Low,-,"5,717",Medium,Kingston upon Thames,4
+KT24,0.84,"5,517",726,"1,670",-,5,Low,-,"2,283",Medium,Kingston upon Thames,5
+LU1,1,"27,531","7,222","14,135",5,120,Low,4,"20,300",Low,Luton,1
+LU4,0.98,"30,459","6,350","15,845",1,52,Low,-,"15,750",Medium,Luton,2
+LU6,0.93,"19,234","3,220","7,462",2,42,Low,-,"11,117",Medium,Luton,3
+LU3,1,"35,683","7,284","17,623",5,41,Low,-,"17,067",Medium,Luton,2
+LU5,0.96,"23,965","4,265","10,222",9,17,Low,1,"16,150",Medium,Luton,2
+LU7,1.02,"33,225","5,037","14,803",15,22,Low,1,"22,400",Medium,Luton,1
+MK17,0.95,"10,407","1,401","3,725",1,15,Low,3,"8,400",High,Milton Keynes,2
+MK18,0.91,"18,141","2,941","7,005",6,16,Low,1,"11,617",Medium,Milton Keynes,3
+OX39,0.83,"4,115",611,"1,564",1,-,Low,-,"2,967",Medium,Oxford,5
+OX27,0.83,"3,847",523,"1,786",1,1,Low,1,"2,567",Medium,Oxford,5
+OX49,0.85,"2,597",331,956,1,5,Low,-,"1,467",High,Oxford,4
+OX9,0.87,"8,400","1,295","3,474",7,7,Low,-,"5,050",High,Oxford,4
+RG10,0.88,"10,862","1,330","4,655",2,6,Low,-,"5,100",High,Reading,4
+RG12,1.02,"33,378","5,521","16,945",26,26,Low,-,"22,917",Medium,Reading,1
+RG2,0.97,"23,234","4,630","12,079",6,34,Low,-,"16,333",Medium,Reading,2
+RG40,0.91,"15,920","2,105","6,675",11,14,Low,-,"11,067",Medium,Reading,3
+RG41,0.92,"16,684","2,482","7,704",3,10,Low,2,"10,767",Medium,Reading,3
+RG42,0.9,"16,111","2,187","7,948",3,14,Low,-,"9,400",Medium,Reading,3
+RG45,0.86,"8,137","1,165","3,233",2,6,Low,-,"4,650",Medium,Reading,4
+RG5,0.91,"15,358","2,534","6,535",3,4,Low,-,"9,067",High,Reading,3
+RG6,0.94,"21,795","4,727","10,479",12,28,Low,-,"10,700",Medium,Reading,3
+RG1,1,"28,838","7,088","18,270",10,48,Low,3,"17,633",Medium,Reading,1
+RG19,0.88,"10,902","1,728","5,397",7,8,Low,-,"6,650",Medium,Reading,4
+RG24,0.94,"19,508","3,121","10,354",4,11,Low,-,"15,450",Low,Reading,2
+RG25,0.83,"5,231",613,"2,014",1,1,Low,2,"2,883",Medium,Reading,5
+RG27,0.9,"12,519","1,682","5,220",-,8,Low,-,"7,717",High,Reading,3
+RG29,0.83,"3,691",437,"1,731",1,1,Low,-,"2,300",Medium,Reading,5
+RG30,0.98,"28,523","4,574","14,515",6,37,Low,-,"16,350",Medium,Reading,2
+RG4,0.94,"23,949","3,117","10,949",6,14,Low,1,"12,617",Medium,Reading,2
+RG7,0.95,"18,745","2,524","7,928",2,21,Low,2,"12,650",High,Reading,2
+RG9,0.91,"13,972","1,579","5,298",5,15,Low,1,"6,217",High,Reading,3
+SL0,0.86,"6,827","1,193","2,870",2,12,Low,-,"3,583",Medium,Slough,4
+SL1,1.06,"43,528","7,951","24,746",5,121,Low,2,"23,050",Medium,Slough,1
+SL2,0.99,"32,115","6,214","16,294",2,58,Low,1,"18,183",Medium,Slough,2
+SL3,0.95,"28,045","4,758","14,693",2,45,Low,-,"14,600",Medium,Slough,2
+SL4,0.94,"26,885","3,665","12,658",8,36,Low,3,"14,550",Medium,Slough,2
+SL5,0.87,"13,902","1,871","5,472",5,13,Low,-,"6,683",Medium,Slough,4
+SL6,1.06,"47,362","6,998","21,972",16,60,Low,3,"25,267",Medium,Slough,1
+SL60,0.8,-,-,-,-,-,Low,-,-,Medium,Slough,5
+SL7,0.87,"12,835","1,578","5,160",8,16,Low,-,"6,867",Medium,Slough,4
+SL8,0.82,"3,995",523,"1,434",3,2,Low,-,"1,617",Low,Slough,5
+SL9,0.86,"12,035","1,748","4,261",7,13,Low,-,"5,567",Medium,Slough,4
+TW12,0.89,"14,666","2,068","6,483",9,20,Low,-,"7,400",Medium,Twickenham,4
+TW13,0.96,"23,254","4,208","12,276",3,38,Low,-,"13,633",Medium,Twickenham,2
+TW14,0.93,"17,707","3,394","8,980",-,30,Low,-,"11,783",Medium,Twickenham,3
+TW15,0.91,"17,050","2,746","7,344",14,36,Low,-,"10,133",Medium,Twickenham,3
+TW16,0.87,"12,586","2,039","5,562",3,16,Low,-,"7,000",Low,Twickenham,4
+TW17,0.86,"9,070","1,336","3,211",2,-,Low,-,"4,767",Medium,Twickenham,4
+TW18,0.89,"16,828","2,382","8,028",2,25,Low,-,"9,267",Low,Twickenham,3
+TW19,0.87,"10,169","1,688","4,671",3,17,Low,-,"6,033",Medium,Twickenham,4
+TW2,0.91,"19,501","2,922","9,538",5,32,Low,-,"8,100",Medium,Twickenham,3
+TW20,0.92,"14,725","4,424","5,747",5,20,Low,-,"9,300",High,Twickenham,3
+TW3,0.97,"25,295","4,985","15,715",2,89,Low,-,"15,083",Medium,Twickenham,2
+TW4,0.92,"16,587","3,571","9,534",2,121,Low,-,"10,183",Medium,Twickenham,3
+TW5,0.91,"17,779","3,909","9,804",5,66,Low,-,"9,400",Medium,Twickenham,3
+TW6,0.83,-,-,-,3,1,Low,-,"3,333",Medium,Twickenham,5
+UB1,0.95,"22,623","5,377","12,882",-,96,Low,-,"12,600",Medium,Uxbridge,2
+UB10,0.93,"20,417","4,066","9,025",4,88,Low,-,"10,783",Medium,Uxbridge,3
+UB11,0.81,-,-,-,-,-,Low,-,"1,000",Medium,Uxbridge,5
+UB18,0.8,-,-,-,-,-,Low,-,-,Medium,Uxbridge,5
+UB2,0.95,"18,628","4,845","10,195",1,123,Low,-,"13,983",Medium,Uxbridge,2
+UB3,1,"29,045","6,373","15,840",5,150,Low,-,"19,433",Medium,Uxbridge,1
+UB4,0.95,"23,977","5,347","12,341",1,82,Low,-,"12,517",Medium,Uxbridge,2
+UB5,0.97,"29,228","5,497","15,182",5,117,Low,-,"14,350",Medium,Uxbridge,2
+UB7,0.93,"18,695","3,679","9,747",6,44,Low,-,"13,417",Medium,Uxbridge,3
+UB8,0.96,"21,085","5,587","9,934",3,49,Low,-,"11,833",High,Uxbridge,2
+UB9,0.87,"9,176","1,323","3,711",3,9,Low,-,"5,683",Medium,Uxbridge,4
+W7,0.9,"18,810","2,991","9,924",3,35,Low,-,"6,500",Medium,London W,3
+WD17,0.87,"10,146","1,554","5,290",6,35,Low,1,"5,283",Medium,Watford,4
+WD18,0.91,"15,645","2,700","9,492",-,41,Low,1,"9,800",Medium,Watford,3
+WD19,0.91,"17,431","3,000","7,585",1,27,Low,1,"8,850",Medium,Watford,3
+WD23,0.92,"15,759","2,357","6,671",-,11,Low,-,"9,267",High,Watford,3
+WD24,0.89,"13,782","2,446","7,579",1,24,Low,-,"7,333",Medium,Watford,3
+WD25,0.92,"17,378","3,039","7,918",3,7,Low,-,"10,267",High,Watford,3
+WD3,0.99,"24,674","3,614","10,114",8,28,Low,-,"12,017",High,Watford,2
+WD4,0.85,"6,984","1,009","2,874",-,4,Low,-,"3,517",Medium,Watford,4
+WD5,0.85,"7,187","1,164","2,980",-,2,Low,-,"3,750",Medium,Watford,4
+WD99,0.81,-,-,-,-,-,Low,-,-,Medium,Watford,5
+AL10,0.97,"21,971","8,343","9,813",3,24,Low,1,"14,167",Medium,St Albans,2
+AL6,0.84,"6,640",973,"2,174",1,3,Low,1,"3,717",Medium,St Albans,5
+AL7,0.92,"21,463","3,611","10,340",6,14,Low,1,"12,217",Medium,St Albans,3
+AL8,0.84,"8,211","1,190","3,049",7,5,Low,-,"3,517",Medium,St Albans,5
+AL9,0.85,"6,213","1,025","2,246",1,7,Low,-,"3,267",Medium,St Albans,4
+AL1,0.92,"22,801","3,186","12,670",6,30,Low,-,"11,067",Low,St Albans,3
+AL2,0.89,"14,438","2,326","6,127",7,7,Low,-,"8,683",Medium,St Albans,4
+AL3,0.89,"17,190","2,377","8,109",2,13,Low,1,"8,300",Low,St Albans,4
+AL4,0.89,"16,484","2,513","6,978",1,9,Low,1,"8,433",Medium,St Albans,3
+AL5,0.89,"17,608","2,410","7,448",9,13,Low,-,"7,300",Medium,St Albans,4
+BR1,0.99,"36,426","5,663","16,670",8,51,Low,1,"16,417",Medium,Bromley,2
+BR2,0.95,"28,703","4,243","12,334",6,18,Low,1,"13,917",Medium,Bromley,2
+BR3,0.96,"30,938","4,106","14,555",13,23,Low,1,"13,717",Medium,Bromley,2
+BR4,0.86,"11,276","2,034","3,828",7,11,Low,-,"5,167",Medium,Bromley,4
+BR5,0.97,"28,908","4,939","11,703",8,28,Low,-,"16,400",Medium,Bromley,2
+BR6,0.95,"28,784","4,424","10,646",12,19,Low,1,"13,300",Medium,Bromley,2
+BR7,0.86,"10,499","1,437","4,362",2,11,Low,-,"4,450",Medium,Bromley,4
+BR8,0.89,"13,744","2,457","5,312",3,10,Low,-,"8,367",Medium,Bromley,4
+CB11,0.86,"10,849","1,702","4,202",-,13,Low,1,"5,400",Medium,Cambridge,4
+CM14,0.88,"12,787","1,861","6,520",3,26,Low,-,"6,500",Medium,Chelmsford,4
+CM15,0.87,"14,169","2,348","5,126",4,15,Low,-,"6,900",Medium,Chelmsford,4
+CM16,0.87,"13,614","1,882","5,577",2,12,Low,-,"7,083",Medium,Chelmsford,4
+CM17,0.89,"13,345","1,907","6,420",2,10,Low,-,"9,933",Low,Chelmsford,4
+CM18,0.89,"15,701","2,689","6,639",5,14,Low,-,"9,117",Low,Chelmsford,4
+CM19,0.87,"11,882","2,047","5,123",-,5,Low,-,"7,700",Medium,Chelmsford,4
+CM20,0.91,"14,199","2,625","6,248",5,17,Low,1,"9,817",Medium,Chelmsford,3
+CM21,0.85,"6,730",961,"2,865",-,6,Low,-,"3,600",Medium,Chelmsford,4
+CM24,0.83,"4,066",650,"1,935",3,2,Low,-,"4,250",Low,Chelmsford,5
+CM5,0.84,"6,418","1,027","2,314",2,6,Low,-,"3,833",Medium,Chelmsford,5
+CM1,1.05,"39,134","6,829","17,485",20,42,Low,2,"24,550",Medium,Chelmsford,1
+CM12,0.86,"12,156","1,616","5,065",4,10,Low,-,"5,933",Medium,Chelmsford,4
+CM13,0.89,"15,082","2,373","5,564",4,8,Low,-,"8,150",Medium,Chelmsford,4
+CM22,0.86,"7,810","1,302","3,005",1,7,Low,1,"5,533",Medium,Chelmsford,4
+CM23,0.96,"24,905","4,017","11,513",11,24,Low,2,"14,133",Medium,Chelmsford,2
+CM3,1.01,"32,241","5,385","12,480",6,17,Low,-,"20,350",High,Chelmsford,1
+CM4,0.84,"6,184",880,"1,980",2,4,Low,-,"2,967",Medium,Chelmsford,5
+CM6,0.9,"14,960","2,138","6,323",2,24,Low,-,"9,667",Medium,Chelmsford,3
+CR0,1.2,"47,362","8,343","24,746",37,521,Low,2,"46,650",Medium,Croydon,1
+CR2,0.95,"30,777","5,123","13,715",9,26,Low,-,"12,383",Medium,Croydon,2
+CR3,0.91,"17,439","2,616","7,860",7,19,Low,-,"10,133",Medium,Croydon,3
+CR4,1.05,"37,759","7,396","19,517",1,108,Low,-,"20,167",High,Croydon,1
+CR44,0.8,-,-,-,-,-,Low,-,-,Medium,Croydon,5
+CR5,0.91,"17,491","2,991","6,900",6,13,Low,-,"10,183",Medium,Croydon,3
+CR6,0.84,"6,010",977,"2,145",3,3,Low,-,"3,467",Medium,Croydon,5
+CR7,1,"28,840","5,936","12,953",3,62,Low,-,"15,617",High,Croydon,2
+CR8,0.93,"19,758","3,248","8,837",3,19,Low,-,"8,850",High,Croydon,3
+CR9,0.8,-,-,-,1,-,Low,1,-,Medium,Croydon,5
+CR90,0.8,-,-,-,-,-,Low,-,-,Medium,Croydon,5
+DA1,1.04,"33,504","6,056","16,006",10,71,Low,1,"23,683",Medium,Dartford,1
+DA10,0.83,"4,378",836,"1,979",2,4,Low,-,"3,800",Medium,Dartford,5
+DA11,0.95,"24,076","4,730","11,368",6,44,Low,-,"14,583",Medium,Dartford,2
+DA14,0.88,"13,976","2,524","5,344",3,12,Low,1,"7,583",Medium,Dartford,4
+DA15,0.9,"17,800","3,548","7,335",4,12,Low,-,"8,317",Medium,Dartford,3
+DA16,0.93,"21,905","4,381","9,212",1,31,Low,-,"11,683",Medium,Dartford,3
+DA17,0.9,"11,012","2,064","4,988",3,21,Low,-,"5,717",High,Dartford,3
+DA18,0.83,"3,225",646,"1,392",-,4,Low,-,"1,683",Medium,Dartford,5
+DA2,0.89,"13,880","2,416","5,863",2,10,Low,-,"9,583",Medium,Dartford,4
+DA3,0.85,"9,993","1,668","3,401",6,4,Low,-,"5,333",Medium,Dartford,4
+DA4,0.83,"5,643",905,"2,231",1,6,Low,-,"2,867",Medium,Dartford,5
+DA5,0.87,"12,527","2,119","4,802",2,22,Low,-,"6,000",Medium,Dartford,4
+DA6,0.84,"6,136","1,130","2,501",3,10,Low,-,"3,383",Medium,Dartford,5
+DA7,0.91,"21,867","3,753","8,584",8,16,Low,-,"9,700",Medium,Dartford,3
+DA8,0.96,"21,987","4,366","10,004",1,21,Low,-,"11,967",High,Dartford,2
+DA9,0.86,"8,584","1,411","5,229",5,2,Low,-,"6,700",Medium,Dartford,4
+DA12,0.98,"29,359","5,597","12,831",-,65,Low,-,"16,367",Medium,Dartford,2
+DA13,0.85,"8,597","1,402","2,899",1,6,Low,-,"4,567",Medium,Dartford,4
+E1,1.08,"45,787","8,343","24,746",23,215,Medium,1,"21,567",Medium,London E,1
+E10,0.97,"27,686","5,914","16,402",7,68,Medium,-,"12,667",Medium,London E,2
+E11,1,"36,234","6,816","21,055",5,70,Medium,-,"15,617",Medium,London E,1
+E12,0.96,"24,799","6,700","14,848",-,109,Medium,-,"11,733",Medium,London E,2
+E13,0.99,"29,477","7,174","17,112",-,84,Medium,-,"15,017",Medium,London E,2
+E14,1.11,"47,362","8,343","24,746",9,121,Medium,-,"29,517",Medium,London E,1
+E15,1.04,"35,651","8,343","21,627",5,90,Medium,3,"19,783",Medium,London E,1
+E16,1.02,"30,446","6,529","18,283",5,67,Medium,3,"19,400",Medium,London E,1
+E17,1.11,"47,362","8,343","24,746",7,188,Medium,2,"29,700",Medium,London E,1
+E18,0.88,"13,147","1,802","7,419",13,25,Medium,-,"4,633",Medium,London E,4
+E1W,0.86,"9,087","1,309","6,390",5,11,Medium,-,"3,667",Medium,London E,4
+E2,0.99,"32,988","6,809","20,726",9,91,Medium,2,"13,967",Medium,London E,2
+E20,0.82,-,-,-,6,11,Medium,-,-,Medium,London E,5
+E3,1.03,"35,747","8,343","21,277",2,73,Medium,2,"16,883",Medium,London E,1
+E4,1,"38,009","7,197","16,019",7,51,Medium,-,"17,400",Medium,London E,1
+E5,0.96,"33,032","6,049","18,595",2,61,Medium,2,"9,383",Medium,London E,2
+E6,1.08,"46,805","8,343","24,746",4,126,Medium,-,"23,667",Medium,London E,1
+E7,1,"31,795","8,343","19,959",1,118,Medium,-,"13,883",Medium,London E,2
+E77,0.8,-,-,-,-,-,Low,-,-,Medium,London E,5
+E8,0.96,"29,353","4,935","18,072",12,97,Medium,5,"11,017",Medium,London E,2
+E9,0.94,"26,549","4,617","14,493",3,40,Medium,4,"9,800",Medium,London E,2
+E98,0.81,-,-,-,-,-,Medium,-,-,Medium,London E,5
+EC1A,0.82,729,181,447,-,12,Low,2,"1,217",Medium,London EC,5
+EC1M,0.82,"1,429",284,984,4,14,Low,-,"1,150",Medium,London EC,5
+EC1N,0.82,"1,947",347,991,2,30,Low,-,"1,133",Medium,London EC,5
+EC1P,0.8,-,-,-,-,-,Low,-,-,Medium,London EC,5
+EC1R,0.83,"3,649",477,"2,154",5,19,Low,1,"2,250",Medium,London EC,5
+EC1V,0.89,"9,389","2,033","4,906",10,221,Low,-,"7,083",Medium,London EC,4
+EC1Y,0.83,"2,700",307,"1,349",5,4,Low,-,"2,150",Medium,London EC,5
+EC2A,0.84,"1,085",207,807,2,178,Low,2,"2,983",Medium,London EC,5
+EC2M,0.82,-,-,-,2,8,Low,-,"1,600",Medium,London EC,5
+EC2N,0.82,-,-,-,1,6,Low,1,"1,000",Medium,London EC,5
+EC2P,0.8,-,-,-,-,-,Low,-,-,Medium,London EC,5
+EC2R,0.82,-,-,-,-,6,Low,-,"1,233",Medium,London EC,5
+EC2V,0.82,-,-,-,1,2,Low,-,"1,033",Medium,London EC,5
+EC2Y,0.82,"2,384",155,"1,110",-,4,Low,2,"1,317",Medium,London EC,5
+EC3A,0.82,-,-,-,1,2,Low,-,"1,000",Medium,London EC,5
+EC3M,0.82,-,-,-,2,3,Low,-,"1,000",Medium,London EC,5
+EC3N,0.82,-,-,-,1,2,Low,-,"1,517",Medium,London EC,5
+EC3P,0.8,-,-,-,-,-,Low,-,-,Medium,London EC,5
+EC3R,0.82,201,30,134,-,1,Low,-,"1,000",Medium,London EC,5
+EC3V,0.82,-,-,-,4,7,Low,-,"1,000",Medium,London EC,5
+EC4A,0.82,130,25,76,3,12,Low,-,"1,017",Medium,London EC,5
+EC4M,0.82,-,-,-,2,14,Low,-,"1,000",Medium,London EC,5
+EC4N,0.82,-,-,-,8,4,Low,-,"1,000",Medium,London EC,5
+EC4P,0.8,-,-,-,-,-,Low,-,-,Medium,London EC,5
+EC4R,0.81,-,-,-,3,3,Low,-,"1,000",Medium,London EC,5
+EC4V,0.81,464,79,312,2,2,Low,-,"1,500",Medium,London EC,5
+EC4Y,0.82,280,43,116,-,5,Low,-,"1,000",Medium,London EC,5
+EC50,0.8,-,-,-,-,-,Low,-,-,Medium,London EC,5
+EN1,0.95,"28,641","5,133","13,393",6,32,Low,1,"12,083",Medium,Enfield,2
+EN10,0.86,"10,439","1,840","4,551",5,5,Low,1,"5,983",Low,Enfield,4
+EN11,0.88,"13,378","2,260","5,920",6,27,Low,1,"8,000",Medium,Enfield,4
+EN2,0.9,"19,186","2,816","8,762",13,17,Low,-,"8,617",Medium,Enfield,3
+EN3,1,"36,039","7,507","17,282",3,103,Low,3,"17,283",Medium,Enfield,2
+EN4,0.9,"15,984","2,687","6,857",9,20,Low,-,"7,483",High,Enfield,3
+EN5,0.93,"24,275","3,950","10,415",7,52,Low,-,"9,700",High,Enfield,3
+EN6,0.92,"18,010","3,336","6,354",6,30,Low,2,"8,583",High,Enfield,3
+EN7,0.88,"13,187","2,592","5,424",1,1,Low,-,"7,483",Medium,Enfield,4
+EN8,0.93,"23,030","3,920","10,146",7,49,Low,-,"11,867",Medium,Enfield,3
+EN9,0.9,"15,050","2,371","6,293",2,37,Low,-,"9,800",Medium,Enfield,3
+HA8,1.06,"40,627","8,091","20,124",2,167,Medium,-,"21,383",High,Harrow,1
+HA9,1.03,"29,135","6,189","16,513",7,142,Medium,2,"22,400",Medium,Harrow,1
+HA0,0.99,"28,739","6,147","16,931",12,129,Medium,-,"17,250",Medium,Harrow,2
+HA1,0.96,"24,501","4,381","14,243",3,146,Medium,1,"14,117",Medium,Harrow,2
+HA3,1.06,"41,738","8,343","20,687",5,140,Medium,-,"22,283",Medium,Harrow,1
+HA7,0.95,"22,233","4,143","10,297",2,88,Medium,-,"11,350",High,Harrow,2
+IG1,1.07,"37,943","8,343","22,108",5,203,Low,1,"20,450",High,Ilford,1
+IG10,0.91,"20,255","3,537","8,617",12,29,Low,-,"10,650",Low,Ilford,3
+IG11,1.03,"33,967","6,852","18,896",1,109,Low,1,"21,083",Medium,Ilford,1
+IG2,0.94,"17,020","3,492","9,180",7,119,Low,-,"9,700",High,Ilford,2
+IG3,0.96,"20,803","4,861","11,531",3,65,Low,-,"11,617",High,Ilford,2
+IG4,0.84,"5,041","1,178","2,361",-,23,Low,-,"2,400",Medium,Ilford,5
+IG5,0.86,"10,018","2,150","4,312",-,25,Low,-,"4,567",Medium,Ilford,4
+IG6,0.91,"16,831","3,092","7,604",3,48,Low,-,"9,900",Medium,Ilford,3
+IG7,0.88,"12,690","2,291","5,434",-,19,Low,-,"7,717",Medium,Ilford,4
+IG8,0.92,"22,087","3,606","9,816",2,48,Low,-,"9,817",Medium,Ilford,3
+IG9,0.85,"8,188","1,159","3,696",3,13,Low,-,"3,817",Medium,Ilford,4
+KT17,0.89,"14,154","2,523","5,769",9,16,Low,-,"7,633",Medium,Kingston upon Thames,4
+KT18,0.88,"10,796","1,463","4,389",7,11,Low,-,"4,633",High,Kingston upon Thames,4
+KT19,0.93,"21,141","3,537","9,599",7,15,Low,1,"11,717",Medium,Kingston upon Thames,3
+KT2,0.91,"19,199","3,399","9,712",7,21,Low,1,"7,100",Medium,Kingston upon Thames,3
+KT3,0.96,"23,857","4,217","11,120",6,43,Low,-,"10,300",High,Kingston upon Thames,2
+KT4,0.93,"17,969","2,791","8,308",5,11,Low,-,"8,417",High,Kingston upon Thames,3
+KT5,0.88,"12,563","2,363","6,042",3,23,Low,-,"5,600",Medium,Kingston upon Thames,4
+KT1,0.95,"16,414","4,159","8,333",8,40,Low,-,"8,467",High,Kingston upon Thames,2
+KT20,0.87,"12,431","1,780","4,425",5,5,Low,1,"6,717",Medium,Kingston upon Thames,4
+KT21,0.84,"8,118","1,035","2,932",1,1,Low,-,"3,783",Low,Kingston upon Thames,5
+KT22,0.91,"14,771","2,168","5,890",8,14,Low,-,"7,883",High,Kingston upon Thames,3
+KT6,0.92,"20,392","3,216","11,804",13,30,Low,-,"9,433",Medium,Kingston upon Thames,3
+KT9,0.91,"13,328","2,292","6,216",5,26,Low,-,"8,350",High,Kingston upon Thames,3
+LU2,1.03,"36,174","6,903","17,398",4,43,Low,-,"22,350",Medium,Luton,1
+ME18,0.83,"4,090",542,"1,412",-,6,Low,1,"2,167",Medium,Medway,5
+ME19,0.89,"12,971","1,948","5,965",3,8,Low,-,"9,283",Medium,Medway,4
+N1,1.08,"47,362","8,343","24,746",19,296,Medium,4,"22,917",Medium,London N,1
+N10,0.9,"18,590","2,638","10,059",8,22,Medium,-,"5,217",High,London N,3
+N11,0.92,"19,805","3,447","10,843",5,30,Medium,-,"7,900",High,London N,3
+N12,0.91,"18,763","2,864","9,813",7,64,Medium,-,"6,183",High,London N,3
+N13,0.92,"20,649","3,657","10,716",3,104,Medium,-,"8,167",Medium,London N,3
+N14,0.91,"18,769","3,548","8,743",1,65,Medium,-,"6,817",High,London N,3
+N15,0.97,"28,942","5,447","16,758",4,146,Medium,-,"12,667",Medium,London N,2
+N16,1,"44,702","8,343","24,746",7,97,Medium,2,"11,217",Medium,London N,2
+N17,1.03,"41,632","8,343","20,878",9,100,Medium,-,"19,000",Medium,London N,1
+N18,0.92,"20,265","4,232","9,908",1,45,Medium,1,"8,667",Medium,London N,3
+N19,0.92,"24,582","3,937","13,384",5,32,Medium,-,"8,467",Medium,London N,3
+N1C,0.82,-,-,-,10,-,Medium,1,"1,600",Medium,London N,5
+N1P,0.81,-,-,-,-,-,Medium,-,-,Medium,London N,5
+N2,0.89,"15,704","2,305","8,439",2,22,Medium,-,"5,250",High,London N,3
+N20,0.88,"11,824","1,928","5,346",2,13,Medium,-,"4,767",High,London N,4
+N21,0.88,"14,671","2,331","6,688",7,53,Medium,-,"4,617",Medium,London N,4
+N22,0.97,"29,454","5,252","17,276",5,82,Medium,3,"13,767",Medium,London N,2
+N3,0.91,"17,407","2,577","9,622",5,75,Medium,-,"6,767",High,London N,3
+N4,0.99,"34,574","5,910","21,892",12,82,Medium,-,"13,583",Medium,London N,2
+N5,0.89,"17,623","2,531","11,340",3,19,Medium,2,"5,483",Medium,London N,3
+N6,0.88,"13,416","1,356","7,869",2,26,Medium,2,"3,350",High,London N,4
+N7,0.98,"34,970","6,751","19,887",12,58,Medium,-,"12,450",Medium,London N,2
+N8,0.94,"27,932","3,797","17,490",4,55,Medium,-,"10,000",Medium,London N,2
+N81,0.81,-,-,-,-,-,Medium,-,-,Medium,London N,5
+N9,0.98,"33,253","6,841","15,450",-,133,Medium,-,"13,767",Medium,London N,2
+NW1,1.02,"43,016","8,343","22,078",28,90,Low,9,"17,150",Medium,London NW,1
+NW10,1.16,"47,362","8,343","24,746",5,169,Low,1,"46,300",Medium,London NW,1
+NW11,0.91,"19,924","3,447","10,877",10,88,Low,-,"6,800",High,London NW,3
+NW1W,0.8,-,-,-,-,-,Low,-,-,Medium,London NW,5
+NW2,1.04,"44,701","8,336","24,746",5,58,Low,-,"18,217",High,London NW,1
+NW26,0.8,-,-,-,-,-,Low,-,-,Medium,London NW,5
+NW3,0.96,"35,791","3,858","20,326",10,45,Low,1,"10,217",High,London NW,2
+NW4,0.92,"20,336","4,392","11,092",4,63,Low,-,"8,317",High,London NW,3
+NW5,0.9,"21,797","3,867","11,274",6,33,Low,1,"6,917",Medium,London NW,3
+NW6,1.02,"46,864","6,286","24,746",22,57,Low,1,"16,267",High,London NW,1
+NW7,0.91,"15,873","2,662","7,774",6,28,Low,1,"8,517",High,London NW,3
+NW8,0.9,"23,630","3,483","11,913",-,21,Low,-,"6,850",Medium,London NW,3
+NW9,1.04,"37,287","7,721","20,075",19,138,Low,-,"21,117",High,London NW,1
+RH1,0.97,"28,670","4,413","14,843",7,19,Low,-,"17,433",Medium,Redhill,2
+RH2,0.88,"15,718","2,004","7,002",6,14,Low,1,"7,550",Medium,Redhill,4
+RH3,0.83,"2,593",337,821,-,4,Low,-,"1,383",Medium,Redhill,5
+RH5,0.86,"9,760","1,331","3,648",-,9,Low,1,"4,550",Medium,Redhill,4
+RH8,0.85,"9,230","1,364","3,453",7,4,Low,-,"4,483",Medium,Redhill,4
+RH9,0.82,"3,259",473,"1,222",-,-,Low,-,"2,067",Medium,Redhill,5
+RM1,0.88,"12,574","2,247","5,797",9,30,Low,-,"7,333",Medium,Romford,4
+RM10,0.95,"24,561","4,811","11,038",1,40,Low,-,"13,817",Medium,Romford,2
+RM11,0.91,"19,288","3,749","7,510",3,28,Low,-,"9,833",Medium,Romford,3
+RM12,0.92,"21,355","4,008","8,076",5,20,Low,-,"11,000",Medium,Romford,3
+RM13,0.93,"18,180","3,478","7,118",1,17,Low,-,"11,233",Medium,Romford,3
+RM15,0.93,"17,437","3,009","8,119",2,20,Low,1,"11,783",High,Romford,3
+RM17,0.91,"17,586","3,166","9,148",5,35,Low,-,"10,333",Low,Romford,3
+RM19,0.83,"4,373",702,"2,847",-,3,Low,-,"2,767",Medium,Romford,5
+RM2,0.86,"8,361","1,372","3,780",-,11,Low,-,"4,433",Medium,Romford,4
+RM20,0.83,"3,149",610,"1,771",3,9,Low,-,"3,167",Low,Romford,5
+RM3,0.96,"25,829","4,680","11,094",3,28,Low,-,"14,717",Medium,Romford,2
+RM4,0.83,"2,612",386,936,-,3,Low,-,"1,917",Medium,Romford,5
+RM5,0.88,"11,410","2,048","4,641",3,11,Low,-,"6,817",Medium,Romford,4
+RM6,0.92,"20,525","3,988","9,936",3,48,Low,-,"10,367",Medium,Romford,3
+RM7,0.93,"18,386","3,395","8,363",3,10,Low,-,"12,617",Medium,Romford,3
+RM8,0.96,"25,152","4,761","12,179",2,46,Low,-,"14,883",Medium,Romford,2
+RM9,0.94,"23,088","4,235","10,909",5,39,Low,-,"12,383",Medium,Romford,2
+RM14,0.9,"16,227","2,803","5,763",5,11,Low,-,"8,467",Medium,Romford,3
+RM16,0.95,"24,938","4,226","12,667",5,18,Low,-,"14,933",Medium,Romford,2
+RM18,0.89,"10,360","2,108","4,917",3,12,Low,-,"8,067",High,Romford,3
+SE1,1.08,"47,362","8,343","24,746",40,98,Medium,18,"24,433",Medium,London SE,1
+SE10,0.94,"16,993","2,717","10,534",13,36,Medium,7,"13,200",Medium,London SE,2
+SE11,0.89,"16,246","2,773","8,681",-,19,Medium,-,"4,817",Medium,London SE,4
+SE12,0.9,"18,358","2,899","8,695",5,31,Medium,-,"6,533",Medium,London SE,3
+SE13,0.96,"29,979","4,918","18,120",9,52,Medium,-,"11,217",Medium,London SE,2
+SE14,0.9,"17,164","3,769","9,583",4,22,Medium,1,"6,933",Medium,London SE,3
+SE15,1.02,"44,622","7,984","24,079",6,67,Medium,3,"15,267",Medium,London SE,1
+SE16,1,"33,172","6,147","19,840",9,50,Medium,3,"16,783",Medium,London SE,1
+SE17,0.94,"24,401","4,917","12,454",1,43,Medium,-,"10,383",Medium,London SE,2
+SE18,1.08,"47,362","8,343","24,746",5,97,Medium,1,"24,833",Medium,London SE,1
+SE19,0.9,"19,499","2,497","10,603",2,35,Medium,2,"6,733",Medium,London SE,3
+SE1P,0.81,-,-,-,-,-,Medium,-,-,Medium,London SE,5
+SE2,0.9,"17,272","3,411","7,917",13,6,Medium,-,"7,550",Medium,London SE,3
+SE20,0.9,"15,972","2,615","8,426",5,22,Medium,-,"6,000",Medium,London SE,3
+SE21,0.87,"9,866","1,292","4,931",-,7,Medium,-,"5,467",Medium,London SE,4
+SE22,0.91,"20,693","2,599","12,809",4,26,Medium,-,"6,567",Medium,London SE,3
+SE23,0.91,"23,509","3,166","12,987",4,20,Medium,-,"6,883",Medium,London SE,3
+SE24,0.87,"13,036","1,786","7,710",2,18,Medium,1,"3,550",Medium,London SE,4
+SE25,0.95,"24,282","4,154","11,193",7,39,Medium,-,"8,150",High,London SE,2
+SE26,0.9,"19,639","2,844","10,138",7,30,Medium,-,"6,683",Medium,London SE,3
+SE27,0.89,"14,985","2,315","8,003",2,24,Medium,-,"5,733",Medium,London SE,4
+SE28,0.9,"18,421","3,130","10,930",4,17,Medium,-,"7,000",Medium,London SE,3
+SE3,0.91,"21,317","2,910","11,361",5,17,Medium,1,"8,017",Medium,London SE,3
+SE4,0.9,"20,273","3,533","11,670",7,17,Medium,-,"5,617",Medium,London SE,3
+SE5,0.96,"32,590","5,982","17,600",6,37,Medium,1,"11,150",Medium,London SE,2
+SE6,0.98,"35,454","6,306","16,575",5,51,Medium,-,"12,667",Medium,London SE,2
+SE7,0.89,"13,986","2,664","7,315",9,17,Medium,-,"5,500",Medium,London SE,4
+SE8,0.94,"19,915","4,154","10,933",3,25,Medium,1,"11,450",Medium,London SE,3
+SE9,1.02,"39,844","7,353","16,896",10,48,Medium,-,"18,683",Medium,London SE,1
+SG1,1.01,"32,641","5,872","15,986",7,31,Low,1,"21,333",Low,Stevenage,1
+SG10,0.81,"1,142",148,386,-,-,Low,-,"1,000",Medium,Stevenage,5
+SG11,0.83,"4,708",635,"1,873",-,-,Low,-,"2,650",Low,Stevenage,5
+SG12,0.92,"18,577","2,734","8,663",3,11,Low,-,"10,450",Medium,Stevenage,3
+SG13,0.86,"10,099","1,553","4,757",1,10,Low,1,"6,633",Low,Stevenage,4
+SG14,0.87,"12,035","1,499","5,493",5,10,Low,-,"5,983",Medium,Stevenage,4
+SG3,0.83,"4,380",632,"1,825",1,3,Low,-,"2,450",Low,Stevenage,5
+SG2,0.96,"26,225","4,804","11,229",2,8,Low,2,"14,900",Medium,Stevenage,2
+SG4,0.89,"18,070","2,611","7,760",1,10,Low,2,"8,883",Medium,Stevenage,3
+SG5,0.92,"19,824","2,753","9,319",7,20,Low,-,"12,933",Medium,Stevenage,3
+SG6,0.91,"20,873","3,216","8,559",7,17,Low,2,"10,783",Low,Stevenage,3
+SG9,0.85,"5,520",892,"1,980",3,3,Low,-,"4,350",Medium,Stevenage,4
+SM1,0.94,"24,923","3,787","12,620",3,54,Low,-,"12,500",Medium,Sutton,2
+SM2,0.89,"17,468","2,218","8,361",1,12,Low,-,"8,550",Medium,Sutton,3
+SM3,0.9,"12,771","2,305","5,428",7,23,Low,-,"6,817",High,Sutton,3
+SM4,0.96,"23,256","4,109","11,128",6,84,Low,-,"11,900",High,Sutton,2
+SM5,0.95,"24,220","4,379","11,470",9,43,Low,1,"13,583",Medium,Sutton,2
+SM6,0.93,"23,365","3,906","10,712",7,29,Low,-,"12,417",Medium,Sutton,3
+SM7,0.86,"10,710","1,624","4,018",6,13,Low,-,"5,000",Medium,Sutton,4
+SS17,0.95,"20,033","3,587","8,025",4,11,Low,-,"12,783",High,Southend-on-Sea,2
+SW10,0.87,"14,045","1,720","7,404",6,13,Medium,-,"3,633",Medium,London SW,4
+SW11,1.04,"47,362","7,347","24,746",20,64,Medium,1,"19,617",Medium,London SW,1
+SW12,0.92,"22,774","2,983","16,069",27,30,Medium,-,"7,667",Medium,London SW,3
+SW13,0.85,"10,668","1,213","5,203",5,15,Medium,2,"2,583",Medium,London SW,4
+SW14,0.85,"10,835","1,186","5,731",3,15,Medium,-,"2,850",Medium,London SW,4
+SW15,1.01,"41,738","6,564","24,746",21,42,Medium,-,"14,867",Medium,London SW,1
+SW16,1.08,"47,362","8,343","24,746",12,73,Medium,-,"20,300",High,London SW,1
+SW17,1.04,"44,462","7,798","24,746",13,94,Medium,-,"18,083",Medium,London SW,1
+SW18,1,"40,108","4,849","24,746",18,32,Medium,2,"15,950",Medium,London SW,1
+SW19,1.05,"47,362","6,841","24,746",32,86,Medium,-,"21,450",Medium,London SW,1
+SW1A,0.82,201,18,92,-,3,Medium,-,"1,033",Medium,London SW,5
+SW1E,0.82,440,53,265,7,4,Medium,-,"1,050",Medium,London SW,5
+SW1H,0.82,565,74,364,-,1,Medium,-,"1,000",Medium,London SW,5
+SW1P,0.86,"9,787","1,333","4,972",4,12,Medium,2,"3,467",Medium,London SW,4
+SW1V,0.88,"17,265","2,217","9,157",7,23,Medium,-,"5,167",Medium,London SW,4
+SW1W,0.86,"6,311",726,"3,304",6,12,Medium,-,"5,267",Medium,London SW,4
+SW1X,0.84,"4,522",543,"2,312",3,13,Medium,1,"2,817",Medium,London SW,5
+SW1Y,0.82,426,52,264,-,13,Medium,3,"1,250",Medium,London SW,5
+SW2,0.99,"40,162","6,386","24,312",10,34,Medium,1,"12,917",Medium,London SW,2
+SW20,0.89,"18,306","2,256","10,421",9,9,Medium,2,"6,367",Medium,London SW,4
+SW3,0.9,"16,287","2,036","7,736",23,23,Medium,-,"10,233",Medium,London SW,3
+SW4,0.96,"29,932","5,052","19,206",16,20,Medium,-,"9,200",High,London SW,2
+SW5,0.87,"12,088","1,817","6,948",2,12,Medium,1,"3,033",Medium,London SW,4
+SW6,1.02,"47,362","7,893","24,746",23,63,Medium,1,"15,700",Medium,London SW,1
+SW7,0.87,"13,390","2,080","7,703",8,28,Medium,3,"4,650",Medium,London SW,4
+SW8,0.96,"27,723","4,936","16,073",18,32,Medium,1,"10,117",High,London SW,2
+SW9,0.99,"32,813","6,233","18,412",11,53,Medium,-,"12,767",High,London SW,2
+SW95,0.81,-,-,-,-,-,Medium,-,-,Medium,London SW,5
+TN11,0.84,"8,170","1,276","2,899",1,3,Low,-,"3,833",Medium,Tonbridge,5
+TN13,0.88,"14,687","1,870","6,673",9,17,Low,1,"7,117",Medium,Tonbridge,4
+TN14,0.85,"9,036","1,252","3,491",5,3,Low,-,"4,367",Medium,Tonbridge,4
+TN15,0.88,"14,463","2,047","5,211",2,14,Low,1,"7,733",Medium,Tonbridge,4
+TN16,0.87,"11,736","1,858","4,572",5,7,Low,-,"7,000",Medium,Tonbridge,4
+TN8,0.85,"7,768","1,094","3,128",3,6,Low,1,"4,867",Medium,Tonbridge,4
+TW1,0.91,"16,209","1,756","9,512",4,48,Low,-,"6,067",High,Twickenham,3
+TW10,0.87,"12,512","1,332","6,096",2,7,Low,1,"4,783",Medium,Twickenham,4
+TW11,0.9,"15,093","1,986","7,281",2,9,Low,2,"5,717",High,Twickenham,3
+TW7,0.95,"24,152","3,979","13,560",2,40,Low,-,"11,967",Medium,Twickenham,2
+TW8,0.9,"13,262","1,984","7,251",5,25,Low,2,"8,400",Medium,Twickenham,3
+TW9,0.87,"14,579","1,447","8,350",12,17,Low,2,"5,383",Medium,Twickenham,4
+UB6,1.01,"31,579","5,871","17,420",2,106,Low,-,"17,783",High,Uxbridge,1
+W14,0.95,"28,234","4,514","17,359",8,40,Low,-,"10,550",Medium,London W,2
+W1A,0.81,-,-,-,3,8,Low,-,-,Medium,London W,5
+W1B,0.82,391,63,193,2,16,Low,1,"1,500",Medium,London W,5
+W1C,0.82,-,-,-,2,6,Low,-,"1,000",Medium,London W,5
+W1D,0.83,"1,279",190,813,1,23,Low,2,"2,100",Medium,London W,5
+W1F,0.82,"1,264",140,686,-,8,Low,-,"1,550",Medium,London W,5
+W1G,0.83,"2,222",238,"1,309",-,25,Low,-,"1,517",Medium,London W,5
+W1H,0.84,"4,725",705,"2,750",2,19,Low,-,"2,317",Medium,London W,5
+W1J,0.83,"1,237",172,727,3,10,Low,-,"2,550",Medium,London W,5
+W1K,0.83,"2,364",331,"1,127",-,15,Low,1,"2,400",Medium,London W,5
+W1S,0.82,128,17,95,-,4,Low,1,"1,433",Medium,London W,5
+W1T,0.84,"2,723",834,"1,389",9,23,Low,-,"3,000",Medium,London W,5
+W1U,0.84,"4,403",637,"2,716",9,25,Low,-,"2,000",Medium,London W,5
+W1W,0.83,"3,156",638,"1,635",2,50,Low,2,"1,450",Medium,London W,5
+W2,0.96,"35,843","5,062","22,093",31,93,Low,4,"10,183",Medium,London W,2
+W3,1.01,"35,322","6,432","20,628",43,96,Low,-,"15,450",Medium,London W,1
+W4,0.95,"30,502","3,733","16,813",12,45,Low,1,"10,500",Medium,London W,2
+W6,0.92,"25,823","4,886","14,817",14,44,Low,1,"7,450",Medium,London W,3
+W8,0.87,"14,020","1,612","7,726",8,17,Low,1,"4,150",Medium,London W,4
+W9,0.93,"27,395","3,438","16,761",3,47,Low,-,"7,733",Medium,London W,3
+W10,0.9,"24,018","3,871","11,884",5,39,Low,1,"6,350",Medium,London W,3
+W11,0.89,"22,842","2,861","11,778",7,33,Low,-,"5,300",Medium,London W,3
+W12,0.98,"34,399","6,074","19,673",17,52,Low,2,"13,250",Medium,London W,2
+W13,0.91,"21,599","3,091","12,209",7,38,Low,-,"8,183",Medium,London W,3
+W5,0.98,"33,030","4,564","19,638",17,61,Low,1,"12,917",Medium,London W,2
+WC1A,0.82,405,170,160,-,5,Low,2,"1,017",Medium,London WC,5
+WC1B,0.82,"1,169",236,644,2,3,Low,-,"1,300",Medium,London WC,5
+WC1E,0.82,"1,309",411,671,-,2,Low,-,"1,267",Medium,London WC,5
+WC1H,0.83,"5,275","1,525","2,243",1,8,Low,-,"1,900",Medium,London WC,5
+WC1N,0.84,"4,979","1,005","2,510",5,58,Low,2,"2,433",Medium,London WC,5
+WC1R,0.82,562,164,227,-,3,Low,-,"1,000",Medium,London WC,5
+WC1V,0.82,515,131,166,2,3,Low,-,"1,000",Medium,London WC,5
+WC1X,0.83,"5,045","1,160","2,464",1,23,Low,1,"1,900",Medium,London WC,5
+WC2A,0.82,-,-,-,-,18,Low,-,"1,267",Medium,London WC,5
+WC2B,0.82,"1,360",231,675,3,21,Low,1,"1,300",Medium,London WC,5
+WC2E,0.82,703,111,343,-,2,Low,19,"1,183",Medium,London WC,5
+WC2H,0.84,"1,974",402,"1,117",2,202,Low,3,"1,917",Medium,London WC,5
+WC2N,0.82,633,145,329,3,7,Low,-,"1,200",Medium,London WC,5
+WC2R,0.82,-,-,-,1,7,Low,-,"1,033",Medium,London WC,5
+WD6,0.97,"23,702","4,075","11,415",11,39,Low,-,"15,167",High,Watford,2
+WD7,0.85,"7,377","1,081","3,048",-,6,Low,1,"4,150",Medium,Watford,4
+CM0,0.89,"9,849","1,383","3,621",1,8,Low,-,"6,433",High,Chelmsford,3
+CM11,0.87,"11,267","1,892","4,612",-,4,Low,-,"6,150",Medium,Chelmsford,4
+CM2,1.01,"36,182","5,801","16,996",14,35,Low,-,"19,833",Medium,Chelmsford,1
+CM77,0.87,"8,954","1,466","4,062",5,9,Low,-,"6,400",Medium,Chelmsford,4
+CM8,0.94,"20,664","3,514","9,356",7,11,Low,-,"13,683",Medium,Chelmsford,2
+CM9,0.95,"20,529","3,101","7,822",10,16,Low,-,"12,317",High,Chelmsford,2
+CM98,0.8,-,-,-,-,-,Low,-,-,Medium,Chelmsford,5
+CM99,0.8,-,-,-,-,-,Low,-,-,Medium,Chelmsford,5
+CO1,0.9,"10,802","2,121","5,568",8,26,Low,2,"7,333",High,Colchester,3
+CO2,0.96,"21,275","4,546","10,121",5,18,Low,1,"15,150",Medium,Colchester,2
+CO3,0.91,"17,508","2,947","6,789",6,11,Low,-,"9,800",Medium,Colchester,3
+CO5,0.93,"17,248","2,478","5,977",3,16,Low,-,"10,267",High,Colchester,3
+CO16,0.9,"15,150","2,402","4,619",2,10,Low,-,"10,533",Medium,Colchester,3
+CT1,0.95,"19,702","7,070","7,779",15,38,Low,3,"11,283",Medium,Canterbury,2
+CT2,0.93,"17,548","6,937","5,306",3,8,Low,2,"8,783",Medium,Canterbury,3
+CT5,0.93,"20,672","2,790","6,886",4,12,Low,1,"10,317",Medium,Canterbury,3
+CT6,0.97,"23,823","3,770","8,389",5,20,Low,-,"13,667",High,Canterbury,2
+ME1,0.94,"19,403","3,612","8,396",4,17,Low,-,"11,750",High,Medway,2
+ME10,0.98,"29,459","5,305","13,202",5,27,Low,-,"19,133",Medium,Medway,2
+ME11,0.82,"2,172",406,817,1,1,Low,-,"1,633",Medium,Medway,5
+ME12,0.96,"22,458","4,090","8,148",2,14,Low,-,"16,367",Medium,Medway,2
+ME16,0.93,"18,911","3,159","8,781",10,13,Low,-,"12,883",Medium,Medway,3
+ME2,0.96,"24,427","4,580","10,820",9,22,Low,-,"16,850",Medium,Medway,2
+ME20,0.89,"12,545","2,181","5,411",7,4,Low,-,"8,400",Medium,Medway,4
+ME3,0.93,"15,822","2,642","6,314",2,5,Low,-,"11,200",High,Medway,3
+ME4,0.93,"18,989","4,160","9,516",6,32,Low,-,"12,550",Medium,Medway,3
+ME5,1,"31,772","6,094","14,066",5,11,Low,-,"19,983",Medium,Medway,2
+ME6,0.86,"6,470","1,175","3,019",1,5,Low,-,"4,383",Medium,Medway,4
+ME7,1.01,"32,496","7,556","14,626",9,44,Low,-,"19,833",Medium,Medway,1
+ME8,0.98,"30,563","5,240","11,702",7,13,Low,-,"17,183",Medium,Medway,2
+ME9,0.89,"12,289","1,890","4,869",3,9,Low,-,"9,650",Medium,Medway,3
+ME99,0.8,-,-,-,-,-,Low,-,-,Medium,Medway,5
+SS0,0.98,"26,983","4,371","12,841",7,33,Low,-,"14,833",Medium,Southend-on-Sea,2
+SS1,0.93,"16,988","2,823","7,191",5,39,Low,1,"10,083",Medium,Southend-on-Sea,3
+SS11,0.87,"10,160","1,624","3,818",2,5,Low,-,"7,050",Medium,Southend-on-Sea,4
+SS12,0.87,"11,119","1,636","5,412",4,5,Low,-,"6,583",Medium,Southend-on-Sea,4
+SS13,0.89,"14,229","2,617","5,908",6,12,Low,-,"9,050",Medium,Southend-on-Sea,4
+SS14,0.91,"16,028","2,945","6,900",3,27,Low,-,"11,450",Medium,Southend-on-Sea,3
+SS15,0.92,"19,500","3,414","8,871",-,8,Low,-,"12,183",Medium,Southend-on-Sea,3
+SS16,0.92,"18,594","3,580","8,246",1,9,Low,-,"12,300",Medium,Southend-on-Sea,3
+SS2,0.96,"23,773","4,022","10,029",6,17,Low,-,"14,267",Medium,Southend-on-Sea,2
+SS22,0.81,-,-,-,-,-,Low,-,-,Medium,Southend-on-Sea,5
+SS3,0.91,"17,669","3,158","7,044",2,9,Low,-,"10,383",Medium,Southend-on-Sea,3
+SS4,0.89,"12,930","2,146","5,193",3,8,Low,-,"8,050",Medium,Southend-on-Sea,4
+SS5,0.91,"12,908","2,094","4,467",4,7,Low,1,"7,717",High,Southend-on-Sea,3
+SS6,0.94,"19,022","2,917","8,032",2,12,Low,-,"11,433",High,Southend-on-Sea,2
+SS7,0.98,"29,905","4,896","10,908",7,30,Low,-,"17,017",Medium,Southend-on-Sea,2
+SS8,0.94,"23,711","4,147","8,801",5,12,Low,-,"14,183",Low,Southend-on-Sea,2
+SS9,0.98,"31,569","4,235","12,846",6,42,Low,-,"16,783",Medium,Southend-on-Sea,2
+SS99,0.81,-,-,-,-,-,Low,-,-,Medium,Southend-on-Sea,5
+CO13,0.85,"7,551",929,"1,888",2,8,Low,-,"3,850",Medium,Colchester,4
+CO14,0.83,"4,356",476,994,5,-,Low,-,"1,917",Medium,Colchester,5
+CO15,0.95,"27,720","4,145","7,783",9,13,Low,-,"15,167",Medium,Colchester,2
+CO12,0.88,"14,044","2,275","4,994",2,6,Low,1,"8,317",Low,Colchester,4
+CT10,0.89,"15,522","2,220","4,780",4,14,Low,2,"7,617",Medium,Canterbury,3
+CT11,0.95,"19,380","3,262","7,529",2,21,Low,1,"12,317",High,Canterbury,2
+CT12,0.9,"11,208","1,798","4,021",2,14,Low,-,"7,417",High,Canterbury,3
+CT7,0.86,"7,436",810,"1,876",2,4,Low,-,"4,050",Medium,Canterbury,4
+CT8,0.83,"4,695",733,"1,644",1,1,Low,-,"2,767",Low,Canterbury,5
+CT9,0.96,"28,059","5,066","10,422",2,38,Low,3,"16,950",Low,Canterbury,2
+CT13,0.83,"5,585",809,"1,696",1,2,Low,1,"2,867",Medium,Canterbury,5
+CT14,0.92,"22,262","3,382","7,423",5,12,Low,4,"12,433",Medium,Canterbury,3
+CT3,0.89,"10,425","1,603","4,058",2,8,Low,-,"6,617",Medium,Canterbury,4
+IP11,0.91,"18,368","2,762","6,198",6,9,Low,-,"10,700",Medium,Ipswich,3
+PL29,0.81,639,62,193,1,-,Low,1,"1,000",Low,Plymouth,5
+PL32,0.82,"2,628",381,988,1,3,Low,-,"1,550",Medium,Plymouth,5
+PL33,0.81,"1,029",155,384,-,-,Low,-,"1,000",Medium,Plymouth,5
+PL34,0.81,"1,124",120,336,-,3,Low,1,"1,000",Low,Plymouth,5
+PL35,0.81,601,58,173,-,1,Low,-,"1,000",Medium,Plymouth,5
+PL27,0.87,"7,495","1,049","2,649",5,3,Low,-,"5,067",Medium,Plymouth,4
+PL28,0.84,"2,765",353,942,-,5,Low,-,"1,933",Medium,Plymouth,5
+PL30,0.86,"6,341",850,"1,964",-,4,Low,-,"3,333",Medium,Plymouth,4
+EX19,0.82,"2,154",249,616,-,1,Low,-,"1,267",Medium,Exeter,5
+EX20,0.88,"12,185","1,781","4,202",5,16,Low,-,"7,667",Medium,Exeter,4
+EX21,0.83,"2,661",372,831,-,4,Low,-,"1,750",Medium,Exeter,5
+EX31,0.94,"15,253","2,229","5,476",3,5,Low,4,"11,650",High,Exeter,2
+EX32,0.91,"14,942","2,670","5,869",1,10,Low,-,"8,700",High,Exeter,3
+EX33,0.86,"6,365",844,"2,233",1,3,Low,-,"3,333",High,Exeter,4
+EX34,0.89,"10,804","1,666","3,588",1,6,Low,-,"6,850",High,Exeter,4
+EX37,0.82,"2,006",288,599,-,1,Low,-,"1,250",Medium,Exeter,5
+EX38,0.84,"5,018",783,"1,793",2,2,Low,1,"2,883",Medium,Exeter,5
+EX22,0.85,"6,397",987,"2,093",5,2,Low,1,"4,233",Medium,Exeter,4
+EX23,0.86,"9,757","1,350","3,141",3,5,Low,-,"6,617",Low,Exeter,4
+EX39,0.95,"23,559","3,392","7,813",4,15,Low,-,"15,233",Medium,Exeter,2
+PL16,0.81,"1,067",146,368,-,-,Low,-,"1,000",Medium,Plymouth,5
+PL15,0.88,"12,104","1,834","4,429",4,12,Low,-,"7,783",Medium,Plymouth,4
+PL17,0.84,"6,165",926,"2,113",-,-,Low,-,"3,650",Low,Plymouth,5
+PL19,0.87,"10,011","1,454","3,193",3,4,Low,1,"5,417",Medium,Plymouth,4
+PL20,0.84,"7,033",908,"2,142",2,2,Low,2,"3,750",Medium,Plymouth,5
+EX1,0.9,"14,052","3,350","5,854",6,11,Low,-,"9,817",Medium,Exeter,3
+EX10,0.86,"10,690","1,092","2,517",2,6,Low,-,"4,783",Medium,Exeter,4
+EX11,0.83,"4,720",595,"1,480",2,-,Low,-,"3,017",Medium,Exeter,5
+EX15,0.89,"12,950","1,982","5,042",4,8,Low,1,"9,000",Medium,Exeter,3
+EX16,0.91,"20,019","2,883","7,377",1,13,Low,2,"11,467",Medium,Exeter,3
+EX2,0.97,"26,303","4,221","11,869",21,24,Low,1,"17,617",Medium,Exeter,2
+EX3,0.82,"3,220",334,990,1,5,Low,-,"1,283",Medium,Exeter,5
+EX4,1,"33,517","8,343","13,589",13,24,Low,4,"18,567",Medium,Exeter,1
+EX5,0.89,"11,295","1,493","3,931",1,5,Low,2,"9,583",Medium,Exeter,3
+EX7,0.85,"7,820","1,075","2,317",3,-,Low,-,"5,600",Medium,Exeter,4
+EX8,0.96,"23,313","3,395","8,162",5,15,Low,-,"15,383",Medium,Exeter,2
+EX9,0.83,"4,192",379,"1,053",1,2,Low,-,"1,483",Medium,Exeter,5
+EX17,0.88,"11,912","1,836","4,292",2,12,Low,-,"6,650",Medium,Exeter,4
+EX18,0.82,"1,923",249,508,-,-,Low,-,"1,133",Medium,Exeter,5
+EX35,0.82,940,75,272,-,1,Low,-,"1,000",Medium,Exeter,5
+EX36,0.85,"5,289",804,"1,757",2,7,Low,-,"3,467",Medium,Exeter,4
+EX6,0.86,"8,399",994,"2,899",-,3,Low,1,"5,033",Medium,Exeter,4
+TA21,0.87,"11,051","1,676","3,958",2,8,Low,-,"7,767",Medium,Taunton,4
+TA22,0.81,"1,668",201,423,1,-,Low,-,"1,083",Low,Taunton,5
+TA23,0.82,"3,598",555,"1,048",2,1,Low,-,"2,033",Medium,Taunton,5
+TA4,0.86,"11,490","1,527","3,825",4,6,Low,-,"6,600",Medium,Taunton,4
+TA24,0.87,"11,296","1,478","2,959",3,6,Low,-,"6,233",Medium,Taunton,4
+TQ12,1.01,"32,627","5,306","11,857",13,25,Low,1,"21,467",Medium,Torquay,1
+TQ13,0.91,"14,253","1,804","4,503",5,17,Low,1,"7,800",High,Torquay,3
+TQ14,0.86,"12,251","1,605","3,518",2,6,Low,1,"6,050",Medium,Torquay,4
+BA16,0.86,"7,615","1,210","2,973",3,2,Low,-,"5,333",Medium,Bath,4
+BA20,0.86,"6,822","1,115","2,897",4,11,Low,1,"4,567",High,Bath,4
+BA21,0.96,"21,270","3,890","9,013",4,7,Low,-,"14,850",High,Bath,2
+BA22,0.92,"10,302","1,493","3,744",1,6,Low,1,"6,700",High,Bath,3
+BA6,0.87,"8,124","1,201","2,696",5,3,Low,2,"4,633",High,Bath,4
+BA7,0.82,"2,175",285,681,1,4,Low,-,"1,483",Medium,Bath,5
+BA10,0.82,"1,997",291,677,-,4,Low,-,"1,200",Medium,Bath,5
+BA4,0.87,"10,912","1,906","4,285",5,7,Low,-,"6,533",Medium,Bath,4
+BA8,0.82,"2,545",367,898,-,-,Low,-,"1,517",Medium,Bath,5
+BA9,0.83,"4,471",665,"1,563",3,3,Low,-,"3,067",Medium,Bath,5
+DT1,0.87,"11,994","1,936","4,200",10,31,Low,2,"7,117",Medium,Dorchester,4
+DT4,0.95,"24,268","3,952","8,704",3,40,Low,-,"15,183",Medium,Dorchester,2
+DT6,0.87,"13,693","1,772","3,730",3,14,Low,-,"6,767",Low,Dorchester,4
+DT7,0.82,"3,519",364,849,1,3,Low,-,"1,817",Low,Dorchester,5
+DT8,0.83,"3,751",487,982,1,3,Low,1,"2,083",Medium,Dorchester,5
+DT10,0.84,"7,240","1,008","2,314",1,11,Low,1,"3,817",Low,Dorchester,5
+DT2,0.89,"15,010","1,827","4,790",1,3,Low,-,"8,783",Medium,Dorchester,3
+DT3,0.88,"14,227","1,937","4,811",7,6,Low,-,"8,967",Medium,Dorchester,4
+DT5,0.84,"7,609","1,230","2,732",3,4,Low,-,"4,200",Low,Dorchester,5
+DT9,0.87,"12,434","1,682","3,535",6,11,Low,2,"6,200",Medium,Dorchester,4
+EX12,0.85,"6,011",619,"1,441",1,6,Low,-,"2,783",Medium,Exeter,4
+EX13,0.86,"7,067",912,"2,142",2,12,Low,-,"4,500",Medium,Exeter,4
+EX14,0.9,"12,950","1,811","4,379",2,8,Low,-,"7,433",Medium,Exeter,3
+EX24,0.84,"2,300",266,582,-,2,Low,-,"1,250",Medium,Exeter,5
+TA10,0.85,"5,638",794,"1,711",-,3,Low,1,"3,533",High,Taunton,4
+TA11,0.84,"5,614",783,"1,679",-,5,Low,-,"2,967",Medium,Taunton,5
+TA12,0.85,"3,928",587,"1,388",1,3,Low,1,"2,450",High,Taunton,4
+TA13,0.81,"2,473",263,814,1,1,Low,-,"1,500",Medium,Taunton,5
+TA14,0.81,"1,839",251,638,1,-,Low,-,"1,233",Low,Taunton,5
+TA15,0.81,506,68,162,-,-,Low,1,"1,000",Low,Taunton,5
+TA16,0.81,"1,188",153,421,1,-,Low,-,"1,000",Medium,Taunton,5
+TA17,0.81,278,15,68,-,-,Low,-,"1,000",Low,Taunton,5
+TA18,0.83,"6,231",887,"2,128",3,6,Low,-,"3,767",Low,Taunton,5
+TA19,0.84,"7,188",989,"2,420",1,1,Low,1,"4,433",Medium,Taunton,5
+TA6,1,"29,316","5,487","12,274",11,18,Low,3,"21,983",Low,Taunton,2
+TA7,0.85,"8,954","1,278","2,793",1,5,Low,1,"5,367",Medium,Taunton,4
+TA1,0.95,"25,359","4,356","9,909",8,29,Low,1,"14,933",Medium,Taunton,2
+TA2,0.91,"16,211","2,785","6,708",7,7,Low,-,"12,083",Medium,Taunton,3
+TA20,0.9,"12,671","1,939","4,441",2,4,Low,1,"8,367",High,Taunton,3
+TA3,0.84,"8,606","1,101","2,552",-,3,Low,-,"4,733",Low,Taunton,4
+TA5,0.85,"6,112",780,"1,903",-,-,Low,-,"5,000",Medium,Taunton,4
+BA12,0.91,"17,683","2,533","6,230",2,11,Low,1,"10,167",Medium,Bath,3
+BH1,0.9,"14,377","2,830","7,332",5,31,Low,2,"10,017",Medium,Bournemouth,3
+BH10,0.87,"12,852","2,278","4,743",5,9,Low,-,"6,683",Medium,Bournemouth,4
+BH11,0.88,"12,923","2,164","5,008",1,4,Low,-,"7,800",Medium,Bournemouth,4
+BH12,0.94,"22,786","3,921","9,806",3,11,Low,-,"12,883",Medium,Bournemouth,2
+BH13,0.82,"5,445",456,"1,524",-,1,Low,-,"1,917",Medium,Bournemouth,5
+BH14,0.88,"15,281","1,896","6,522",7,21,Low,1,"7,683",Medium,Bournemouth,4
+BH15,0.93,"21,303","3,271","8,570",4,17,Low,2,"14,083",Medium,Bournemouth,3
+BH16,0.86,"9,772","1,590","3,654",1,7,Low,-,"5,900",Medium,Bournemouth,4
+BH17,0.89,"14,438","2,418","6,074",3,4,Low,-,"8,783",Medium,Bournemouth,4
+BH18,0.83,"6,571",939,"1,788",1,4,Low,-,"2,900",Medium,Bournemouth,5
+BH19,0.84,"7,271",967,"1,999",1,13,Low,-,"3,550",Low,Bournemouth,5
+BH2,0.85,"6,523","1,185","3,395",1,13,Low,-,"4,950",Medium,Bournemouth,4
+BH20,0.87,"12,270","1,778","4,281",2,10,Low,-,"6,583",Low,Bournemouth,4
+BH21,0.96,"24,536","3,585","7,936",10,17,Low,4,"13,400",High,Bournemouth,2
+BH22,0.9,"16,541","2,115","4,256",3,6,Low,-,"8,117",Medium,Bournemouth,3
+BH3,0.82,"3,696","1,077","1,421",-,1,Low,-,"1,667",Medium,Bournemouth,5
+BH31,0.86,"8,035","1,133","2,945",1,1,Low,1,"4,917",High,Bournemouth,4
+BH4,0.83,"6,773",744,"3,158",1,2,Low,-,"2,800",Medium,Bournemouth,5
+BH5,0.84,"7,960","1,387","4,045",1,2,Low,-,"3,417",Medium,Bournemouth,5
+BH6,0.88,"14,415","1,831","5,658",2,12,Low,-,"6,450",Medium,Bournemouth,4
+BH7,0.85,"7,670","1,310","3,387",3,8,Low,-,"4,983",Medium,Bournemouth,4
+BH8,0.91,"18,397","3,947","8,217",12,29,Low,-,"10,483",Medium,Bournemouth,3
+BH9,0.93,"20,464","7,093","8,149",5,21,Low,-,"11,333",Medium,Bournemouth,3
+BH23,0.97,"33,119","4,389","10,224",10,27,Low,-,"17,967",Low,Bournemouth,2
+BH24,0.88,"14,309","1,888","4,328",7,19,Low,-,"8,167",Low,Bournemouth,4
+DT11,0.9,"17,326","2,452","6,653",4,9,Low,1,"10,133",Low,Dorchester,3
+SO43,0.83,"2,695",296,814,-,-,Low,-,"1,417",High,Southampton,5
+SP1,0.88,"13,595","1,943","5,126",9,13,Low,2,"6,750",Medium,Salisbury,4
+SP2,0.91,"18,957","2,940","7,962",7,13,Low,-,"9,933",Medium,Salisbury,3
+SP7,0.85,"7,972","1,099","2,696",1,4,Low,1,"4,883",Medium,Salisbury,4
+SP8,0.85,"8,998","1,330","3,392",7,7,Low,-,"5,017",Medium,Salisbury,4
+SP5,0.88,"13,241","1,732","4,296",1,7,Low,1,"6,750",Medium,Salisbury,4
+SP6,0.84,"8,498","1,141","2,724",2,3,Low,-,"4,467",Low,Salisbury,5
+BH25,0.9,"16,248","2,018","4,438",2,10,Low,-,"7,950",Medium,Bournemouth,3
+GU32,0.89,"7,231","1,056","2,766",2,10,Low,-,"3,333",High,Guildford,4
+GU34,1,"18,108","2,755","6,737",21,11,Low,-,"11,250",High,Guildford,2
+PO1,0.92,"19,165","4,688","8,195",4,26,Low,1,"11,617",Medium,Portsmouth,3
+PO12,0.99,"30,964","5,333","12,569",12,19,Low,1,"18,900",Low,Portsmouth,2
+PO13,0.94,"21,611","3,582","9,027",4,11,Low,-,"13,450",Medium,Portsmouth,2
+PO14,0.94,"19,675","3,154","7,274",3,5,Low,-,"10,633",High,Portsmouth,3
+PO15,0.96,"14,086","2,191","6,523",5,8,Low,-,"8,317",High,Portsmouth,2
+PO16,0.93,"20,354","3,213","7,488",5,10,Low,-,"11,133",High,Portsmouth,3
+PO17,0.89,"3,883",524,"1,701",1,6,Low,-,"2,917",High,Portsmouth,3
+PO2,0.96,"27,491","5,053","12,972",3,25,Low,-,"15,600",Medium,Portsmouth,2
+PO3,0.88,"12,116","2,244","5,330",4,4,Low,1,"7,683",Medium,Portsmouth,4
+PO30,0.93,"18,151","3,076","6,778",3,12,Low,2,"13,117",Medium,Portsmouth,3
+PO31,0.85,"9,234","1,279","3,506",5,6,Low,-,"4,883",Low,Portsmouth,4
+PO32,0.83,"5,104",785,"1,907",2,-,Low,-,"3,333",Low,Portsmouth,5
+PO33,0.91,"19,937","3,012","7,030",3,11,Low,-,"11,133",Medium,Portsmouth,3
+PO34,0.81,"1,369",105,266,-,-,Low,-,"1,000",Low,Portsmouth,5
+PO35,0.81,"2,234",200,517,1,1,Low,-,"1,200",Low,Portsmouth,5
+PO36,0.86,"10,706","1,622","3,281",6,1,Low,-,"5,333",Low,Portsmouth,4
+PO37,0.83,"5,756",897,"1,683",2,4,Low,-,"3,000",Medium,Portsmouth,5
+PO38,0.84,"8,008","1,044","2,221",2,3,Low,-,"3,633",Low,Portsmouth,5
+PO39,0.81,"1,601",193,429,-,2,Low,-,"1,000",Low,Portsmouth,5
+PO4,0.99,"29,519","8,343","12,292",9,7,Low,3,"15,217",Medium,Portsmouth,2
+PO40,0.82,"3,524",442,842,2,2,Low,-,"1,683",Medium,Portsmouth,5
+PO41,0.81,"1,275",119,286,-,2,Low,-,"1,017",Low,Portsmouth,5
+PO5,0.92,"21,192","7,710","8,760",4,29,Low,2,"8,983",Low,Portsmouth,3
+PO6,0.96,"25,405","4,481","10,185",6,23,Low,1,"17,167",Low,Portsmouth,2
+PO11,0.87,"10,922","1,428","3,094",2,8,Low,-,"6,267",Medium,Portsmouth,4
+PO7,1.02,"24,780","4,198","9,177",10,18,Low,-,"16,017",High,Portsmouth,1
+PO8,0.98,"20,546","3,498","7,378",3,20,Low,-,"12,150",High,Portsmouth,2
+PO9,1,"30,691","5,665","11,732",6,20,Low,-,"19,667",Medium,Portsmouth,2
+RG21,0.91,"17,647","3,050","9,201",5,21,Low,3,"10,900",Medium,Reading,3
+RG22,0.96,"26,122","4,290","12,418",5,13,Low,-,"15,900",Medium,Reading,2
+RG23,0.85,"7,487","1,149","2,894",3,3,Low,-,"4,833",Low,Reading,4
+RG28,0.83,"3,555",474,"1,472",1,-,Low,1,"1,983",Medium,Reading,5
+SO14,0.94,"17,666","6,220","9,442",5,60,Low,1,"12,417",Medium,Southampton,2
+SO15,1,"28,578","8,131","14,295",14,37,Low,1,"16,267",Medium,Southampton,2
+SO16,1.08,"41,145","7,874","18,019",4,30,Low,-,"25,494",Medium,Southampton,1
+SO17,0.88,"13,058","6,794","5,153",5,7,Low,2,"5,450",Low,Southampton,4
+SO18,0.95,"23,058","3,963","10,079",3,8,Low,-,"13,233",Medium,Southampton,2
+SO19,1.02,"36,374","6,347","15,818",12,22,Low,-,"19,817",Medium,Southampton,1
+SO20,0.87,"4,718",599,"1,791",1,5,Low,-,"2,250",High,Southampton,4
+SO21,0.92,"11,363","1,425","4,541",4,9,Low,1,"6,150",High,Southampton,3
+SO22,0.94,"16,461","4,115","6,254",19,5,Low,-,"8,667",High,Southampton,2
+SO23,0.92,"13,840","2,406","5,835",6,22,Low,2,"6,200",High,Southampton,3
+SO24,0.91,"6,753",885,"2,216",1,8,Low,-,"3,317",High,Southampton,3
+SO25,0.83,-,-,-,-,-,Low,-,-,High,Southampton,5
+SO30,0.94,"19,688","3,199","8,475",7,7,Low,-,"11,683",High,Southampton,3
+SO31,1.05,"27,441","4,339","11,034",12,7,Low,-,"16,833",High,Southampton,1
+SO32,0.94,"11,768","1,666","4,032",2,10,Low,-,"8,567",High,Southampton,2
+SO40,0.98,"25,857","4,175","10,658",3,10,Low,-,"14,383",High,Southampton,2
+SO41,0.91,"19,818","2,296","5,613",7,13,Low,2,"9,800",Medium,Southampton,3
+SO42,0.82,"3,125",389,885,-,3,Low,-,"1,633",Low,Southampton,5
+SO45,0.92,"21,780","3,484","7,524",7,6,Low,-,"11,983",Medium,Southampton,3
+SO50,1.04,"29,091","5,433","12,873",7,30,Low,-,"19,433",High,Southampton,1
+SO51,0.94,"16,201","2,348","5,314",10,17,Low,1,"9,333",High,Southampton,2
+SO52,0.84,"4,327",585,"1,594",2,1,Low,-,"2,133",Medium,Southampton,5
+SO53,0.95,"19,626","3,026","7,930",9,23,Low,1,"9,550",High,Southampton,2
+SO97,0.81,-,-,-,-,-,Low,-,-,Medium,Southampton,5
+SP10,0.96,"25,484","4,428","11,040",17,18,Low,1,"14,967",Medium,Salisbury,2
+SP11,0.9,"13,647","1,894","5,473",2,7,Low,-,"13,183",Medium,Salisbury,3
+BN11,0.94,"22,607","3,186","9,944",8,38,Low,-,"11,517",High,Brighton,2
+BN12,0.87,"12,823","1,571","3,707",5,10,Low,-,"7,417",Low,Brighton,4
+BN13,0.93,"17,390","2,602","6,646",3,8,Low,-,"10,800",High,Brighton,3
+BN14,0.91,"19,318","2,939","7,831",5,24,Low,1,"10,633",Medium,Brighton,3
+BN16,0.9,"17,865","2,011","5,278",7,5,Low,-,"9,033",Medium,Brighton,3
+BN17,0.94,"18,162","2,957","7,084",3,13,Low,-,"12,600",High,Brighton,2
+BN18,0.87,"8,057",997,"2,731",2,6,Low,2,"4,783",High,Brighton,4
+BN99,0.8,-,-,-,-,-,Low,-,-,Low,Brighton,5
+GU26,0.84,"4,227",500,"1,572",2,4,Low,-,"2,267",Medium,Guildford,5
+GU27,0.87,"10,603","1,296","4,369",2,7,Low,-,"4,833",Medium,Guildford,4
+GU28,0.84,"4,027",504,"1,334",2,3,Low,2,"1,883",Medium,Guildford,5
+GU29,0.85,"5,811",759,"1,775",3,5,Low,-,"3,200",Medium,Guildford,4
+GU30,0.86,"5,553",817,"1,935",3,7,Low,-,"3,400",High,Guildford,4
+GU31,0.86,"6,882",902,"2,347",2,3,Low,1,"3,450",Medium,Guildford,4
+GU33,0.83,"4,938",650,"1,785",-,-,Low,-,"2,467",Medium,Guildford,5
+GU35,0.9,"13,834","2,340","5,972",-,9,Low,-,"8,267",Medium,Guildford,3
+GU5,0.84,"6,579",805,"2,326",-,5,Low,1,"2,617",Medium,Guildford,5
+GU6,0.85,"8,459","1,096","2,814",5,5,Low,-,"4,950",Medium,Guildford,4
+GU7,0.88,"13,735","1,720","6,512",6,16,Low,-,"7,283",Medium,Guildford,4
+GU8,0.87,"10,258","1,273","3,787",-,7,Low,1,"4,500",Medium,Guildford,4
+GU9,0.91,"18,376","2,878","7,655",9,11,Low,-,"9,083",High,Guildford,3
+PO10,0.87,"11,100","1,288","3,818",5,2,Low,-,"6,250",Medium,Portsmouth,4
+PO18,0.86,"7,929",984,"2,542",2,6,Low,-,"4,550",Medium,Portsmouth,4
+PO19,0.93,"19,988","4,162","7,231",12,10,Low,2,"12,033",Medium,Portsmouth,3
+PO20,0.92,"19,846","2,670","6,161",4,23,Low,-,"11,950",Medium,Portsmouth,3
+PO21,0.94,"25,283","3,791","9,160",5,24,Low,-,"14,950",Low,Portsmouth,2
+PO22,0.91,"17,956","2,635","5,921",2,31,Low,-,"10,850",Low,Portsmouth,3
+RH14,0.88,"8,514","1,070","3,290",2,4,Low,-,"5,567",High,Redhill,4
+RH20,0.91,"15,177","1,873","4,754",7,8,Low,1,"8,033",High,Redhill,3
+BN1,1.09,"47,362","8,343","24,746",28,127,Low,14,"25,978",Medium,Brighton,1
+BN10,0.87,"11,949","1,851","4,380",2,4,Low,-,"7,017",Low,Brighton,4
+BN2,1.09,"47,362","8,343","24,746",15,52,Low,3,"28,684",Medium,Brighton,1
+BN20,0.86,"13,108","1,592","3,785",5,2,Low,-,"5,517",Medium,Brighton,4
+BN21,0.9,"17,678","2,933","6,723",9,81,Low,2,"9,550",Medium,Brighton,3
+BN22,0.92,"20,984","3,621","8,073",6,22,Low,-,"11,900",Medium,Brighton,3
+BN23,0.9,"18,255","2,943","6,865",2,8,Low,-,"10,267",Medium,Brighton,3
+BN25,0.89,"14,832","2,005","4,321",3,8,Low,2,"7,333",Medium,Brighton,3
+BN26,0.84,"7,290",749,"2,212",3,16,Low,1,"3,967",Low,Brighton,5
+BN3,1.07,"47,362","7,537","24,746",18,121,Low,1,"24,578",Medium,Brighton,1
+BN41,0.89,"13,455","2,233","5,972",5,18,Low,-,"7,583",Medium,Brighton,3
+BN42,0.86,"6,416","1,015","2,376",1,10,Low,-,"3,900",High,Brighton,4
+BN43,0.91,"14,461","1,940","5,817",5,9,Low,-,"7,750",High,Brighton,3
+BN45,0.81,411,42,163,1,1,Low,-,"1,000",Low,Brighton,5
+BN5,0.84,"4,346",591,"1,357",-,6,Low,-,"2,617",Medium,Brighton,5
+BN50,0.8,-,-,-,-,-,Low,-,-,Medium,Brighton,5
+BN51,0.8,-,-,-,-,-,Low,-,-,Low,Brighton,5
+BN52,0.8,-,-,-,-,-,Low,-,-,Medium,Brighton,5
+BN6,0.87,"10,600","1,373","3,767",3,16,Low,1,"6,133",Medium,Brighton,4
+BN7,0.86,"13,375","1,877","4,854",5,9,Low,1,"5,017",Low,Brighton,4
+BN8,0.88,"9,805","1,380","3,386",-,10,Low,1,"5,117",High,Brighton,4
+BN88,0.8,-,-,-,-,-,Low,-,-,Medium,Brighton,5
+BN9,0.85,"8,750","1,459","3,408",3,7,Low,-,"5,250",Medium,Brighton,4
+BN15,0.9,"17,418","2,443","6,327",2,16,Low,-,"9,583",Medium,Brighton,3
+BN24,0.84,"5,777",703,"1,886",1,8,Low,-,"4,183",Low,Brighton,5
+BN27,0.91,"16,262","2,459","5,538",2,27,Low,-,"11,850",Medium,Brighton,3
+BN44,0.84,"6,232",892,"1,979",1,1,Low,-,"2,983",Medium,Brighton,5
+RH10,1.07,"41,086","6,546","19,581",13,49,Low,-,"27,867",Medium,Redhill,1
+RH11,1.04,"35,318","6,396","17,910",4,26,Low,-,"22,883",Medium,Redhill,1
+RH15,0.92,"19,094","2,958","8,475",6,15,Low,-,"12,217",Medium,Redhill,3
+RH16,0.92,"21,098","2,809","9,692",11,13,Low,-,"12,250",Medium,Redhill,3
+RH17,0.87,"11,166","1,530","4,053",1,5,Low,-,"5,767",Medium,Redhill,4
+RH18,0.82,"2,841",426,897,1,3,Low,-,"1,383",Low,Redhill,5
+RH19,0.91,"20,544","3,159","8,301",9,17,Low,-,"11,333",Low,Redhill,3
+RH6,0.95,"18,198","2,995","8,055",14,10,Low,1,"17,533",Medium,Redhill,2
+RH7,0.83,"5,375",721,"2,044",1,5,Low,-,"2,900",Medium,Redhill,5
+RH77,0.8,-,-,-,-,-,Low,-,-,Low,Redhill,5
+RH12,0.98,"26,964","3,921","11,386",10,26,Low,1,"17,650",Medium,Redhill,2
+RH13,0.95,"22,618","3,458","9,363",5,10,Low,-,"13,317",Medium,Redhill,2
+RH4,0.85,"9,745","1,350","4,132",6,14,Low,2,"4,550",Low,Redhill,4
+TN1,0.84,"7,903","1,163","4,810",3,19,Low,1,"3,950",Low,Tonbridge,5
+TN10,0.85,"9,922","1,560","3,447",2,3,Low,-,"4,700",Low,Tonbridge,4
+TN2,0.89,"17,497","2,401","7,533",6,9,Low,1,"8,750",Low,Tonbridge,4
+TN20,0.81,"2,238",274,663,-,3,Low,1,"1,167",Low,Tonbridge,5
+TN22,0.92,"15,899","2,428","5,941",3,10,Low,2,"9,250",High,Tonbridge,3
+TN4,0.9,"20,005","3,160","9,284",2,14,Low,1,"9,617",Low,Tonbridge,3
+TN6,0.88,"14,563","2,229","5,274",7,7,Low,-,"7,733",Medium,Tonbridge,4
+TN7,0.81,"1,324",165,428,-,1,Low,-,"1,000",Low,Tonbridge,5
+TN9,0.87,"11,156","1,993","5,216",9,13,Low,-,"6,450",Low,Tonbridge,4
+TN12,0.91,"17,603","2,715","6,843",4,6,Low,-,"10,500",Medium,Tonbridge,3
+TN19,0.81,"2,983",384,"1,014",-,-,Low,1,"1,433",Low,Tonbridge,5
+TN21,0.85,"9,745","1,503","3,274",7,5,Low,-,"5,333",Low,Tonbridge,4
+TN3,0.83,"6,820",924,"2,407",-,12,Low,2,"2,733",Medium,Tonbridge,5
+TN32,0.82,"2,990",423,951,-,3,Low,2,"1,633",Low,Tonbridge,5
+TN33,0.84,"7,649","1,098","2,300",1,9,Low,-,"4,483",Medium,Tonbridge,5
+TN5,0.82,"5,220",748,"1,736",1,4,Low,-,"2,317",Medium,Tonbridge,5
+CT18,0.86,"8,356","1,303","3,356",-,2,Low,-,"5,367",Medium,Canterbury,4
+CT21,0.85,"10,817","1,349","3,201",8,7,Low,-,"4,783",Low,Canterbury,4
+CT4,0.88,"9,999","1,434","3,516",-,6,Low,-,"5,433",Medium,Canterbury,4
+ME13,0.92,"17,292","2,656","6,704",6,16,Low,1,"10,317",Medium,Medway,3
+ME14,0.93,"19,402","3,075","8,702",3,38,Low,1,"12,333",Medium,Medway,3
+ME15,0.99,"29,761","5,343","12,618",8,21,Low,-,"18,450",Medium,Medway,2
+ME17,0.89,"13,403","1,994","5,139",5,9,Low,1,"9,833",Medium,Medway,3
+TN17,0.85,"8,283","1,277","2,676",2,4,Low,-,"4,050",Medium,Tonbridge,4
+TN18,0.82,"3,999",634,"1,419",3,2,Low,-,"1,950",Medium,Tonbridge,5
+TN23,0.96,"24,500","4,890","12,098",5,19,Low,-,"16,417",Medium,Tonbridge,2
+TN24,0.95,"19,553","3,429","8,558",7,20,Low,-,"16,217",Medium,Tonbridge,2
+TN25,0.88,"9,364","1,291","3,564",2,8,Low,-,"6,117",Medium,Tonbridge,4
+TN26,0.84,"6,637",942,"2,166",-,4,Low,-,"3,600",Medium,Tonbridge,5
+TN27,0.86,"7,541",954,"2,469",2,14,Low,-,"4,400",Medium,Tonbridge,4
+TN28,0.84,"5,209",816,"1,533",2,3,Low,-,"3,383",Medium,Tonbridge,4
+TN29,0.86,"8,500","1,217","2,507",-,2,Low,-,"4,733",Medium,Tonbridge,4
+TN30,0.83,"5,760",762,"1,611",3,5,Low,1,"2,933",Medium,Tonbridge,5
+TN31,0.84,"8,531","1,112","2,415",-,15,Low,-,"4,200",Medium,Tonbridge,5
+TN34,0.91,"19,905","3,199","7,356",3,28,Low,3,"10,383",Medium,Tonbridge,3
+TN35,0.86,"10,830","1,851","3,720",3,4,Low,-,"6,067",Medium,Tonbridge,4
+TN36,0.81,"1,516",150,343,1,1,Low,-,"1,000",Low,Tonbridge,5
+TN37,0.88,"13,811","2,525","5,412",6,10,Low,-,"7,717",Medium,Tonbridge,4
+TN38,0.9,"18,807","3,157","7,520",3,8,Low,-,"9,250",Medium,Tonbridge,3
+TN39,0.88,"16,299","2,018","4,334",2,17,Low,-,"7,650",Low,Tonbridge,4
+TN40,0.86,"11,279","1,493","3,430",3,12,Low,-,"6,250",Medium,Tonbridge,4
+CT15,0.84,"7,731","1,114","2,748",1,1,Low,2,"4,117",Medium,Canterbury,5
+CT16,0.89,"12,612","2,229","4,841",6,14,Low,-,"8,333",Medium,Canterbury,3
+CT17,0.9,"14,112","2,419","6,055",1,4,Low,1,"8,533",Medium,Canterbury,3
+CT19,0.9,"18,156","3,535","7,156",3,13,Low,-,"9,867",Medium,Canterbury,3
+CT20,0.89,"15,532","2,623","6,302",3,10,Low,1,"8,883",Medium,Canterbury,4
+CT50,0.8,-,-,-,-,-,Low,-,-,Medium,Canterbury,5
+TR21,0.81,"1,057",77,389,1,-,Low,-,"1,033",Low,Truro,5
+TR22,0.81,102,12,42,-,-,Low,-,"1,000",Low,Truro,5
+TR23,0.81,-,-,-,-,-,Low,-,"1,000",Low,Truro,5
+TR24,0.81,122,25,74,-,-,Low,-,"1,000",Low,Truro,5
+TR25,0.81,80,12,37,-,1,Low,-,"1,000",Low,Truro,5
+TR13,0.87,"12,359","1,855","4,831",3,8,Low,-,"7,950",Low,Truro,4
+TR14,0.91,"15,701","2,576","5,818",3,3,Low,-,"10,983",Medium,Truro,3
+TR15,0.89,"12,774","2,112","5,176",6,13,Low,-,"9,650",Low,Truro,4
+TR17,0.81,934,96,242,-,-,Low,1,"1,000",Medium,Truro,5
+TR18,0.87,"13,258","1,825","4,352",7,4,Low,1,"6,817",Low,Truro,4
+TR19,0.83,"5,738",661,"1,689",1,-,Low,-,"3,067",Low,Truro,5
+TR20,0.83,"5,710",702,"1,749",-,-,Low,-,"3,083",Low,Truro,5
+TR26,0.84,"7,377",941,"2,310",3,7,Low,-,"3,817",Medium,Truro,4
+TR27,0.86,"9,084","1,298","3,343",1,4,Low,-,"6,300",Low,Truro,4
+PL22,0.84,"2,261",304,699,1,3,Low,1,"1,400",Medium,Plymouth,5
+PL23,0.82,"2,192",231,619,-,1,Low,-,"1,283",Medium,Plymouth,5
+PL24,0.86,"6,234",982,"2,246",2,4,Low,1,"4,083",Medium,Plymouth,4
+PL25,0.93,"15,890","2,620","5,777",4,12,Low,1,"10,433",High,Plymouth,3
+PL26,0.94,"16,236","2,553","6,102",2,9,Low,-,"11,750",High,Plymouth,3
+PL31,0.87,"9,289","1,588","3,744",6,9,Low,-,"6,933",Medium,Plymouth,4
+PL13,0.86,"5,987",679,"1,699",2,8,Low,-,"3,517",Medium,Plymouth,4
+PL14,0.92,"14,434","2,199","5,017",5,9,Low,3,"9,417",High,Plymouth,3
+TR1,0.91,"13,553","2,224","5,323",7,21,Low,1,"9,283",High,Truro,3
+TR2,0.85,"5,909",731,"1,909",1,2,Low,-,"3,300",High,Truro,4
+TR7,0.91,"12,977","1,974","5,540",7,14,Low,-,"10,583",Medium,Truro,3
+TR8,0.86,"4,787",656,"1,789",-,5,Low,-,"5,367",Medium,Truro,4
+TR9,0.83,"5,039",870,"2,153",3,2,Low,-,"3,583",Low,Truro,5
+TR10,0.87,"6,541","1,531","2,576",-,6,Low,-,"4,017",High,Truro,4
+TR11,0.91,"18,983","4,855","6,080",3,19,Low,1,"11,133",Low,Truro,3
+TR12,0.83,"5,492",704,"1,618",1,4,Low,-,"3,817",Low,Truro,5
+TR16,0.86,"8,797","1,241","3,250",-,7,Low,-,"6,583",Medium,Truro,4
+TR3,0.86,"7,674","1,050","2,338",1,3,Low,1,"4,300",High,Truro,4
+TR4,0.86,"6,914",972,"2,643",-,8,Low,-,"5,183",Medium,Truro,4
+TR5,0.83,"2,507",313,930,-,2,Low,-,"1,333",Medium,Truro,5
+TR6,0.83,"2,334",269,873,2,1,Low,-,"1,567",Medium,Truro,5
+PL1,0.94,"16,170","3,707","6,903",9,41,Low,2,"10,917",Medium,Plymouth,3
+PL10,0.81,"2,313",267,729,1,1,Low,2,"1,100",Low,Plymouth,5
+PL11,0.86,"6,543",983,"2,203",3,2,Low,-,"4,150",Medium,Plymouth,4
+PL12,0.88,"13,512","1,998","4,956",2,13,Low,1,"7,900",Medium,Plymouth,4
+PL18,0.83,"2,992",424,890,-,-,Low,-,"1,900",Medium,Plymouth,5
+PL2,0.94,"20,558","3,758","9,054",4,11,Low,-,"13,550",Medium,Plymouth,2
+PL21,0.88,"10,494","1,722","3,795",4,9,Low,-,"7,133",Medium,Plymouth,4
+PL3,0.92,"19,477","3,459","8,371",7,5,Low,-,"10,633",Medium,Plymouth,3
+PL4,0.97,"23,876","8,343","9,935",12,38,Low,1,"14,283",Medium,Plymouth,2
+PL5,0.98,"27,652","5,037","11,295",4,14,Low,-,"17,000",Medium,Plymouth,2
+PL6,0.98,"25,040","3,948","9,627",9,5,Low,-,"18,650",Medium,Plymouth,2
+PL7,0.92,"19,067","3,107","7,808",3,7,Low,1,"11,183",Medium,Plymouth,3
+PL8,0.85,"3,510",373,"1,007",1,2,Low,-,"2,467",High,Plymouth,4
+PL9,0.91,"17,165","2,396","5,968",3,4,Low,-,"10,717",Medium,Plymouth,3
+PL95,0.81,-,-,-,-,-,Low,-,-,Medium,Plymouth,5
+TQ10,0.82,"2,481",381,743,1,1,Low,-,"1,400",Medium,Torquay,5
+TQ11,0.82,"2,618",326,924,1,12,Low,-,"1,333",Medium,Torquay,5
+TQ7,0.87,"10,416","1,281","2,788",2,8,Low,1,"5,600",Medium,Torquay,4
+TQ8,0.83,"1,336",142,307,1,3,Low,-,"1,000",Medium,Torquay,5
+TQ9,0.86,"11,115","1,494","3,424",1,12,Low,2,"5,767",Medium,Torquay,4
+TQ1,0.91,"21,057","3,097","7,322",7,18,Low,-,"11,017",Low,Torquay,3
+TQ2,0.93,"21,458","3,493","8,049",7,21,Low,1,"14,083",Low,Torquay,3
+TQ3,0.92,"19,246","2,856","6,651",2,9,Low,1,"11,433",Medium,Torquay,3
+TQ4,0.87,"11,863","1,619","3,487",6,31,Low,-,"7,650",Low,Torquay,4
+TQ5,0.89,"12,341","1,639","3,322",5,7,Low,1,"6,267",High,Torquay,4
+TQ6,0.83,"5,203",608,"1,380",2,3,Low,4,"2,517",Low,Torquay,5
