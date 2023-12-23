@@ -13,9 +13,20 @@ V.2 of Scrolls aims to enhance the efficiency and usability of the existing scri
 - **Custom Shapefiles:** Add custom shapefiles for client-specific geographies.
 - **In-house Image Scaling:** Utilize Python image processing libraries for image re-scaling.
 
-## Getting Started
+## Prerequisites
+- Python 3.x
+- Jupyter Notebooks
+- Required Python Modules:
+  - Selenium
+  - Pandas
+  - Geopandas
+  - Numpy
+  - Shapely
+  - Pillow
+  - Matplotlib
+    
 ### Setting up shapefiles
-The new version of scrolls supports multiple country analysis and also utilises selenium web-driver to interact with Chrome and automate the generation of Scroll-2 and Scroll-3. It is important that processed shapefiles for the scrolls script are stored in `./dependencies/shapefiles/`. 
+The new version of scrolls supports multiple country analysis. It is important that processed shapefiles for the scrolls script are stored in `./dependencies/shapefiles/`. 
 
 Shapefiles for each country are to be stored within relevantly named folders. An example of shapefiles for UK at district sector and area level has has been shown below:
 `./dependencies/shapefiles/GB/districts.shp`
@@ -24,29 +35,35 @@ Shapefiles for each country are to be stored within relevantly named folders. An
 
 Please use this link to find a list of pre-processed shapefiles that can be downloaded and unzipped into your folders: https://drive.google.com/drive/u/0/folders/1BQ1czoPRgEMQyrunWNhTpanhS0oSLQ6Q
 
-### Setting up client data
-
 ### Setting up selenium web driver for chrome
+With the introduction of direct integration between Python code and HTML & JavaScript code it is important that selenium web-driver for chrome is downloaded and stored in the `./dependencies/chrome_driver` folder.
 
-### Prerequisites
-- Python 3.x
-- Jupyter Notebooks
-- Required Python Modules:
-  -- Selenium
-  -- Pandas
-  -- Geopandas
-  -- Numpy
-  -- Shapely
-  -- Pillow
-  -- Matplotlib
+Please use the following links to find the chrome driver relevant to the version of Chrome you're device is currently running: https://chromedriver.chromium.org/downloads
 
-### Installation
+## Getting Started
+### Setting up client data
+The Scrolls script currently requires the processed client data to be provided to it so that it can generate 3 high quality scrolls based on the file provided. The processed client file should have all required columns in lower case only. A list of required columns that each processed client file should have, are shown below:
+  - geo_level (e.g. district), this needs to match the column name from the shapefile
+  - geo_label (e.g. district name/ area name),
+  - bid multiplier (e.g. 0.83)
+  - tier (string column that should contain tiers 1-5. e.g. Tier - 1)
 
-1. Clone the repository: `git clone https://github.com/yourusername/scrolls-upgrade.git`
-2. Install required libraries: `pip install -r requirements.txt`
-3. Open the Jupyter Notebook: `jupyter notebook`
+ NOTE: Please make sure that all column values are appropriately formatted, in the case of numbers please use commas as seperators as well as the relevant currency symbols if necessary.
+
+ Once the above criteria is meet and the client data file is ready, please ensure its stored in `./client_data`
 
 ## Usage
+1. Open the `main.ipynb` notebook.
+2. Provide the required parameters in the first cell 
 
-1. Open the `scrolls_upgrade.ipynb` notebook.
-2. Follow the instructions in the notebook to generate custom business proposal banners.
+Required params:
+  - country
+  - geo_level
+  - geo_label
+  - dimensions_width_cm
+  - dimensions_height_cm
+  - client_data_filepath
+  - client_name
+  - chrome_driver_filepath
+
+3. Run each cell of the jupyter notebook. There are 3 individual cells, each dedicated for 1/3 scrolls. It is important that these cells are ran in the right order from top to bottom, to avoid dependency related issues occuring.
